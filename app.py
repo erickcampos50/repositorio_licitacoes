@@ -8,7 +8,8 @@ from urllib.parse import quote_plus
 API_URL = "https://pncp.gov.br/api/search/"
 PNCP_URL = "https://pncp.gov.br/app/editais?"
 
-st.title("Repositório nacional de contratações públicas (EM FASE DE TESTES)")
+st.title("Repositório nacional de contratações públicas")
+st.caption("(EM FASE DE TESTES)")
 
 # Criação de campos de entrada para os parâmetros da busca
 query = st.text_input("Digite os termos para buscar no Portal Nacional de Compras Públicas")
@@ -78,11 +79,21 @@ pesquisa_url = (
 )
 
 # Exibindo a URL
-st.markdown(f"Para pesquisar no site oficial do PNCP [Clique aqui]({pesquisa_url})", unsafe_allow_html=True)
+st.markdown(f"###### Para pesquisar no site oficial do PNCP [Clique aqui]({pesquisa_url})", unsafe_allow_html=True)
+
+# Botão de Busca Detalhada
+with st.expander("Entenda a *Busca Detalhada*"):
+    st.write("Acesse a Busca Detalhada para uma análise profunda das contratações públicas. Além de todos os dados básicos, esta busca expande suas informações incluindo detalhes de todos os arquivos relacionados à contratação, como documentos e registros oficiais, e um descritivo completo dos itens contratados. Apesar do maior tempo de execução, essa versão da busca permite uma visão mais clara e completa do processo evitando que tenha que clcar em multiplos links e abas para ter acesso a esses dados.")
+    
+# Botão de Busca Simples
+with st.expander("Entenda a *Busca Rápida*"):
+    st.write("Utilize a Busca Rápida para verificar rapidamente os dados básicos das contratações públicas disponíveis no PNCP. Este botão proporciona uma visão geral e rápida, sendo necessário acessar o PNCP para maiores informações.")
+    
+
 
 
 # Consulta principal
-if st.button("Busca completa"):
+if st.button("Busca detalhada"):
     params = {
         "q": query,
         "tipos_documento": "edital",
@@ -138,8 +149,9 @@ if st.button("Busca completa"):
             st.write("Nenhum resultado encontrado.")
     else:
         st.write("Erro na requisição à API.")
-# Consulta principal
-if st.button("Busca simples"):
+
+# Consulta 2
+if st.button("Busca rápida"):
     params = {
         "q": query,
         "tipos_documento": "edital",
