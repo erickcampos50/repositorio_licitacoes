@@ -1,15 +1,17 @@
 import streamlit as st
 import requests
 import pandas as pd
+from urllib.parse import quote_plus
 
 
 # URL base da API
 API_URL = "https://pncp.gov.br/api/search/"
+PNCP_URL = "https://pncp.gov.br/app/editais?"
 
-st.title("Repositório nacional de obras públicas")
+st.title("Repositório nacional de contratações públicas (EM FASE DE TESTES)")
 
 # Criação de campos de entrada para os parâmetros da busca
-query = st.text_input("Palavra-chave", "galpão")
+query = st.text_input("Digite os termos para buscar no Portal Nacional de Compras Públicas")
 # tipos_documento = st.selectbox("Tipo de Documento", ["edital"], index=0)
 # ordenacao = st.selectbox("Ordenação", ["-relevancia", "relevancia"], index=0)
 tam_pagina = st.number_input("Resultados exibidos por página", min_value=1, max_value=100, value=50)
@@ -39,34 +41,6 @@ esfera_valores = {"Federal": "F", "Estadual": "E", "Municipal": "M"}
 esfera_selecionada = st.selectbox("Esfera", esfera_nomes)
 esfera_id = esfera_valores[esfera_selecionada]
 
-# if st.button("Buscar"):
-#     params = {
-#         "q": query,
-#         "tipos_documento": tipos_documento,
-#         "ordenacao": ordenacao,
-#         "pagina": pagina,
-#         "tam_pagina": tam_pagina,
-#         "status": status,
-#         "esferas": esferas,
-#         "modalidades": modalidade_id, # Usando o ID da modalidade selecionada
-#     }
-#     response = requests.get(API_URL, params=params)
-#     if response.status_code == 200:
-#         data = response.json()
-#         items = data.get("items", [])
-#         if items:
-#             for item in items:
-#                 st.write(f"### {item['title']}")
-#                 st.write(f"Descrição: {item['description']}")
-#                 st.write(f"URL: {item['item_url']}")
-#         else:
-#             st.write("Nenhum resultado encontrado.")
-        
-#         # Exibição da URL de requisição
-#         request_url = f"{response.url}"
-#         st.markdown(f"<a href='{request_url}' target='_blank'>Clique aqui para executar a consulta na API</a>", unsafe_allow_html=True)
-#     else:
-#         st.write("Erro na requisição à API.")
 #%%
         
 # Definição de funções para as consultas adicionais
@@ -86,8 +60,29 @@ def get_arquivos(orgao_id, ano, numero_sequencial):
     else:
         return None
 pagina = st.number_input("Exibir a página:", min_value=1, value=1)
+
+
+query_url_formatado = quote_plus(query)
+
+# Construindo a URL de pesquisa
+pesquisa_url = (
+    f"{PNCP_URL}"
+    f"q={query_url_formatado}&"
+    f"tipos_documento=edital&"
+    f"ordenacao=relevancia&"
+    f"pagina={pagina}&"
+    f"tam_pagina={tam_pagina}&"
+    f"status=todos&"
+    f"esferas={esfera_id}&"
+    f"modalidades={modalidade_id}"
+)
+
+# Exibindo a URL
+st.markdown(f"Para pesquisar no site oficial do PNCP [Clique aqui]({pesquisa_url})", unsafe_allow_html=True)
+
+
 # Consulta principal
-if st.button("Buscar"):
+if st.button("Busca completa"):
     params = {
         "q": query,
         "tipos_documento": "edital",
@@ -108,14 +103,22 @@ if st.button("Buscar"):
         if items:
             for item in items:
                 st.divider()
-                st.write(f"### {item['title']}")
-                st.write(f"Descrição: {item['description']}")
                 
                 # Extraindo dados necessários para as consultas adicionais
                 orgao_id, ano, numero_sequencial = item['item_url'].split('/')[-3:]
                 
                 # Consulta adicional 1: Itens
                 itens = get_itens(orgao_id, ano, numero_sequencial)
+
+                link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
+                st.write(f"### [{item['title']}]({link_url})")
+                
+                
+                st.write(f"Descrição: {item['description']}")
+            
+            
+            
+                
                 if itens:
                     itens_df = pd.DataFrame(itens)
                     # Formatação de 'valorTotal' como monetário e 'quantidade' com duas casas decimais
@@ -130,7 +133,49 @@ if st.button("Buscar"):
                     st.write("#### Arquivos da contratação:")
                     for arquivo in arquivos:
                         st.link_button(arquivo['titulo'], arquivo['url'],type="secondary", disabled=False, use_container_width=True)
-      
+    
+        else:
+            st.write("Nenhum resultado encontrado.")
+    else:
+        st.write("Erro na requisição à API.")
+# Consulta principal
+if st.button("Busca simples"):
+    params = {
+        "q": query,
+        "tipos_documento": "edital",
+        "ordenacao": "relevancia",
+        "pagina": pagina,
+        "tam_pagina": tam_pagina,
+        "status": "todos",
+        "esferas": esfera_id,
+        "modalidades": modalidade_id, # Usando o ID da modalidade selecionada
+    }    
+    response = requests.get(API_URL, params=params)
+    
+
+
+    if response.status_code == 200:
+        data = response.json()
+        items = data.get("items", [])
+        if items:
+            for item in items:
+                st.divider()
+
+                # Extraindo dados necessários para as consultas adicionais
+                orgao_id, ano, numero_sequencial = item['item_url'].split('/')[-3:]
+                
+                # Consulta adicional 1: Itens
+                itens = get_itens(orgao_id, ano, numero_sequencial)
+
+                link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
+                st.write(f"### [{item['title']}]({link_url})")
+                
+                
+
+
+                st.write(f"Descrição: {item['description']}")
+
+    
         else:
             st.write("Nenhum resultado encontrado.")
     else:
