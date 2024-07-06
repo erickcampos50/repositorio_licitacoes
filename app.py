@@ -113,7 +113,7 @@ if st.button("Busca detalhada"):
         items = data.get("items", [])
         if items:
             for item in items:
-                st.divider()
+                # st.divider() # Não utilizar esse componente, porque ele está quebrando a UI
                 
                 # Extraindo dados necessários para as consultas adicionais
                 orgao_id, ano, numero_sequencial = item['item_url'].split('/')[-3:]
@@ -123,6 +123,8 @@ if st.button("Busca detalhada"):
 
                 link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
                 st.markdown(f"""
+                        ---
+                            
                         ### [{item['title']}]({link_url})
                 
                         Descrição: {item['description']}
@@ -177,7 +179,7 @@ if st.button("Busca rápida"):
         items = data.get("items", [])
         if items:
             for item in items:
-                st.divider()
+                # st.divider() # Não utilizar esse componente, porque ele está quebrando a UI
 
                 # Extraindo dados necessários para as consultas adicionais
                 orgao_id, ano, numero_sequencial = item['item_url'].split('/')[-3:]
@@ -187,6 +189,7 @@ if st.button("Busca rápida"):
 
                 link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
                 st.markdown(f"""
+                        ---
                         ### [{item['title']}]({link_url})
                 
                         Descrição: {item['description']}
