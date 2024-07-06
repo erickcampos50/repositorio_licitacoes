@@ -122,11 +122,17 @@ if st.button("Busca detalhada"):
                 itens = get_itens(orgao_id, ano, numero_sequencial)
 
                 link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
-                st.write(f"### [{item['title']}]({link_url})")
+                st.markdown(f"""
+                        ### [{item['title']}]({link_url})
                 
-                
-                st.write(f"Descrição: {item['description']}")
-            
+                        Descrição: {item['description']}
+
+                        Órgão: {item['orgao_nome']}
+
+                        Modalidade: {item['modalidade_licitacao_nome']}
+
+                        Local: {item['municipio_nome']}/{item['uf']} 
+                        """)
             
             
                 
@@ -180,12 +186,18 @@ if st.button("Busca rápida"):
                 itens = get_itens(orgao_id, ano, numero_sequencial)
 
                 link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
-                st.write(f"### [{item['title']}]({link_url})")
+                st.markdown(f"""
+                        ### [{item['title']}]({link_url})
                 
-                
+                        Descrição: {item['description']}
 
+                        Órgão: {item['orgao_nome']}
 
-                st.write(f"Descrição: {item['description']}")
+                        Modalidade: {item['modalidade_licitacao_nome']}
+
+                        Local: {item['municipio_nome']}/{item['uf']} 
+                        """)
+            
 
     
         else:
