@@ -188,17 +188,17 @@ if st.button("Busca rápida"):
                 itens = get_itens(orgao_id, ano, numero_sequencial)
 
                 link_url = f"https://pncp.gov.br/app/editais/{orgao_id}/{ano}/{numero_sequencial}"
-                st.markdown(f"""
-                        ---
-                        ### [{item['title']}]({link_url})
-                
-                        Descrição: {item['description']}
+                st.write("---")
+                st.write(f"""### [{item['title']}]({link_url})""")
+                         
+                st.write(f"""Descrição: {item['description']}
 
-                        Órgão: {item['orgao_nome']}
+Órgão: {item['orgao_nome']}
 
-                        Modalidade: {item['modalidade_licitacao_nome']}
+Modalidade: {item['modalidade_licitacao_nome']}
 
-                        Local: {item['municipio_nome']}/{item['uf']} 
+Local: {item['municipio_nome']}/{item['uf']}
+
                         """)
             
 
