@@ -3,7 +3,6 @@ import os
 import json
 import csv
 
-#%%
 # Definir os diretórios de busca
 dir_principal = "pncp_dados_json"
 dir_itens = "pncp_dados_itens"
@@ -11,12 +10,12 @@ dir_arquivos = "pncp_dados_arquivos"
 dir_unificados = "pncp_dados_unificados"
 log_file = "log_unificacao.txt"
 csv_file = "pncp_unificados.csv"
+jsonl_file = "pncp_unificados.jsonl"
 
 # Criar o diretório de arquivos unificados se ele não existir
 if not os.path.exists(dir_unificados):
     os.makedirs(dir_unificados)
 
-#%%
 # Função para carregar JSON de um arquivo
 def carregar_json(caminho_arquivo):
     if os.path.exists(caminho_arquivo):
@@ -94,34 +93,44 @@ def registrar_log(mensagem):
     with open(log_file, 'a', encoding='utf-8') as log:
         log.write(mensagem + '\n')
 
-# Função para salvar os dados no CSV
+# Função para salvar os dados no CSV, incluindo os itens da licitação
 def salvar_csv(dados_unificados, csv_writer):
     licitacao = dados_unificados["licitacao"]
-    csv_writer.writerow([
-        licitacao.get("id_pncp", ""),
-        licitacao.get("ano", ""),
-        licitacao.get("numero_sequencial", ""),
-        licitacao.get("numero_controle_pncp", ""),
-        licitacao["orgao_superior"].get("cnpj", ""),
-        licitacao["orgao_superior"].get("nome", ""),
-        licitacao["orgao_superior"]["unidade"].get("codigo", ""),
-        licitacao["orgao_superior"]["unidade"].get("nome", ""),
-        licitacao["orgao_superior"]["esfera"].get("nome", ""),
-        licitacao["orgao_superior"]["poder"].get("nome", ""),
-        licitacao["orgao_superior"]["municipio"].get("nome", ""),
-        licitacao["orgao_superior"]["municipio"].get("uf", ""),
-        licitacao["modalidade_licitacao"].get("nome", ""),
-        licitacao["datas"].get("publicacao_pncp", ""),
-        licitacao["datas"].get("inicio_vigencia", ""),
-        licitacao["datas"].get("fim_vigencia", ""),
-        licitacao.get("cancelado", ""),
-        licitacao["arquivos_publicados"].get("titulo", ""),
-        licitacao["arquivos_publicados"].get("uri", ""),
-        licitacao["arquivos_publicados"].get("arquivos", ""),
-        licitacao["tipo"].get("id", ""),
-        licitacao["tipo"].get("nome", ""),
-        licitacao.get("item_url", "")
-    ])
+    itens = dados_unificados.get("itens", [])
+
+    if not isinstance(itens, list):  # Caso seja um dicionário
+        itens = [itens]
+
+    for item in itens:
+        csv_writer.writerow([
+            licitacao.get("id_pncp", ""),
+            licitacao.get("ano", ""),
+            licitacao.get("numero_sequencial", ""),
+            licitacao.get("numero_controle_pncp", ""),
+            licitacao["orgao_superior"].get("cnpj", ""),
+            licitacao["orgao_superior"].get("nome", ""),
+            licitacao["orgao_superior"]["unidade"].get("codigo", ""),
+            licitacao["orgao_superior"]["unidade"].get("nome", ""),
+            licitacao["orgao_superior"]["esfera"].get("nome", ""),
+            licitacao["orgao_superior"]["poder"].get("nome", ""),
+            licitacao["orgao_superior"]["municipio"].get("nome", ""),
+            licitacao["orgao_superior"]["municipio"].get("uf", ""),
+            licitacao["modalidade_licitacao"].get("nome", ""),
+            licitacao["datas"].get("publicacao_pncp", ""),
+            licitacao["datas"].get("inicio_vigencia", ""),
+            licitacao["datas"].get("fim_vigencia", ""),
+            licitacao.get("cancelado", ""),
+            licitacao["arquivos_publicados"].get("titulo", ""),
+            licitacao["arquivos_publicados"].get("uri", ""),
+            licitacao["arquivos_publicados"].get("arquivos", ""),
+            licitacao["tipo"].get("id", ""),
+            licitacao["tipo"].get("nome", ""),
+            licitacao.get("item_url", ""),
+            item.get("descricao", ""),
+            item.get("materialOuServicoNome", ""),
+            item.get("valorUnitarioEstimado", ""),
+            item.get("quantidade", "")
+        ])
 
 # Função principal para buscar, unificar e salvar os arquivos
 def processar_arquivos():
@@ -135,7 +144,8 @@ def processar_arquivos():
             "Esfera Nome", "Poder Nome", "Município Nome", "UF", "Modalidade",
             "Data Publicação PNCP", "Início Vigência", "Fim Vigência",
             "Cancelado", "Título Arquivo", "URI Arquivo", "Nomes Arquivos",
-            "Tipo ID", "Tipo Nome", "Item URL"
+            "Tipo ID", "Tipo Nome", "Item URL", "Item Descrição",
+            "Material ou Serviço Nome", "Valor Unitário Estimado", "Quantidade"
         ])
         
         for arquivo in os.listdir(dir_principal):
@@ -168,7 +178,18 @@ def processar_arquivos():
                     registrar_log(f"Arquivo de documentos não encontrado para {nome_base}")
                 
                 print(f"Arquivo unificado salvo em: {caminho_saida}")
-#%%
+
+# Função para converter os arquivos unificados em um único arquivo JSONL
+def converter_para_jsonl():
+    with open(jsonl_file, 'w', encoding='utf-8') as jsonl_out:
+        for arquivo in os.listdir(dir_unificados):
+            if arquivo.endswith(".json"):
+                caminho_arquivo_unificado = os.path.join(dir_unificados, arquivo)
+                dados_unificados = carregar_json(caminho_arquivo_unificado)
+                # Gravar cada objeto JSON como uma linha no arquivo JSONL
+                jsonl_out.write(json.dumps(dados_unificados) + '\n')
+    print(f"Arquivo JSONL criado: {jsonl_file}")
+
 # Executar o script
 if __name__ == "__main__":
     # Limpar o arquivo de log
@@ -176,5 +197,6 @@ if __name__ == "__main__":
         log.write("Log de unificação de arquivos\n")
     
     processar_arquivos()
+    converter_para_jsonl()
 
 # %%
