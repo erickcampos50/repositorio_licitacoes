@@ -2,20 +2,30 @@
 import os
 import json
 import csv
-
+import math
+#%%
 # Definir os diretórios de busca
 dir_principal = "pncp_dados_json"
 dir_itens = "pncp_dados_itens"
 dir_arquivos = "pncp_dados_arquivos"
 dir_unificados = "pncp_dados_unificados"
-log_file = "log_unificacao.txt"
-csv_file = "pncp_unificados.csv"
-jsonl_file = "pncp_unificados.jsonl"
+dir_arquivos_principais = "arquivos_principais"
 
-# Criar o diretório de arquivos unificados se ele não existir
+# Definir os nomes dos arquivos
+log_file = os.path.join(dir_arquivos_principais, "log_unificacao.txt")
+csv_file = os.path.join(dir_arquivos_principais, "pncp_unificados.csv")
+jsonl_file = os.path.join(dir_arquivos_principais, "pncp_unificados.jsonl")
+markdown_file = os.path.join(dir_arquivos_principais, "pncp_unificados.md")
+
+#%%
+# Criar os diretórios de arquivos unificados e principais se não existirem
 if not os.path.exists(dir_unificados):
     os.makedirs(dir_unificados)
 
+if not os.path.exists(dir_arquivos_principais):
+    os.makedirs(dir_arquivos_principais)
+
+#%%
 # Função para carregar JSON de um arquivo
 def carregar_json(caminho_arquivo):
     if os.path.exists(caminho_arquivo):
@@ -41,8 +51,8 @@ def unificar_dados(arquivo_base, arquivo_itens, arquivo_arquivos):
         "licitacao": {
             "id_pncp": dados_base.get("id", ""),
             "ano": dados_base.get("ano", ""),
-            "numero_sequencial": dados_base.get("numero_sequencial", ""),
-            "numero_controle_pncp": dados_base.get("numero_controle_pncp", ""),
+            "descricao": dados_base.get("description",""),
+            "titulo": dados_base.get("title",""),
             "orgao_superior": {
                 "cnpj": dados_base.get("orgao_cnpj", ""),
                 "nome": dados_base.get("orgao_nome", ""),
@@ -63,14 +73,8 @@ def unificar_dados(arquivo_base, arquivo_itens, arquivo_arquivos):
                     "uf": dados_base.get("uf", "")
                 }
             },
-            "modalidade_licitacao": {
-                "nome": dados_base.get("modalidade_licitacao_nome", "")
-            },
-            "datas": {
-                "publicacao_pncp": dados_base.get("data_publicacao_pncp", ""),
-                "inicio_vigencia": dados_base.get("data_inicio_vigencia", ""),
-                "fim_vigencia": dados_base.get("data_fim_vigencia", "")
-            },
+            "modalidade_licitacao": dados_base.get("modalidade_licitacao_nome", ""),
+            "data_publicacao_pncp": dados_base.get("data_publicacao_pncp", ""),
             "cancelado": dados_base.get("cancelado", ""),
             "arquivos_publicados": {
                 "titulo": dados_arquivos.get("titulo", ""),
@@ -103,10 +107,9 @@ def salvar_csv(dados_unificados, csv_writer):
 
     for item in itens:
         csv_writer.writerow([
-            licitacao.get("id_pncp", ""),
+            licitacao.get("titulo", ""),
             licitacao.get("ano", ""),
-            licitacao.get("numero_sequencial", ""),
-            licitacao.get("numero_controle_pncp", ""),
+            licitacao.get("descricao", ""),
             licitacao["orgao_superior"].get("cnpj", ""),
             licitacao["orgao_superior"].get("nome", ""),
             licitacao["orgao_superior"]["unidade"].get("codigo", ""),
@@ -115,10 +118,8 @@ def salvar_csv(dados_unificados, csv_writer):
             licitacao["orgao_superior"]["poder"].get("nome", ""),
             licitacao["orgao_superior"]["municipio"].get("nome", ""),
             licitacao["orgao_superior"]["municipio"].get("uf", ""),
-            licitacao["modalidade_licitacao"].get("nome", ""),
-            licitacao["datas"].get("publicacao_pncp", ""),
-            licitacao["datas"].get("inicio_vigencia", ""),
-            licitacao["datas"].get("fim_vigencia", ""),
+            licitacao.get("modalidade_licitacao", ""),
+            licitacao.get("data_publicacao_pncp", ""),
             licitacao.get("cancelado", ""),
             licitacao["arquivos_publicados"].get("titulo", ""),
             licitacao["arquivos_publicados"].get("uri", ""),
@@ -132,6 +133,49 @@ def salvar_csv(dados_unificados, csv_writer):
             item.get("quantidade", "")
         ])
 
+# Função para gerar arquivo Markdown a partir do CSV, dividido em partes iguais
+def gerar_markdown(partes):
+    with open(csv_file, 'r', encoding='utf-8') as csvfile:
+        reader = list(csv.DictReader(csvfile))
+        total_linhas = len(reader)
+        linhas_por_parte = math.ceil(total_linhas / partes)
+
+        for parte in range(partes):
+            parte_inicio = parte * linhas_por_parte
+            parte_fim = min((parte + 1) * linhas_por_parte, total_linhas)
+            markdown_file_parte = os.path.join(dir_arquivos_principais, f"pncp_unificados_parte_{parte + 1}.txt")
+
+            with open(markdown_file_parte, 'w', encoding='utf-8') as mdfile:
+                for row in reader[parte_inicio:parte_fim]:
+                    mdfile.write(f"# Licitação {row['Título']} - {row['Nome Órgão']}\n\n")
+                    mdfile.write(f"**Licitação:** {row['Título']}\n")
+                    mdfile.write(f"**Ano:** {row['Ano']}\n")
+                    mdfile.write(f"**Objeto da licitação:** {row['Descrição']}\n")
+                    mdfile.write(f"**CNPJ do Órgão:** {row['CNPJ Órgão']}\n")
+                    mdfile.write(f"**Nome do Órgão:** {row['Nome Órgão']}\n")
+                    mdfile.write(f"**Código da Unidade:** {row['Código Unidade']}\n")
+                    mdfile.write(f"**Nome da Unidade:** {row['Nome Unidade']}\n")
+                    mdfile.write(f"**Esfera:** {row['Esfera Nome']}\n")
+                    mdfile.write(f"**Poder:** {row['Poder Nome']}\n")
+                    mdfile.write(f"**Município:** {row['Município Nome']} - {row['UF']}\n")
+                    mdfile.write(f"**Modalidade de Licitação:** {row['Modalidade']}\n")
+                    mdfile.write(f"**Data de Publicação PNCP:** {row['Data da Publicação no PNCP']}\n")
+                    mdfile.write(f"**Cancelado:** {row['Cancelado']}\n")
+                    mdfile.write(f"**Título do Arquivo:** {row['Título Arquivo']}\n")
+                    mdfile.write(f"**URI do Arquivo:** {row['URI Arquivo']}\n")
+                    mdfile.write(f"**Nomes dos Arquivos:** {row['Nomes Arquivos']}\n")
+                    mdfile.write(f"**Tipo ID:** {row['Tipo ID']}\n")
+                    mdfile.write(f"**Tipo Nome:** {row['Tipo Nome']}\n")
+                    mdfile.write(f"**Item URL:** {row['Item URL']}\n\n")
+                    mdfile.write(f"## Itens da Licitação\n")
+                    mdfile.write(f"**Descrição do Item:** {row['Item Descrição']}\n")
+                    mdfile.write(f"**Material ou Serviço:** {row['Material ou Serviço Nome']}\n")
+                    mdfile.write(f"**Valor Unitário Estimado:** {row['Valor Unitário Estimado']}\n")
+                    mdfile.write(f"**Quantidade:** {row['Quantidade']}\n")
+                    mdfile.write("\n---\n\n")
+            
+                    print(f"Arquivo Markdown parte {parte + 1} gerado: {markdown_file_parte}")
+
 # Função principal para buscar, unificar e salvar os arquivos
 def processar_arquivos():
     # Inicializar o CSV
@@ -139,11 +183,10 @@ def processar_arquivos():
         csv_writer = csv.writer(csvfile)
         # Escrever o cabeçalho do CSV
         csv_writer.writerow([
-            "ID PNCP", "Ano", "Número Sequencial", "Número Controle PNCP",
+            "Título","Ano", "Descrição",
             "CNPJ Órgão", "Nome Órgão", "Código Unidade", "Nome Unidade",
             "Esfera Nome", "Poder Nome", "Município Nome", "UF", "Modalidade",
-            "Data Publicação PNCP", "Início Vigência", "Fim Vigência",
-            "Cancelado", "Título Arquivo", "URI Arquivo", "Nomes Arquivos",
+            "Data da Publicação no PNCP", "Cancelado", "Título Arquivo", "URI Arquivo", "Nomes Arquivos",
             "Tipo ID", "Tipo Nome", "Item URL", "Item Descrição",
             "Material ou Serviço Nome", "Valor Unitário Estimado", "Quantidade"
         ])
@@ -190,13 +233,20 @@ def converter_para_jsonl():
                 jsonl_out.write(json.dumps(dados_unificados) + '\n')
     print(f"Arquivo JSONL criado: {jsonl_file}")
 
+#%%
 # Executar o script
 if __name__ == "__main__":
     # Limpar o arquivo de log
     with open(log_file, 'w', encoding='utf-8') as log:
         log.write("Log de unificação de arquivos\n")
     
+
     processar_arquivos()
     converter_para_jsonl()
+
+
+    # Número de partes do markdown fornecido pelo usuário
+    partes = 10
+    gerar_markdown(partes)
 
 # %%
