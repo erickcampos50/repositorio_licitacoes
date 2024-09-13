@@ -10,7 +10,7 @@ import datetime
 dir_principal = "pncp_atas_json"
 dir_itens = "pncp_atas_dados_itens"
 dir_arquivos = "pncp_atas_dados_arquivos"
-dir_unificados = "pncp_dados_atas_unificados"
+dir_unificados = "pncp_atas_dados_unificados"
 dir_arquivos_principais = "arquivos_principais"
 
 # Definir os nomes dos arquivos
@@ -47,6 +47,12 @@ def unificar_dados(arquivo_base, arquivo_itens, arquivo_arquivos):
         dados_arquivos = {}
 
     # Unificar os dados seguindo a lógica definida
+    # Concatenar 'nome_real' com 'conteudo_zip' para formar 'nomes_arquivos_unificados'
+    nomes_arquivos = dados_arquivos.get("nome_real", "")
+    conteudo_zip = dados_arquivos.get("conteudo_zip", [])
+    if conteudo_zip:
+        nomes_arquivos += ", " + ", ".join(conteudo_zip)
+
     dados_unificados = {
         "licitacao": {
             "id_pncp": dados_base.get("id", ""),
@@ -83,9 +89,7 @@ def unificar_dados(arquivo_base, arquivo_itens, arquivo_arquivos):
             "arquivos_publicados": {
                 "titulo": dados_arquivos.get("titulo", ""),
                 "uri": dados_arquivos.get("uri", ""),
-                "nome_real": dados_arquivos.get("nome_real", ""),
-                "extensao_real": dados_arquivos.get("extensao_real", ""),
-                "conteudo_zip": dados_arquivos.get("conteudo_zip", [])
+                "nomes_arquivos_unificados": nomes_arquivos
             },
             "tipo": {
                 "id": dados_base.get("tipo_id", ""),
@@ -133,19 +137,16 @@ def salvar_csv(dados_unificados, csv_writer):
             licitacao.get("cancelado", False),
             licitacao["arquivos_publicados"].get("titulo", ""),
             licitacao["arquivos_publicados"].get("uri", ""),
-            licitacao["arquivos_publicados"].get("nome_real", ""),
-            licitacao["arquivos_publicados"].get("extensao_real", ""),
-            ", ".join(licitacao["arquivos_publicados"].get("conteudo_zip", [])),
+            licitacao["arquivos_publicados"].get("nomes_arquivos_unificados", ""),
+            licitacao["arquivos_publicados"].get("extensao_real", ""),  # Se precisar manter, caso contrário remova
             licitacao["tipo"].get("id", ""),
             licitacao["tipo"].get("nome", ""),
             licitacao.get("item_url", ""),
             item.get("descricao", ""),
             item.get("materialOuServicoNome", ""),
             item.get("valorUnitarioEstimado", ""),
-            item.get("quantidade", ""),
-            licitacao.get("data_assinatura", ""),
-            licitacao.get("data_inicio_vigencia", ""),
-            licitacao.get("data_fim_vigencia", "")
+            item.get("quantidade", "")
+            
         ])
 
 # Função para gerar arquivo Markdown a partir do CSV, dividido em partes iguais
@@ -158,7 +159,7 @@ def gerar_markdown(partes):
         for parte in range(partes):
             parte_inicio = parte * linhas_por_parte
             parte_fim = min((parte + 1) * linhas_por_parte, total_linhas)
-            markdown_file_parte = os.path.join(dir_arquivos_principais, f"pncp_atas_unificados_parte_{parte + 1}.md")
+            markdown_file_parte = os.path.join(dir_arquivos_principais, f"pncp_unificados_parte_{parte + 1}.md")
 
             with open(markdown_file_parte, 'w', encoding='utf-8') as mdfile:
                 for row in reader[parte_inicio:parte_fim]:
@@ -182,9 +183,7 @@ def gerar_markdown(partes):
                     mdfile.write(f"**Cancelado:** {row['Cancelado']}\n")
                     mdfile.write(f"**Título do Arquivo:** {row['Título Arquivo']}\n")
                     mdfile.write(f"**URI do Arquivo:** {row['URI Arquivo']}\n")
-                    mdfile.write(f"**Nome Real do Arquivo:** {row['Nomes Arquivos']}\n")
-                    mdfile.write(f"**Extensão Real:** {row['Extensão Real']}\n")
-                    mdfile.write(f"**Conteúdo ZIP:** {row['Conteúdo ZIP']}\n")
+                    mdfile.write(f"**Nomes dos Arquivos:** {row['Nomes Arquivos']}\n")
                     mdfile.write(f"**Tipo ID:** {row['Tipo ID']}\n")
                     mdfile.write(f"**Tipo Nome:** {row['Tipo Nome']}\n")
                     mdfile.write(f"**Item URL:** {row['Item URL']}\n\n")
@@ -194,7 +193,7 @@ def gerar_markdown(partes):
                     mdfile.write(f"**Valor Unitário Estimado:** {row['Valor Unitário Estimado']}\n")
                     mdfile.write(f"**Quantidade:** {row['Quantidade']}\n")
                     mdfile.write("\n---\n\n")
-            
+        
             print(f"Arquivo Markdown parte {parte + 1} gerado: {markdown_file_parte}")
 
 # Função principal para buscar, unificar e salvar os arquivos
@@ -202,7 +201,7 @@ def processar_arquivos():
     # Inicializar o CSV
     with open(csv_file, 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
-        # Escrever o cabeçalho do CSV
+        # Escrever o cabeçalho do CSV (removemos "Conteúdo ZIP" e ajustamos "Nomes Arquivos")
         csv_writer.writerow([
             "Título", "Ano", "Descrição",
             "CNPJ Órgão", "Nome Órgão", "Código Unidade", "Nome Unidade",
@@ -210,9 +209,9 @@ def processar_arquivos():
             "Data da Publicação no PNCP", "Data da Atualização PNCP", "Data de Assinatura",
             "Data de Início Vigência", "Data de Fim Vigência", "Cancelado",
             "Título Arquivo", "URI Arquivo", "Nomes Arquivos", "Extensão Real",
-            "Conteúdo ZIP", "Tipo ID", "Tipo Nome", "Item URL",
-            "Item Descrição", "Material ou Serviço Nome", "Valor Unitário Estimado", "Quantidade",
-            "Data de Assinatura", "Data de Início Vigência", "Data de Fim Vigência"
+            "Tipo ID", "Tipo Nome", "Item URL",
+            "Item Descrição", "Material ou Serviço Nome", "Valor Unitário Estimado", "Quantidade"
+            
         ])
         
         for arquivo in os.listdir(dir_principal):
