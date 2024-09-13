@@ -1,5 +1,3 @@
-
-#%%
 import subprocess
 import sys
 import os
@@ -9,7 +7,7 @@ import queue
 
 # Configuração do Logging
 logging.basicConfig(
-    filename='pipeline_log.log',
+    filename='arquivos_principais/pipeline_log.log',
     filemode='a',
     format='%(asctime)s - %(levelname)s - %(message)s',
     level=logging.INFO
@@ -68,9 +66,9 @@ def executar_script(nome_script, log_queue):
 # Função para executar a pipeline de atas
 def run_atas_pipeline(log_queue):
     scripts = [
-        'raspagem_atas.py',
+        'raspagem_pncp_atas.py',
         'raspagem_pncp_atas_itens-adicionais.py',
-        'unificacao_pncp_atas.py'
+        'raspagem_unificacao_pncp_atas.py'
     ]
     for script in scripts:
         if os.path.exists(script):
@@ -86,7 +84,7 @@ def run_pncp_pipeline(log_queue):
     scripts = [
         'raspagem_pncp.py',
         'raspagem_pncp_itens-adicionais.py',
-        'unificacao_pncp.py'
+        'raspagem_unificacao_pncp.py'
     ]
     for script in scripts:
         if os.path.exists(script):
@@ -131,10 +129,8 @@ def main():
     log_queue.put("DONE")
     logging_thread.join()
 
-    print("Todas as pipelines foram executadas. Verifique 'pipeline_log.log' para mais detalhes.")
+    print("Todas as pipelines foram executadas. Verifique 'arquivos_principais/pipeline_log.log' para mais detalhes.")
     logging.info("Todas as pipelines foram executadas.")
 
 if __name__ == "__main__":
     main()
-
-# %%

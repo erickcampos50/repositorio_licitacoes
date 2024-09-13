@@ -13,7 +13,7 @@ OUTPUT_DIR = "pncp_dados_json"  # Diretório onde os arquivos JSON individuais s
 LOG_FILE = "raspagem_log.json"  # Arquivo para armazenar o log de datas de raspagem
 DELAY = 10  # Tempo de espera entre requisições (em segundos) para evitar sobrecarga do servidor
 MAX_RETRIES = 3  # Máximo de tentativas para repetição em caso de erro
-MAX_PAGES = 250  # Limitar a execução a um número máximo de páginas por execução
+MAX_PAGES = 21  # Limitar a execução a um número máximo de páginas por execução
 #%%
 # Criar diretório de saída se não existir
 if not os.path.exists(OUTPUT_DIR):
@@ -38,8 +38,7 @@ def fetch_data(page, last_date):
     params = {
         "pagina": page,
         "tam_pagina": TAM_PAGINA,
-        "ordenacao": "data",  # Ordenar por data mais antigo
-        "data_publicacao_pncp": f">{last_date}",  # Filtrar por data mais recente que a última raspagem
+        "ordenacao": "-data",  # Ordenar por data mais recente. Existem as opções "relevancia","data" (mais antigo) e "-data" para data mais recente
         "q":"",
         "tipos_documento":"edital",
         "status":"todos"
