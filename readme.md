@@ -11,10 +11,11 @@ Este projeto consiste em uma **pipeline** completa para raspagem, processamento 
 5. [Como Usar](#como-usar)
     - [Execução da Pipeline](#execução-da-pipeline)
     - [Monitoramento da Execução](#monitoramento-da-execução)
-6. [Logs](#logs)
-7. [Resolução de Problemas](#resolução-de-problemas)
-8. [Considerações Finais](#considerações-finais)
-9. [Licença](#licença)
+6. [Interfaces de Acesso aos Dados](#interfaces-de-acesso-aos-dados)
+7. [Logs](#logs)
+8. [Resolução de Problemas](#resolução-de-problemas)
+9. [Considerações Finais](#considerações-finais)
+10. [Licença](#licença)
 
 ---
 
@@ -94,16 +95,56 @@ A pipeline segue uma sequência estruturada para garantir a integridade e a efic
 - **pncp_dados_itens/**: Armazena os arquivos JSON de itens adicionais das licitações.
 - **pncp_dados_arquivos/**: Armazena os arquivos JSON de arquivos adicionais das licitações.
 - **pncp_atas_json/**: Contém os arquivos JSON principais das atas.
-- **pncp_dados_unificados/**: Armazena os arquivos JSON unificados das licitações.
-- **run_pipeline.py**: Script mestre que orquestra a execução das pipelines de raspagem e unificação de dados.
+- **pncp_dados_unificados/**: Armazena os arquivos JSON unificados das licitações e atas.
 
 ## Benefícios
 
 - **Acesso Completo aos Dados do PNCP:** Fornece uma maneira estruturada e eficiente de coletar todos os dados disponíveis nas plataformas de Atas e Licitações, garantindo que nenhuma informação importante seja omitida.
+  
 - **Facilidade de Análise:** Ao unificar os dados em formatos como CSV e JSONL, facilita a análise e o processamento posterior, permitindo o uso em ferramentas de BI, data science e outros sistemas de análise de dados.
+  
 - **Robustez e Resiliência:** As pipelines independentes garantem que falhas em uma parte do processo não afetem a outra, aumentando a confiabilidade do sistema como um todo.
+  
 - **Monitoramento em Tempo Real:** Com a execução paralela das pipelines e o monitoramento das saídas no terminal, é possível acompanhar o progresso e identificar rapidamente quaisquer problemas.
+  
 - **Automatização Completa:** Reduz a necessidade de intervenções manuais, economizando tempo e minimizando erros humanos.
+  
+- **Interfaces de Acesso e Visualização:** Disponibiliza interfaces gráficas para acesso facilitado e visualização dos dados raspados, adaptando-se às diferentes necessidades dos usuários.
+
+## Interfaces de Acesso aos Dados
+
+Além da pipeline de raspagem e unificação, este projeto oferece **interfaces gráficas** para facilitar o acesso e a visualização dos dados coletados:
+
+1. ### [Interface Streamlit](https://repositorio-nacional-licitacoes.streamlit.app/)
+   
+   - **Descrição:** Uma interface gráfica desenvolvida com **Streamlit** que permite realizar buscas diretas na **API do PNCP**.
+   - **Funcionalidades:**
+     - Pesquisa rápida e eficiente de licitações.
+     - Visualização detalhada dos resultados das buscas.
+   - **Benefícios:**
+     - **Foco Exclusivo em Licitações:** Ideal para usuários que precisam acessar rapidamente informações sobre licitações sem a necessidade de consultar dados das atas.
+     - **Interação Intuitiva:** Interface amigável que facilita a navegação e a obtenção de dados específicos.
+   - **Quando Usar:**
+     - Quando se deseja realizar consultas rápidas e específicas diretamente na API do PNCP.
+     - Para usuários que não necessitam integrar ou visualizar dados das atas.
+
+2. ### [Interface Looker Studio](https://lookerstudio.google.com/u/0/reporting/5413c554-7852-46d4-84cf-edd7cdecb2e8/page/wWYBE)
+   
+   - **Descrição:** Uma interface desenvolvida com **Looker Studio** que permite visualizar os dados raspados das licitações e atas de forma integrada e interativa.
+   - **Funcionalidades:**
+     - Dashboards interativos para análise de dados.
+     - Visualizações gráficas e relatórios detalhados.
+   - **Benefícios:**
+     - **Visualização Integrada:** Permite visualizar e analisar dados tanto de licitações quanto de atas em uma única plataforma.
+     - **Ferramentas de BI Avançadas:** Oferece recursos avançados de Business Intelligence para análises profundas e customizadas.
+   - **Quando Usar:**
+     - Para usuários que precisam de análises detalhadas e integradas dos dados de licitações e atas.
+     - Quando há a necessidade de gerar relatórios complexos e dashboards interativos para tomada de decisão.
+
+**Escolha a interface que melhor atende às suas necessidades:**
+
+- **Streamlit:** Para consultas rápidas e específicas nas licitações, com uma interface simples e direta.
+- **Looker Studio:** Para análises integradas e visualizações avançadas dos dados coletados, incluindo licitações e atas.
 
 ## Como Usar
 
@@ -159,10 +200,45 @@ Durante a execução, você poderá acompanhar o progresso diretamente no termin
 Todas as pipelines foram executadas. Verifique 'pipeline_log.log' para mais detalhes.
 ```
 
+## Interfaces de Acesso aos Dados
+
+Além da pipeline de raspagem e unificação, este projeto oferece **interfaces gráficas** para facilitar o acesso e a visualização dos dados coletados:
+
+1. ### [Interface Streamlit](https://repositorio-nacional-licitacoes.streamlit.app/)
+   
+   - **Descrição:** Uma interface gráfica desenvolvida com **Streamlit** que permite realizar buscas diretas na **API do PNCP**.
+   - **Funcionalidades:**
+     - Pesquisa rápida e eficiente de licitações.
+     - Visualização detalhada dos resultados das buscas.
+   - **Benefícios:**
+     - **Foco Exclusivo em Licitações:** Ideal para usuários que precisam acessar rapidamente informações sobre licitações sem a necessidade de consultar dados das atas.
+     - **Interação Intuitiva:** Interface amigável que facilita a navegação e a obtenção de dados específicos.
+   - **Quando Usar:**
+     - Quando se deseja realizar consultas rápidas e específicas diretamente na API do PNCP.
+     - Para usuários que não necessitam integrar ou visualizar dados das atas.
+
+2. ### [Interface Looker Studio](https://lookerstudio.google.com/u/0/reporting/5413c554-7852-46d4-84cf-edd7cdecb2e8/page/wWYBE)
+   
+   - **Descrição:** Uma interface desenvolvida com **Looker Studio** que permite visualizar os dados raspados das licitações e atas de forma integrada e interativa.
+   - **Funcionalidades:**
+     - Dashboards interativos para análise de dados.
+     - Visualizações gráficas e relatórios detalhados.
+   - **Benefícios:**
+     - **Visualização Integrada:** Permite visualizar e analisar dados tanto de licitações quanto de atas em uma única plataforma.
+     - **Ferramentas de BI Avançadas:** Oferece recursos avançados de Business Intelligence para análises profundas e customizadas.
+   - **Quando Usar:**
+     - Para usuários que precisam de análises detalhadas e integradas dos dados de licitações e atas.
+     - Quando há a necessidade de gerar relatórios complexos e dashboards interativos para tomada de decisão.
+
+**Escolha a interface que melhor atende às suas necessidades:**
+
+- **Streamlit:** Para consultas rápidas e específicas nas licitações, com uma interface simples e direta.
+- **Looker Studio:** Para análises integradas e visualizações avançadas dos dados coletados, incluindo licitações e atas.
+
 ## Logs
 
 - **`pipeline_log.log`**
-
+  
     - **Descrição:** Arquivo de log que armazena todas as mensagens de execução, incluindo informações de progresso e erros.
     - **Localização:** Diretório principal do projeto (`arquivos_principais/`).
     - **Uso:** Consulte este arquivo para detalhes sobre a execução da pipeline, especialmente para identificar e solucionar problemas.
@@ -229,7 +305,7 @@ Todas as pipelines foram executadas. Verifique 'pipeline_log.log' para mais deta
     - Evite expor informações sensíveis nos logs ou nos arquivos de saída.
 
 - **Performance:**
-    - A raspagem secundária já possui mecanismos internos para respeitar os limites da API. 
+    - A raspagem secundária já possui mecanismos internos para respeitar os limites da API. Não adicione delays adicionais no script mestre para evitar atrasos desnecessários.
 
 - **Ambiente Virtual:**
     - Utilize ambientes virtuais para isolar as dependências dos seus scripts, facilitando a reprodução e manutenção do ambiente de desenvolvimento.
