@@ -1,1602 +1,3 @@
-# Licitação Ata nº 01/2024 - MUNICIPIO DE MANHUACU
-
-**Licitação:** Ata nº 01/2024
-**Ano:** 2024
-**Objeto da licitação:** AQUISIÇÃO Futura de Gêneros Alimentícios destinados às Secretarias Municipais da Prefeitura de Manhuaçu e seus setores
-
-**CNPJ do Órgão:** 18385088000172
-**Nome do Órgão:** MUNICIPIO DE MANHUACU
-**Código da Unidade:** 1
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE MANHUAÇU - MG
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Manhuaçu - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T17:09:02.790187
-**Data de Atualização PNCP:** 2024-09-05T17:09:02.790187
-**Data de Assinatura:** 2024-08-22
-**Início da Vigência:** 2024-08-22
-**Fim da Vigência:** 2025-08-22
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/18385088000172/2024/60/9
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00434/2024 - COMANDO DA MARINHA
-
-**Licitação:** Ata nº 00434/2024
-**Ano:** 2024
-**Objeto da licitação:** Nutrição e dietética
-**CNPJ do Órgão:** 00394502000144
-**Nome do Órgão:** COMANDO DA MARINHA
-**Código da Unidade:** 771300
-**Nome da Unidade:** CENTRO DE OBTENCAO DA MARINHA/RJ
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Rio de Janeiro - RJ
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T14:04:08.810373
-**Data de Atualização PNCP:** 2024-09-06T14:04:08.810373
-**Data de Assinatura:** 2024-09-06
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/00394502000144/2024/6995/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 328/2024 - MUNICIPIO DE BIRIGUI
-
-**Licitação:** Ata nº 328/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS PARA AQUISIÇÃO DE MATERIAIS HIDRÁULICOS DIVERSOS PARA UTILIZAÇÃO NOS SERVIÇOS DE AMPLIAÇÃO E MANUTENÇÃO DA REDE DE ÁGUA E ESGOTO - SECRETARIA DE MEIO AMBIENTE.
-**CNPJ do Órgão:** 46151718000180
-**Nome do Órgão:** MUNICIPIO DE BIRIGUI
-**Código da Unidade:** 1
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE BIRIGUI - SP
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Birigui - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T16:57:29.922241
-**Data de Atualização PNCP:** 2024-09-09T16:57:29.922241
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-10
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/46151718000180/2024/303/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 022G/2024 - MUNICIPIO DE GOIANIRA
-
-**Licitação:** Ata nº 022G/2024
-**Ano:** 2024
-**Objeto da licitação:** [Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA EVENTUAL LOCAÇÃO DE VEÍCULOS E MAQUINAS, CONFORME ESPECIFICAÇÕES DO TERMO DE REFERENCIA.
-**CNPJ do Órgão:** 01291707000167
-**Nome do Órgão:** MUNICIPIO DE GOIANIRA
-**Código da Unidade:** 01
-**Nome da Unidade:** Prefeitura Municipal de Goianira
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Goianira - GO
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T16:30:54.956759
-**Data de Atualização PNCP:** 2024-09-10T16:30:54.956759
-**Data de Assinatura:** 2024-09-05
-**Início da Vigência:** 2024-09-05
-**Fim da Vigência:** 2025-09-04
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/01291707000167/2024/55/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00328/2024 - UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
-
-**Licitação:** Ata nº 00328/2024
-**Ano:** 2024
-**Objeto da licitação:** P2 - Serviço de Nefrologia - Conjunto completo para terapia renal eoutros - (REESTIMATIVA DE PREÇOS DE ITENS FRACASSADOS NO PREGÃO 03/2024).
-**CNPJ do Órgão:** 33663683000116
-**Nome do Órgão:** UNIVERSIDADE FEDERAL DO RIO DE JANEIRO
-**Código da Unidade:** 153152
-**Nome da Unidade:** HOSPITAL UNIVERSITARIO DA UFRJ
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Rio de Janeiro - RJ
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T11:20:44.525978
-**Data de Atualização PNCP:** 2024-09-11T11:20:44.525978
-**Data de Assinatura:** 2024-09-10
-**Início da Vigência:** 2024-09-11
-**Fim da Vigência:** 2025-09-11
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/33663683000116/2024/976/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 052/2024/2024 - MUNICIPIO DE ATALEIA
-
-**Licitação:** Ata nº 052/2024/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de preços para futura e eventual aquisição de material de construção, elétrico e hidráulico, para atender as demandas das diversas secretarias do município de Ataléia
-**CNPJ do Órgão:** 16971376000183
-**Nome do Órgão:** MUNICIPIO DE ATALEIA
-**Código da Unidade:** 864
-**Nome da Unidade:** Unidade Única
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ataléia - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T12:00:51.163671
-**Data de Atualização PNCP:** 2024-09-05T12:00:51.163671
-**Data de Assinatura:** 2024-09-03
-**Início da Vigência:** 2024-09-03
-**Fim da Vigência:** 2025-09-03
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/16971376000183/2024/17/6
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 313/2024 - MUNICIPIO DE IVAIPORA
-
-**Licitação:** Ata nº 313/2024
-**Ano:** 2024
-**Objeto da licitação:** AQUISIÇÃO DE PRODUTOS DE PAPELARIA, AVIAMENTOS E TECIDOS PARA ATENDER AS DEMANDAS DA SECRETARIA MUNICIPAL DE CULTURA.
-**CNPJ do Órgão:** 75741330000137
-**Nome do Órgão:** MUNICIPIO DE IVAIPORA
-**Código da Unidade:** 75741330000137
-**Nome da Unidade:** Unidade administrativa
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ivaiporã - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T15:57:30.013743
-**Data de Atualização PNCP:** 2024-09-12T15:57:30.013743
-**Data de Assinatura:** 2024-07-12
-**Início da Vigência:** 2024-07-12
-**Fim da Vigência:** 2025-07-12
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/75741330000137/2024/97/7
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00720/2024 - FUNDO MUNICIPAL DE SAUDE - FMS
-
-**Licitação:** Ata nº 00720/2024
-**Ano:** 2024
-**Objeto da licitação:** Visa o REGISTRO DE PREÇOS PARA O FORNECIMENTO DE PONTEIRA , DESCARTAVEL, TIPO GILSON, PARA MICROPIPETA, CAPACIDADE ATE 200 MCL E MICROTUBO P/CENTRIFUGA,C/TAMPA TIPO PRESSÃO, 1,5ML.
-**CNPJ do Órgão:** 13864377000130
-**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE - FMS
-**Código da Unidade:** 925003
-**Nome da Unidade:** PMSP - SECRETARIA MUNICIPAL DE SAÚDE
-**Esfera:** Municipal
-**Poder:** Executivo
-**Município:** São Paulo - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T15:52:08.872867
-**Data de Atualização PNCP:** 2024-09-06T15:52:08.872867
-**Data de Assinatura:** 2024-09-04
-**Início da Vigência:** 2024-09-05
-**Fim da Vigência:** 2025-09-05
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/13864377000130/2024/819/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 422/2024 - MUNICIPIO DE JOAQUIM TAVORA
-
-**Licitação:** Ata nº 422/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PRECO PARA CONTRATACAO DE EMPRESA PARA AQUISICAO DE MOVEIS  EQUIPAMENTOS DE INFORMATICA E ELETRODOMESTICOS PARA TODAS AS SECRETARIAS  COM QUANTITATIVOS E ESPECIFICACOES CONTIDAS NESSE TERMO DE REFERENCIA  COM RECURSOS DO MUNICIPIO E EMENDA IMPOSITIVA.
-**CNPJ do Órgão:** 76966845000106
-**Nome do Órgão:** MUNICIPIO DE JOAQUIM TAVORA
-**Código da Unidade:** 0000
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE JOAQUIM TAVORA
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Joaquim Távora - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T10:45:26.535376
-**Data de Atualização PNCP:** 2024-09-10T10:45:26.535376
-**Data de Assinatura:** 2024-09-02
-**Início da Vigência:** 2024-09-02
-**Fim da Vigência:** 2025-09-02
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/76966845000106/2024/99/37
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00142/2024 - COMANDO DO EXERCITO
-
-**Licitação:** Ata nº 00142/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de GÊNEROS ALIMENTÍCIOS (QR) E GÁS GLP para o 62° BI.
-**CNPJ do Órgão:** 00394452000103
-**Nome do Órgão:** COMANDO DO EXERCITO
-**Código da Unidade:** 160446
-**Nome da Unidade:** 62 BATALHAO DE INFANTARIA
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Joinville - SC
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T15:34:25.706231
-**Data de Atualização PNCP:** 2024-09-10T15:34:25.706231
-**Data de Assinatura:** 2024-09-02
-**Início da Vigência:** 2024-09-03
-**Fim da Vigência:** 2025-09-03
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13156/15
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 022/2024 - MUNICIPIO DE BARREIRINHAS
-
-**Licitação:** Ata nº 022/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de preços para futura contratação de empresa para fornecimento de medicamentos de farmácia básica e de controle especial.
-**CNPJ do Órgão:** 06217954000137
-**Nome do Órgão:** MUNICIPIO DE BARREIRINHAS
-**Código da Unidade:** 164
-**Nome da Unidade:** Secretaria Municipal de Saúde
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Barreirinhas - MA
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T11:03:04.544609
-**Data de Atualização PNCP:** 2024-09-05T11:03:04.544609
-**Data de Assinatura:** 2024-08-27
-**Início da Vigência:** 2024-08-27
-**Fim da Vigência:** 2025-08-27
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/06217954000137/2024/6/3
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 39/2024R-20-6/2024 - SERVICO AUTONOMO DE AGUA E ESGOTOS
-
-**Licitação:** Ata nº 39/2024R-20-6/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de preços para eventual aquisição materiais para construção.
-**CNPJ do Órgão:** 46251021000180
-**Nome do Órgão:** SERVICO AUTONOMO DE AGUA E ESGOTOS
-**Código da Unidade:** 935
-**Nome da Unidade:** SAAE Indaiatuba
-**Esfera:** Municipal
-**Poder:** Executivo
-**Município:** Indaiatuba - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T15:42:28.558492
-**Data de Atualização PNCP:** 2024-09-09T15:42:28.558492
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-08
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/46251021000180/2024/249/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00397/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
-
-**Licitação:** Ata nº 00397/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de Equipamentos de Proteção Individual
-**CNPJ do Órgão:** 15126437000143
-**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
-**Código da Unidade:** 155010
-**Nome da Unidade:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** São Luís - MA
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T16:52:20.394791
-**Data de Atualização PNCP:** 2024-09-10T16:52:20.394791
-**Data de Assinatura:** 2024-09-10
-**Início da Vigência:** 2024-09-11
-**Fim da Vigência:** 2025-09-11
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/928/2
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00457/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
-
-**Licitação:** Ata nº 00457/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição parcelada de medicamentos padronizados, aparelho cardiovascular / correlatos / Hormônios e Análogos (digoxina 0,05mg/mL elixir e outros), para o CHC/UFPR/EBSERH.
-**CNPJ do Órgão:** 15126437000143
-**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
-**Código da Unidade:** 155902
-**Nome da Unidade:** COMPLEXO HOSPITALAR UNIVERSITÁRIO DA UFPR
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Curitiba - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T15:50:13.461521
-**Data de Atualização PNCP:** 2024-09-05T15:50:13.461521
-**Data de Assinatura:** 2024-09-05
-**Início da Vigência:** 2024-09-06
-**Fim da Vigência:** 2025-09-06
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/1652/10
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00274/2024 - COMANDO DA AERONAUTICA
-
-**Licitação:** Ata nº 00274/2024
-**Ano:** 2024
-**Objeto da licitação:** Eventual aquisição de Alimento Animal
-**CNPJ do Órgão:** 00394429000100
-**Nome do Órgão:** COMANDO DA AERONAUTICA
-**Código da Unidade:** 120016
-**Nome da Unidade:** GRUPAMENTO DE APOIO DE SÃO JOSÉ DOS CAMPOS
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** São José dos Campos - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T10:36:47.064072
-**Data de Atualização PNCP:** 2024-09-06T10:36:47.064072
-**Data de Assinatura:** 2024-08-29
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/00394429000100/2024/1500/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00123/2024 - MUNICIPIO DE ITAUNA
-
-**Licitação:** Ata nº 00123/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS para futura e eventual aquisição de desincrustante, detergente enzimático, solução de lugol, benjoim, água oxigenada e iodopovidona.
-**CNPJ do Órgão:** 18309724000187
-**Nome do Órgão:** MUNICIPIO DE ITAUNA
-**Código da Unidade:** 984675
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE ITAUNA - MG
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Itaúna - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T14:30:36.152032
-**Data de Atualização PNCP:** 2024-09-10T14:30:36.152032
-**Data de Assinatura:** 2024-08-26
-**Início da Vigência:** 2024-08-27
-**Fim da Vigência:** 2025-08-27
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/18309724000187/2024/187/2
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00424/2024 - HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE BOTUCATU
-
-**Licitação:** Ata nº 00424/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de dispositivos médicos (kit catéter venoso central, cateter umbilical, etc).
-**CNPJ do Órgão:** 12474705000120
-**Nome do Órgão:** HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE BOTUCATU
-**Código da Unidade:** 092501
-**Nome da Unidade:** ESP-HOSPITAL DAS CLINICAS DE BOTUCATU
-**Esfera:** Estadual
-**Poder:** Executivo
-**Município:** Botucatu - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T11:22:21.545816
-**Data de Atualização PNCP:** 2024-09-11T11:22:21.545816
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-11
-**Fim da Vigência:** 2025-09-10
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/12474705000120/2024/129/6
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 151/2024 - MUNICIPIO DE RIO BRILHANTE
-
-**Licitação:** Ata nº 151/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS PARA AQUISIÇÃO DE FRALDAS PRONTAS DESCARTÁVEIS INFANTIS E GERIÁTRICAS EM ATENDIMENTO AS DEMANDAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO, FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL E FUNDO MUNICIPAL DE SAÚDE DA PREFEITURA MUNICIPAL DE RIO BRILHANTE/MS.
-**CNPJ do Órgão:** 03681582000107
-**Nome do Órgão:** MUNICIPIO DE RIO BRILHANTE
-**Código da Unidade:** 1
-**Nome da Unidade:** MUNICIPIO DE RIO BRILHANTE
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Rio Brilhante - MS
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T11:24:10.032171
-**Data de Atualização PNCP:** 2024-09-06T11:24:10.032171
-**Data de Assinatura:** 2024-09-04
-**Início da Vigência:** 2024-09-04
-**Fim da Vigência:** 2025-09-04
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/03681582000107/2024/57/3
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00310/2024 - COMANDO DO EXERCITO
-
-**Licitação:** Ata nº 00310/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de preços para aquisição de material de TECNOLOGIA DA INFORMAÇÃO para o 1º Batalhão Ferroviário.
-**CNPJ do Órgão:** 00394452000103
-**Nome do Órgão:** COMANDO DO EXERCITO
-**Código da Unidade:** 160447
-**Nome da Unidade:** 1º BATALHãO FERROVIáRIO
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Lages - SC
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T15:21:36.015146
-**Data de Atualização PNCP:** 2024-09-10T15:21:36.015146
-**Data de Assinatura:** 2024-09-10
-**Início da Vigência:** 2024-09-11
-**Fim da Vigência:** 2025-09-10
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13670/32
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 210/2024 - MUNICIPIO DE GUIRATINGA
-
-**Licitação:** Ata nº 210/2024
-**Ano:** 2024
-**Objeto da licitação:** [LICITANET] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE FERRAMENTAS EM GERAL, DESTINADOS A ATENDER AS DEMANDAS DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE GUIRATINGA
-**CNPJ do Órgão:** 03347127000170
-**Nome do Órgão:** MUNICIPIO DE GUIRATINGA
-**Código da Unidade:** 1868
-**Nome da Unidade:** MUNICIPIO DE GUIRATINGA/MT
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Guiratinga - MT
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T11:38:06.173938
-**Data de Atualização PNCP:** 2024-09-09T11:38:06.173938
-**Data de Assinatura:** 2024-08-20
-**Início da Vigência:** 2024-08-20
-**Fim da Vigência:** 2025-08-20
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/03347127000170/2024/119/5
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 225/2024 - MUNICIPIO DE BARCARENA
-
-**Licitação:** Ata nº 225/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de preços para aquisição de materiais de construção civil, hidráulicos, pintura e elétricos, destinados a atender as Secretarias Municipais da Prefeitura de Barcarena
-**CNPJ do Órgão:** 05058458000115
-**Nome do Órgão:** MUNICIPIO DE BARCARENA
-**Código da Unidade:** 980425
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE BARCARENA - PA
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Barcarena - PA
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T09:49:17.142953
-**Data de Atualização PNCP:** 2024-09-09T09:49:17.142953
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-10
-**Fim da Vigência:** 2025-09-10
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/05058458000115/2024/38/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 83/2024 - MUNICIPIO DE AGUDO
-
-**Licitação:** Ata nº 83/2024
-**Ano:** 2024
-**Objeto da licitação:** Despesa referente a aquisicao de materiais e utensilhos de cozinha  aparelhos domesticos  mobiliario em geral e tabelas de basquete para atender a demanda das escolas e creches da rede municipal de ensino de Agudo RS.
-**CNPJ do Órgão:** 87531976000179
-**Nome do Órgão:** MUNICIPIO DE AGUDO
-**Código da Unidade:** 0000
-**Nome da Unidade:** PREFEITURA MUNICIPAL
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Agudo - RS
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T08:58:28.014863
-**Data de Atualização PNCP:** 2024-09-12T08:58:28.014863
-**Data de Assinatura:** 2024-09-12
-**Início da Vigência:** 2024-09-12
-**Fim da Vigência:** 2025-09-11
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/87531976000179/2024/96/9
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 000210/2024 - MUNICIPIO DE LIMEIRA
-
-**Licitação:** Ata nº 000210/2024
-**Ano:** 2024
-**Objeto da licitação:** MATERIAL MEDICO HOSPITALAR 
-**CNPJ do Órgão:** 45132495000140
-**Nome do Órgão:** MUNICIPIO DE LIMEIRA
-**Código da Unidade:** 1
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE LIMEIRA
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Limeira - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T09:59:58.023058
-**Data de Atualização PNCP:** 2024-09-06T09:59:58.023058
-**Data de Assinatura:** 2024-08-30
-**Início da Vigência:** 2024-09-04
-**Fim da Vigência:** 2025-09-03
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/45132495000140/2024/409/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00373/2024 - UNIVERSIDADE FEDERAL DA BAHIA
-
-**Licitação:** Ata nº 00373/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de Preços -90069/2024 - para eventual aquisição de REAGENTE COM COMODATO visando atender as necessidades do Laboratório de Análises Clínicas e Toxicológicas da Faculdade de Farmácia, unidade integrante do Complexo Hospitalar e de Saúde/UFBA. Informações gerais: Senhores licitantes, ocorrendo divergência entre a descrição do produto constante no código SIASG (CATMAT) e no Termo de Referência (Anexo I).
-**CNPJ do Órgão:** 15180714000104
-**Nome do Órgão:** UNIVERSIDADE FEDERAL DA BAHIA
-**Código da Unidade:** 150247
-**Nome da Unidade:** COMPLEXO HOSPITALAR E DE SAUDE DA UFBA
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Salvador - BA
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T13:20:36.672092
-**Data de Atualização PNCP:** 2024-09-05T13:20:36.672092
-**Data de Assinatura:** 2024-09-05
-**Início da Vigência:** 2024-09-06
-**Fim da Vigência:** 2025-09-06
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/15180714000104/2024/157/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 008/2024-8/2024 - MUNICIPIO DE ITUPEVA
-
-**Licitação:** Ata nº 008/2024-8/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de medicamentos padronizados não contidos na tabela CMED-ANVISA, sob o Sistema de Registro de Preços, pelo período de 12 (doze) meses.
-**CNPJ do Órgão:** 45780061000157
-**Nome do Órgão:** MUNICIPIO DE ITUPEVA
-**Código da Unidade:** 973
-**Nome da Unidade:** Itupeva
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Itupeva - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T12:44:55.191658
-**Data de Atualização PNCP:** 2024-09-11T12:44:55.191658
-**Data de Assinatura:** 2024-09-02
-**Início da Vigência:** 2024-09-02
-**Fim da Vigência:** 2025-09-02
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/45780061000157/2024/42/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 119/2424 - MUNICIPIO DE BARRA DOS COQUEIROS
-
-**Licitação:** Ata nº 119/2424
-**Ano:** 2024
-**Objeto da licitação:** [LICITANET] - Registro de Preços destinado à futura contratação e eventual aquisição de Materiais Esportivos, para atender as necessidades dos diversos órgãos da administração de acordo com o Decreto Municipal nº. 190/2024, conforme condições, quantidades e exigências estabelecidas neste instrumento convocatório, a fim de atender às necessidades do Município de Barra dos Coqueiros/SE.
-**CNPJ do Órgão:** 13128863000190
-**Nome do Órgão:** MUNICIPIO DE BARRA DOS COQUEIROS
-**Código da Unidade:** 809
-**Nome da Unidade:** MUNICÍPIO DE BARRA DOS COQUEIROS/SE
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Barra dos Coqueiros - SE
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-05T14:55:44.967338
-**Data de Atualização PNCP:** 2024-09-05T14:55:44.967338
-**Data de Assinatura:** 2024-09-05
-**Início da Vigência:** 2024-09-05
-**Fim da Vigência:** 2025-09-05
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/13128863000190/2024/87/8
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00022/2023 - UNIVERSIDADE FEDERAL DE UBERLANDIA
-
-**Licitação:** Ata nº 00022/2023
-**Ano:** 2023
-**Objeto da licitação:** Aquisição de GLP, Nitrogênio Líquido e Gases Especiais
-**CNPJ do Órgão:** 25648387000118
-**Nome do Órgão:** UNIVERSIDADE FEDERAL DE UBERLANDIA
-**Código da Unidade:** 154043
-**Nome da Unidade:** FUNDACAO UNIVERSIDADE FEDERAL DE UBERLANDIA
-**Esfera:** Federal
-**Poder:** Executivo
-**Município:** Uberlândia - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2023-09-06T16:36:27.542108
-**Data de Atualização PNCP:** 2024-09-06T15:03:02.558288
-**Data de Assinatura:** 2023-09-06
-**Início da Vigência:** 2023-09-08
-**Fim da Vigência:** 2025-09-08
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/25648387000118/2023/145/2
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 48224/2024 - MUNICIPIO DE LONDRINA
-
-**Licitação:** Ata nº 48224/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de Precos para eventual aquisicao de material medico hospitalar
-**CNPJ do Órgão:** 75771477000170
-**Nome do Órgão:** MUNICIPIO DE LONDRINA
-**Código da Unidade:** 100028
-**Nome da Unidade:** Diretoria de Gestao de Licitacoes e Contratos -SMGP
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Londrina - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T11:31:59.049945
-**Data de Atualização PNCP:** 2024-09-09T11:31:59.049945
-**Data de Assinatura:** 2024-09-05
-**Início da Vigência:** 2024-09-05
-**Fim da Vigência:** 2025-11-08
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/75771477000170/2024/284/6
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº ATA 427/2024 - MUNICIPIO DE SAO BERNARDO DO CAMPO
-
-**Licitação:** Ata nº ATA 427/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE MEDICAMENTOS
-**CNPJ do Órgão:** 46523239000147
-**Nome do Órgão:** MUNICIPIO DE SAO BERNARDO DO CAMPO
-**Código da Unidade:** 3
-**Nome da Unidade:** Município de São Bernardo do Campo
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** São Bernardo do Campo - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T15:25:30.920718
-**Data de Atualização PNCP:** 2024-09-11T15:25:30.920718
-**Data de Assinatura:** 2024-08-26
-**Início da Vigência:** 2024-08-26
-**Fim da Vigência:** 2025-08-26
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/46523239000147/2024/326/3
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 000002/2024 - SERVICO AUTONOMO DE AGUA E ESGOTO
-
-**Licitação:** Ata nº 000002/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de materiais de construçao para as demandas do SAAE e dos Distritos..
-**CNPJ do Órgão:** 22050561000138
-**Nome do Órgão:** SERVICO AUTONOMO DE AGUA E ESGOTO
-**Código da Unidade:** 22050561000138-003
-**Nome da Unidade:** SERVICO AUTONOMO DE AGUA E ESGOTO
-**Esfera:** Municipal
-**Poder:** Executivo
-**Município:** Manhuaçu - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T09:00:32.012664
-**Data de Atualização PNCP:** 2024-09-09T09:00:32.012664
-**Data de Assinatura:** 2024-08-30
-**Início da Vigência:** 2024-08-30
-**Fim da Vigência:** 2025-08-30
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/22050561000138/2024/76/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 000107/24/2024 - MUNICIPIO DE POMPEU
-
-**Licitação:** Ata nº 000107/24/2024
-**Ano:** 2024
-**Objeto da licitação:** MATERIAL ELETROELETRÔNICO 2
-**CNPJ do Órgão:** 18296681000142
-**Nome do Órgão:** MUNICIPIO DE POMPEU
-**Código da Unidade:** 1
-**Nome da Unidade:** MUNICIPIO DE POMPEU
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Pompéu - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T14:38:29.171209
-**Data de Atualização PNCP:** 2024-09-10T14:38:29.171209
-**Data de Assinatura:** 2024-09-10
-**Início da Vigência:** 2024-09-10
-**Fim da Vigência:** 2025-09-10
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/18296681000142/2024/121/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 87/2024 - MUNICIPIO DE TUPACIGUARA
-
-**Licitação:** Ata nº 87/2024
-**Ano:** 2024
-**Objeto da licitação:** [Publicenter] - Registro de preços para futura e eventual contratação de medicamentos éticos , genéricos, similares, injetáveis e tópicos, para atender as necessidades da Secretaria Municipal de Saúde, conforme condições, quantidades e exigências e estabelecidos neste Edital e seus anexos. 
-**CNPJ do Órgão:** 18260489000104
-**Nome do Órgão:** MUNICIPIO DE TUPACIGUARA
-**Código da Unidade:** 20502
-**Nome da Unidade:** FUNDO MUNICIPAL DE SAÚDE
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Tupaciguara - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T14:51:37.326096
-**Data de Atualização PNCP:** 2024-09-12T14:51:37.326096
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/18260489000104/2024/118/10
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 358/2024 - MUNICIPIO DE ITAPUI
-
-**Licitação:** Ata nº 358/2024
-**Ano:** 2024
-**Objeto da licitação:** Medicamentos 01
-**CNPJ do Órgão:** 46189726000115
-**Nome do Órgão:** MUNICIPIO DE ITAPUI
-**Código da Unidade:** 1
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE ITAPUÍ - SP
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Itapuí - SP
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T11:10:28.591441
-**Data de Atualização PNCP:** 2024-09-09T11:10:28.591441
-**Data de Assinatura:** 2024-08-23
-**Início da Vigência:** 2024-08-23
-**Fim da Vigência:** 2025-08-22
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/46189726000115/2024/57/10
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 345/2024 - MUNICIPIO DE IVAIPORA
-
-**Licitação:** Ata nº 345/2024
-**Ano:** 2024
-**Objeto da licitação:** AQUISIÇÃO E INSTALAÇÃO DE PLAYGROUND, BANCO E LIXEIRA EM MADEIRA PLÁSTICA E PISO EM BORRACHA PARA AS PRAÇAS, PARQUES, JARDINS, CRECHES E ESCOLAS DO MUNICÍPIO.
-**CNPJ do Órgão:** 75741330000137
-**Nome do Órgão:** MUNICIPIO DE IVAIPORA
-**Código da Unidade:** 75741330000137
-**Nome da Unidade:** Unidade administrativa
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ivaiporã - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T14:07:33.182362
-**Data de Atualização PNCP:** 2024-09-12T14:07:33.182362
-**Data de Assinatura:** 2024-07-31
-**Início da Vigência:** 2024-07-31
-**Fim da Vigência:** 2025-07-31
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/75741330000137/2024/117/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 20240814001/2024 - MUNICIPIO DE ITAICABA
-
-**Licitação:** Ata nº 20240814001/2024
-**Ano:** 2024
-**Objeto da licitação:** PRESTAÇÃO DE SERVIÇO DE ACESSO À INTERNET ATRAVÉS DE LINKS DEDICADOS, COM SOLUÇÃO DE SEGURANÇA CONTRA-ATAQUES DO TIPO NEGAÇÃO DE SERVIÇO DDoS, COM IP VÁLIDO E ESTÁTICO, INCLUINDO CUSTO DE INSTALAÇÃO E LOCAÇÃO DOS EQUIPAMENTOS NECESSÁRIOS A PRESTAÇÃO DOS SERVIÇOS, PARA ATENDER AS NECESSIDADES DO GOVERNO MUNICIPAL DE ITAIÇABA/CE.
-**CNPJ do Órgão:** 07403769000108
-**Nome do Órgão:** MUNICIPIO DE ITAICABA
-**Código da Unidade:** 06
-**Nome da Unidade:** FUNDO MUNICIPAL DE EDUCACAO
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Itaiçaba - CE
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T10:20:30.371006
-**Data de Atualização PNCP:** 2024-09-09T10:20:30.371006
-**Data de Assinatura:** 2024-08-14
-**Início da Vigência:** 2024-08-14
-**Fim da Vigência:** 2025-08-14
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/07403769000108/2024/51/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 59/2424 - MUNICIPIO DE MINISTRO ANDREAZZA
-
-**Licitação:** Ata nº 59/2424
-**Ano:** 2024
-**Objeto da licitação:** [LICITANET] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MEDICAMENTO INJETÁVEL PARA ATENDER A DEMANDA DA UNIDADE MISTA DE SAÚDE.
-**CNPJ do Órgão:** 63762074000185
-**Nome do Órgão:** MUNICIPIO DE MINISTRO ANDREAZZA
-**Código da Unidade:** 119
-**Nome da Unidade:** MUNICÍPIO DE MINISTRO ANDREAZZA/RO
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ministro Andreazza - RO
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T14:35:24.090594
-**Data de Atualização PNCP:** 2024-09-09T14:35:24.090594
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-12
-**Fim da Vigência:** 2025-09-12
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/63762074000185/2024/126/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 220/2024 - MUNICIPIO DE MANOEL RIBAS
-
-**Licitação:** Ata nº 220/2024
-**Ano:** 2024
-**Objeto da licitação:** Contratação de empresa para aquisição de MATERIAIS HIDRÁULICOS destinados a área da construção civil, visando atender às necessidades da Prefeitura Municipal de Manoel Ribas/PR.
-**CNPJ do Órgão:** 75740811000128
-**Nome do Órgão:** MUNICIPIO DE MANOEL RIBAS
-**Código da Unidade:** 1
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE MANOEL RIBAS - PR
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Manoel Ribas - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T15:22:10.159508
-**Data de Atualização PNCP:** 2024-09-06T15:22:10.159508
-**Data de Assinatura:** 2024-08-30
-**Início da Vigência:** 2024-08-30
-**Fim da Vigência:** 2025-08-29
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/75740811000128/2024/86/5
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 18/2024/2024 - MUNICIPIO DE OURO PRETO DO OESTE
-
-**Licitação:** Ata nº 18/2024/2024
-**Ano:** 2024
-**Objeto da licitação:** [LICITANET] - AQUISIÇÃO DE MEDICAMENTOS - SISTEMA DE REGISTRO DE PREÇOS.
-**CNPJ do Órgão:** 04380507000179
-**Nome do Órgão:** MUNICIPIO DE OURO PRETO DO OESTE
-**Código da Unidade:** 73
-**Nome da Unidade:** MUNICÍPIO DA ESTÂNCIA TURISTICA DE OURO PRETO DO OESTE/RO
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ouro Preto do Oeste - RO
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T11:17:20.252048
-**Data de Atualização PNCP:** 2024-09-12T11:17:20.252048
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/04380507000179/2024/114/1
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 048/2024 - MUNICIPIO DE PEDRA BONITA
-
-**Licitação:** Ata nº 048/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAIS E SUPRIMENTOS DE INFORMÁTICA, CONFORME ESPECIFICAÇÕES CONSTANTES NO TERMO DE REFERÊNCIA, EM ATENDIMENTO AS NECESSIDADES DAS SECRETARIAS E SETORES VINCULADOS A PREFEITURA MUNICIPAL DE PEDRA BONITA-MG.
-**CNPJ do Órgão:** 01640429000106
-**Nome do Órgão:** MUNICIPIO DE PEDRA BONITA
-**Código da Unidade:** 1137
-**Nome da Unidade:** Unidade Única
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Pedra Bonita - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T09:45:52.102324
-**Data de Atualização PNCP:** 2024-09-12T09:45:52.102324
-**Data de Assinatura:** 2024-08-22
-**Início da Vigência:** 2024-08-22
-**Fim da Vigência:** 2025-08-22
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/01640429000106/2024/40/5
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 273/2024 - MUNICIPIO DE SAO MIGUEL D'OESTE
-
-**Licitação:** Ata nº 273/2024
-**Ano:** 2024
-**Objeto da licitação:** REGISTRO DE PREÇOS PARA EVENTUAL AQUISIÇÃO DE MATERIAIS DESTINADOS À ILUMINAÇÃO NATALINA E À EXECUÇÃO DOS TRABALHOS REALIZADOS NO BARRACÃO DA SECRETARIA DE ESPORTE E CULTURA DO MUNICÍPIO DE SÃO MIGUEL DO OESTE/SC, DE ACORDO COM O ANEXO I, TERMO DE REFERÊNCIA DO EDITAL.
-**CNPJ do Órgão:** 82821174000180
-**Nome do Órgão:** MUNICIPIO DE SAO MIGUEL D'OESTE
-**Código da Unidade:** 001
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE SÃO MIGUEL DO OESTE
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** São Miguel do Oeste - SC
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-06T14:18:10.561571
-**Data de Atualização PNCP:** 2024-09-06T14:18:10.561571
-**Data de Assinatura:** 2024-09-04
-**Início da Vigência:** 2024-09-04
-**Fim da Vigência:** 2025-09-04
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/82821174000180/2024/417/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 242/2024 - MUNICIPIO DE CATAS ALTAS
-
-**Licitação:** Ata nº 242/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisicao de material de construcao e equipamentos de seguranca do trabalho  conforme condicoes previstas no edital e demais anexos.
-**CNPJ do Órgão:** 01612370000142
-**Nome do Órgão:** MUNICIPIO DE CATAS ALTAS
-**Código da Unidade:** 0000
-**Nome da Unidade:** PREFEITURA MUNICIPAL DE CATAS ALTAS
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Catas Altas - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T12:53:02.331638
-**Data de Atualização PNCP:** 2024-09-10T12:53:02.331638
-**Data de Assinatura:** 2024-09-03
-**Início da Vigência:** 2024-09-03
-**Fim da Vigência:** 2025-09-03
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/01612370000142/2024/140/2
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 193/2024 - MUNICIPIO DE CORNELIO PROCOPIO
-
-**Licitação:** Ata nº 193/2024
-**Ano:** 2024
-**Objeto da licitação:** Aquisição de materiais construção e elétricos em geral.
-**CNPJ do Órgão:** 76331941000170
-**Nome do Órgão:** MUNICIPIO DE CORNELIO PROCOPIO
-**Código da Unidade:** 4582
-**Nome da Unidade:** Prefeitura Municipal de Cornélio Procópio
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Cornélio Procópio - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-10T14:23:46.447321
-**Data de Atualização PNCP:** 2024-09-10T14:23:46.447321
-**Data de Assinatura:** 2024-08-22
-**Início da Vigência:** 2024-08-22
-**Fim da Vigência:** 2025-08-22
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/76331941000170/2024/332/3
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 734/2024/2024 - MUNICIPIO DE CURITIBA
-
-**Licitação:** Ata nº 734/2024/2024
-**Ano:** 2024
-**Objeto da licitação:** Contratação de Prestação de Serviço de Locação de Estruturas Móveis, Banda e Som para eventos esportivos e de lazer, a através de Sistema de Registro de Preço,  pelo  período de 12 (doze), para atender a Secretaria Municipal de Esporte, Lazer e Juventude.
-**CNPJ do Órgão:** 76417005000186
-**Nome do Órgão:** MUNICIPIO DE CURITIBA
-**Código da Unidade:** 82
-**Nome da Unidade:** SMAP/SMELJ - SMAP/SMELJ
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Curitiba - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T10:27:38.720455
-**Data de Atualização PNCP:** 2024-09-11T10:27:38.720455
-**Data de Assinatura:** 2024-09-10
-**Início da Vigência:** 2024-09-10
-**Fim da Vigência:** 2025-09-11
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/76417005000186/2024/110/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 00068/2024 - FUNDACAO UBERLANDENSE DO TURISMO ESPORTE E LAZER
-
-**Licitação:** Ata nº 00068/2024
-**Ano:** 2024
-**Objeto da licitação:** Futura ou Eventual contratação de empresa para aquisição de materiais de irrigação dos locais administrados pela FUTEL.
-**CNPJ do Órgão:** 20260121000180
-**Nome do Órgão:** FUNDACAO UBERLANDENSE DO TURISMO ESPORTE E LAZER
-**Código da Unidade:** 926038
-**Nome da Unidade:** FUN.UBERLANDENSE DO TURISMO, ESPORTE E LAZER
-**Esfera:** Municipal
-**Poder:** Executivo
-**Município:** Uberlândia - MG
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-11T14:51:45.035745
-**Data de Atualização PNCP:** 2024-09-11T14:51:45.035745
-**Data de Assinatura:** 2024-09-04
-**Início da Vigência:** 2024-09-05
-**Fim da Vigência:** 2025-09-04
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/20260121000180/2024/27/3
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 670/2024/2024 - FUNDO MUNICIPAL DA SAUDE
-
-**Licitação:** Ata nº 670/2024/2024
-**Ano:** 2024
-**Objeto da licitação:** SELEÇÃO DE PROPOSTAS PARA FORNECIMENTO DE MEDICAMENTOS, ATRAVÉS DO SISTEMA DE REGISTRO DE PREÇOS, PELO PERÍODO DE 01 (UM) ANO - COM COTA RESERVADA PARA MICROEMPRESAS, EMPRESAS DE PEQUENO PORTE E MICROEMPREENDEDORES INDIVIDUAIS - ME/EPP/MEI.
-**CNPJ do Órgão:** 13792329000184
-**Nome do Órgão:** FUNDO MUNICIPAL DA SAUDE
-**Código da Unidade:** 43
-**Nome da Unidade:** SECRETARIA MUNICIPAL DA SAÚDE
-**Esfera:** Municipal
-**Poder:** Executivo
-**Município:** Curitiba - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T11:48:08.920654
-**Data de Atualização PNCP:** 2024-09-12T11:48:08.920654
-**Data de Assinatura:** 2024-08-28
-**Início da Vigência:** 2024-08-28
-**Fim da Vigência:** 2025-09-12
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/13792329000184/2024/97/11
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 357/2024 - MUNICIPIO DE IVAIPORA
-
-**Licitação:** Ata nº 357/2024
-**Ano:** 2024
-**Objeto da licitação:** AQUISIÇÃO DE PRODUTOS DE LIMPEZA E ACESSÓRIOS PARA O LAVADOR DO MUNICÍPIO LIGADO A SECRETARIA MUNICIPAL DE VIAÇÃO.
-**CNPJ do Órgão:** 75741330000137
-**Nome do Órgão:** MUNICIPIO DE IVAIPORA
-**Código da Unidade:** 75741330000137
-**Nome da Unidade:** Unidade administrativa
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Ivaiporã - PR
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-12T09:32:52.264830
-**Data de Atualização PNCP:** 2024-09-12T09:32:52.264830
-**Data de Assinatura:** 2024-08-13
-**Início da Vigência:** 2024-08-13
-**Fim da Vigência:** 2025-08-13
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/75741330000137/2024/111/4
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
-# Licitação Ata nº 008 FMS - MEDISIL/2024 - MUNICIPIO DE BARREIRAS
-
-**Licitação:** Ata nº 008 FMS - MEDISIL/2024
-**Ano:** 2024
-**Objeto da licitação:** Registro de Preços para aquisição de Medicamentos Hospitalares destinados ao atendimento das Unidades da Atenção Especializada, vinculadas à Secretaria Municipal de Saúde de Barreiras-BA, 1ª Etapa.
-**CNPJ do Órgão:** 13654405000195
-**Nome do Órgão:** MUNICIPIO DE BARREIRAS
-**Código da Unidade:** 000000005
-**Nome da Unidade:** SECRETARIA MUNICIPAL DE SAUDE
-**Esfera:** Municipal
-**Poder:** Não se aplica
-**Município:** Barreiras - BA
-**Modalidade de Licitação:** Pregão - Eletrônico
-**Data de Publicação PNCP:** 2024-09-09T17:20:53.410610
-**Data de Atualização PNCP:** 2024-09-09T17:20:53.410610
-**Data de Assinatura:** 2024-09-09
-**Início da Vigência:** 2024-09-09
-**Fim da Vigência:** 2025-09-09
-**Cancelado:** False
-**Título do Arquivo:** 
-**URI do Arquivo:** 
-**Nomes dos Arquivos:** 
-**Tipo ID:** 1
-**Tipo Nome:** Edital
-**Item URL:** https://pncp.gov.br/atas/13654405000195/2024/44/9
-
-## Itens da Licitação
-**Descrição do Item:** 
-**Material ou Serviço:** 
-**Valor Unitário Estimado:** 
-**Quantidade:** 
-
----
-
 # Licitação Ata nº 3/2024 - MUNICIPIO DE TAQUARACU DE MINAS
 
 **Licitação:** Ata nº 3/2024
@@ -1937,6 +338,40 @@
 
 ---
 
+# Licitação Ata nº 29867750/2024 - MUNICIPIO DE PORTO ALEGRE
+
+**Licitação:** Ata nº 29867750/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - REGISTRO DE PREÇO PARA CONTRATAÇÃO DE EMPRESA PARA A PRESTAÇÃO DE SERVIÇOS DE DIVULGAÇÃO DE ANÚNCIOS DE CARÁTER LEGAL DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DE PORTO ALEGRE, EM MEIO IMPRESSO, PARA ATENDER ÀS DEMANDAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL.
+**CNPJ do Órgão:** 92963560000160
+**Nome do Órgão:** MUNICIPIO DE PORTO ALEGRE
+**Código da Unidade:** 01
+**Nome da Unidade:** DLC - Diretoria de Licitações e Contratos
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Porto Alegre - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:31:34.956044
+**Data de Atualização PNCP:** 2024-09-13T10:31:34.956044
+**Data de Assinatura:** 2024-08-23
+**Início da Vigência:** 2024-08-23
+**Fim da Vigência:** 2025-08-22
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/92963560000160/2024/379/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 277/2024 - MUNICIPIO DE SANTO ANTONIO DO MONTE
 
 **Licitação:** Ata nº 277/2024
@@ -2030,6 +465,40 @@
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394502000144/2024/6995/18
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00038/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00038/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de Gêneros Alimentícios para o Quantitativo de Subsistência: Secos e Frigorificados.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160219
+**Nome da Unidade:** COMANDO 5 REGIAO MILITAR
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Curitiba - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:14:32.206434
+**Data de Atualização PNCP:** 2024-09-13T10:14:32.206434
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13666/11
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -2710,6 +1179,40 @@
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/16870974000166/2024/141/14
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 230/2024 - MUNICIPIO DE IVOTI
+
+**Licitação:** Ata nº 230/2024
+**Ano:** 2024
+**Objeto da licitação:** MATERIAL DE CONSUMO
+**CNPJ do Órgão:** 88254909000117
+**Nome do Órgão:** MUNICIPIO DE IVOTI
+**Código da Unidade:** 93
+**Nome da Unidade:** MUNICIPIO DE IVOTI
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivoti - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:29:54.313270
+**Data de Atualização PNCP:** 2024-09-13T10:29:54.313270
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88254909000117/2024/1548/5
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -4694,6 +3197,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 255987/2024 - FUNDACAO DE SAUDE SAPUCAIA DO SUL
+
+**Licitação:** Ata nº 255987/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE MATERIAL MÉDICO (LUVAS) PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS
+**CNPJ do Órgão:** 13183513000127
+**Nome do Órgão:** FUNDACAO DE SAUDE SAPUCAIA DO SUL
+**Código da Unidade:** 127122
+**Nome da Unidade:** FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Sapucaia do Sul - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:58:23.889687
+**Data de Atualização PNCP:** 2024-09-13T10:58:23.889687
+**Data de Assinatura:** 2024-08-29
+**Início da Vigência:** 2024-08-29
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/13183513000127/2024/107/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 132/2024 - MUNICIPIO DE GRANDES RIOS
 
 **Licitação:** Ata nº 132/2024
@@ -4864,6 +3401,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 202409011/2024 - MUNICIPIO DE JESUANIA
+
+**Licitação:** Ata nº 202409011/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de material médico hospitalar/ambulatorial para as Unidades Básicas de Saúde de Jesuânia, para eventual e futuro fornecimento, com inscrição em ATA DE REGISTRO DE PREÇOS.
+**CNPJ do Órgão:** 18188227000178
+**Nome do Órgão:** MUNICIPIO DE JESUANIA
+**Código da Unidade:** 807
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Jesuânia - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:56:58.454153
+**Data de Atualização PNCP:** 2024-09-13T09:56:58.454153
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18188227000178/2024/22/6
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00498/2024 - COMANDO DA AERONAUTICA
 
 **Licitação:** Ata nº 00498/2024
@@ -4957,6 +3528,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/06140404000167/2024/27/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 10216/2024 - MUNICIPIO DE SAO BENTO
+
+**Licitação:** Ata nº 10216/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro De Preços Para A Aquisição De Materiais Esportivos Para Suprir As Necessidades Da Rede De Ensino Do Município De São Bento-PB, Conforme Termo De Referência E Especificações.
+**CNPJ do Órgão:** 09069709000118
+**Nome do Órgão:** MUNICIPIO DE SAO BENTO
+**Código da Unidade:** 982179
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE SÃO BENTO - PB
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** São Bento - PB
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:37:32.943447
+**Data de Atualização PNCP:** 2024-09-13T10:37:32.943447
+**Data de Assinatura:** 2024-09-03
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-03
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/09069709000118/2024/74/7
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -5408,6 +4013,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 255985/2024 - FUNDACAO DE SAUDE SAPUCAIA DO SUL
+
+**Licitação:** Ata nº 255985/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE MATERIAL MÉDICO (LUVAS) PARA A FUNDAÇÃO HOSPITALAR GETÚLIO VARGAS
+**CNPJ do Órgão:** 13183513000127
+**Nome do Órgão:** FUNDACAO DE SAUDE SAPUCAIA DO SUL
+**Código da Unidade:** 127122
+**Nome da Unidade:** FUNDAÇÃO DE SAÚDE SAPUCAIA DO SUL
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Sapucaia do Sul - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:01:06.951863
+**Data de Atualização PNCP:** 2024-09-13T11:01:06.951863
+**Data de Assinatura:** 2024-08-29
+**Início da Vigência:** 2024-08-29
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/13183513000127/2024/107/4
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 9/2024 - CACHOEIRA DO SUL CAMARA DE VEREADORES
 
 **Licitação:** Ata nº 9/2024
@@ -5569,6 +4208,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/04542916000124/2024/22/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 10411/2024 - FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+
+**Licitação:** Ata nº 10411/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futuro fornecimento de material de expediente.
+**CNPJ do Órgão:** 14814139000183
+**Nome do Órgão:** FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+**Código da Unidade:** 928285
+**Nome da Unidade:** FUNDAÇÃO ESTATAL DE ATENÇÃO A SAÚDE - PR
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Curitiba - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:01:46.696699
+**Data de Atualização PNCP:** 2024-09-13T11:01:46.696699
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14814139000183/2024/136/11
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -7484,6 +6157,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 159/2024 - MUNICIPIO DE MONDAI
+
+**Licitação:** Ata nº 159/2024
+**Ano:** 2024
+**Objeto da licitação:** Constitui o objeto da presente licitação o registro de preços para a aquisição de material de expediente e demais itens destinados à manutenção das atividades das Secretarias da Administração Municipal, pelo período de 12 (doze) meses, conforme regras, especificações e quantidades estabelecidas neste edital e seus anexos.
+**CNPJ do Órgão:** 83028415000109
+**Nome do Órgão:** MUNICIPIO DE MONDAI
+**Código da Unidade:** CIN559
+**Nome da Unidade:** MUNICÍPIO DE MONDAÍ
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Mondaí - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:36:36.608026
+**Data de Atualização PNCP:** 2024-09-13T10:36:36.608026
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/83028415000109/2024/87/4
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 163/2024 - MUNICIPIO DE ITATIAIUCU
 
 **Licitação:** Ata nº 163/2024
@@ -7543,6 +6250,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/33663683000116/2024/731/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 10405/2024 - FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+
+**Licitação:** Ata nº 10405/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futuro fornecimento de material de expediente.
+**CNPJ do Órgão:** 14814139000183
+**Nome do Órgão:** FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+**Código da Unidade:** 928285
+**Nome da Unidade:** FUNDAÇÃO ESTATAL DE ATENÇÃO A SAÚDE - PR
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Curitiba - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:55:31.370150
+**Data de Atualização PNCP:** 2024-09-13T10:55:31.370150
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14814139000183/2024/136/5
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -7960,6 +6701,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 10416/2024 - FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+
+**Licitação:** Ata nº 10416/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futuro fornecimento de material de expediente.
+**CNPJ do Órgão:** 14814139000183
+**Nome do Órgão:** FUNDACAO ESTATAL DE ATENCAO A SAUDE - FEAS
+**Código da Unidade:** 928285
+**Nome da Unidade:** FUNDAÇÃO ESTATAL DE ATENÇÃO A SAÚDE - PR
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Curitiba - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:09:15.756610
+**Data de Atualização PNCP:** 2024-09-13T11:09:15.756610
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14814139000183/2024/136/16
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 244/2024 - MUNICIPIO DE MOGI DAS CRUZES
 
 **Licitação:** Ata nº 244/2024
@@ -8019,6 +6794,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394452000103/2023/15375/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 045/2024 - MUNICIPIO DE ILOPOLIS
+
+**Licitação:** Ata nº 045/2024
+**Ano:** 2024
+**Objeto da licitação:** PRESTAÇÃO DE SERVIÇOS
+**CNPJ do Órgão:** 88186424000133
+**Nome do Órgão:** MUNICIPIO DE ILOPOLIS
+**Código da Unidade:** 177
+**Nome da Unidade:** P.M. De Ilopolis
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ilópolis - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:52:30.379062
+**Data de Atualização PNCP:** 2024-09-13T10:52:30.379062
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88186424000133/2024/155/2
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -8257,6 +7066,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/46643474000152/2024/61/16
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00108/2024 - BOM JESUS DO ITABAPOANA PREFEITURA
+
+**Licitação:** Ata nº 00108/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preço visando futura e eventual aquisição de material  de consumo de informática, a pedido das diversas secretarias municipais do município de bom jesus do Itabapoana/rj.
+**CNPJ do Órgão:** 29112760000172
+**Nome do Órgão:** BOM JESUS DO ITABAPOANA PREFEITURA
+**Código da Unidade:** 985811
+**Nome da Unidade:** PREFEITURA MUNICIPAL BOM JESUS DO ITABAPOANA
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Bom Jesus do Itabapoana - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:48:43.366669
+**Data de Atualização PNCP:** 2024-09-13T09:48:43.366669
+**Data de Assinatura:** 2024-08-26
+**Início da Vigência:** 2024-08-27
+**Fim da Vigência:** 2025-08-26
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/29112760000172/2024/21/2
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -9252,6 +8095,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 00409/2024 - UNIVERSIDADE FEDERAL DA BAHIA
+
+**Licitação:** Ata nº 00409/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços - 90076/2024 - para eventual aquisição de OPME visando atender as necessidades do Hospital Ana Nery, unidade integrante do Complexo Hospitalar e de Saúde/UFBA. Informações gerais: Senhores licitantes, ocorrendo divergência entre a descrição do produto constante no código SIASG (CATMAT) e no Termo de Referência (Anexo I), prevalecerá a descrição deste último, a fim de tornar mais ágil a fase de habilitação.
+**CNPJ do Órgão:** 15180714000104
+**Nome do Órgão:** UNIVERSIDADE FEDERAL DA BAHIA
+**Código da Unidade:** 150247
+**Nome da Unidade:** COMPLEXO HOSPITALAR E DE SAUDE DA UFBA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Salvador - BA
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T07:22:48.002463
+**Data de Atualização PNCP:** 2024-09-13T07:22:48.002463
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15180714000104/2024/163/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 2024/100014/2024 - SERVICO AUTONOMO DE AGUA E ESGOTO DE SALTO - SAAE SALTO
 
 **Licitação:** Ata nº 2024/100014/2024
@@ -9311,6 +8188,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/08831289000100/2024/1/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00027/2024 - FUNDACAO DE APOIO A GESTAO INTEGRADA EM SAUDE DE FORTALEZA
+
+**Licitação:** Ata nº 00027/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços visando a seleção de empresa para aquisições futuras e eventuais de Materiais Médicos Hospitalares Gerais III para atender as necessidades da Fundação de Apoio à Gestão Integrada em Saúde de Fortaleza – FAGIFOR.
+**CNPJ do Órgão:** 49286753000102
+**Nome do Órgão:** FUNDACAO DE APOIO A GESTAO INTEGRADA EM SAUDE DE FORTALEZA
+**Código da Unidade:** 930491
+**Nome da Unidade:** FUNDAÇÃO DE AP.A GEST.INT.SAÚDE DE FORTALEZA
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Fortaleza - CE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:34:08.699158
+**Data de Atualização PNCP:** 2024-09-13T10:34:08.699158
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/49286753000102/2024/11/3
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -10274,6 +9185,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 
 ---
 
+# Licitação Ata nº 37/2024 - MUNICIPIO DE SALTO
+
+**Licitação:** Ata nº 37/2024
+**Ano:** 2024
+**Objeto da licitação:** Convocação de pessoa jurídica, através de Sistema de Registro de Preços, com exclusividade para ME/EPP, para fornecimento eventual e futura de óleos e lubrificantes que serão utilizados em manutenções nos veículos leves e pesados, pertencentes à frota do município, visando atender à demanda dos diversos Departamentos e Secretarias da Prefeitura de Salto, conforme as especificações e quantidades relacionadas no Anexo I do edital, a cargo da Secretaria de Administração e Governo Digital
+**CNPJ do Órgão:** 46634507000106
+**Nome do Órgão:** MUNICIPIO DE SALTO
+**Código da Unidade:** 1
+**Nome da Unidade:** Prefeitura Da Estância Turística De Salto
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Salto - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:04:04.245868
+**Data de Atualização PNCP:** 2024-09-13T10:04:04.245868
+**Data de Assinatura:** 2024-08-06
+**Início da Vigência:** 2024-08-07
+**Fim da Vigência:** 2025-08-06
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46634507000106/2024/256/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 0109/2024 - MUNICIPIO DE SENHOR DO BONFIM
 
 **Licitação:** Ata nº 0109/2024
@@ -10580,6 +9525,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 
 ---
 
+# Licitação Ata nº 11/2024 - CONSORCIO INTERMUNICIPAL - CI - CENTRO SUL
+
+**Licitação:** Ata nº 11/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - REGISTRO DE PREÇOS DE AQUISIÇÃO DE ÓLEOS LUBRIFICANTES E GRAXAS
+**CNPJ do Órgão:** 07926117000140
+**Nome do Órgão:** CONSORCIO INTERMUNICIPAL - CI - CENTRO SUL
+**Código da Unidade:** 01
+**Nome da Unidade:** Consórcio Intermunicipal Centro-Sul
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Camaquã - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:29:10.517713
+**Data de Atualização PNCP:** 2024-09-13T11:29:10.517713
+**Data de Assinatura:** 2024-09-02
+**Início da Vigência:** 2024-09-02
+**Fim da Vigência:** 2025-09-02
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/07926117000140/2024/18/4
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 127/2024 - MUNICIPIO DE DOM PEDRITO
 
 **Licitação:** Ata nº 127/2024
@@ -10877,6 +9856,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/13743760000130/2024/110/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 305/2024 - MUNICIPIO DE CAMPO NOVO DO PARECIS
+
+**Licitação:** Ata nº 305/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS para futura e eventual aquisição de materiais e equipamentos hospitalares a fim de atender as necessidades da Secretaria Municipal de Saúde e seus departamentos.
+**CNPJ do Órgão:** 24772287000136
+**Nome do Órgão:** MUNICIPIO DE CAMPO NOVO DO PARECIS
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Campo Novo do Parecis - MT
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:04:30.301462
+**Data de Atualização PNCP:** 2024-09-13T09:04:30.301462
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/24772287000136/2024/111/11
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -11668,6 +10681,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 
 ---
 
+# Licitação Ata nº 000261/2024 - MUNICIPIO DE BARRA BONITA
+
+**Licitação:** Ata nº 000261/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISICAO DE MATERIAIS E MEDICAMENTOS PARA USO VETERINARIO.
+**CNPJ do Órgão:** 46172888000140
+**Nome do Órgão:** MUNICIPIO DE BARRA BONITA
+**Código da Unidade:** 1
+**Nome da Unidade:** Prefeitura Municipal da Est. Turística de Barra Bonita
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Barra Bonita - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T06:52:40.818775
+**Data de Atualização PNCP:** 2024-09-13T06:52:40.818775
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46172888000140/2024/499/8
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 63/2024/2024 - MUNICIPIO DE LIMOEIRO DE ANADIA
 
 **Licitação:** Ata nº 63/2024/2024
@@ -12178,6 +11225,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 
 ---
 
+# Licitação Ata nº 235/2024 - MUNICIPIO DE IVOTI
+
+**Licitação:** Ata nº 235/2024
+**Ano:** 2024
+**Objeto da licitação:** MATERIAL DE CONSUMO
+**CNPJ do Órgão:** 88254909000117
+**Nome do Órgão:** MUNICIPIO DE IVOTI
+**Código da Unidade:** 93
+**Nome da Unidade:** MUNICIPIO DE IVOTI
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivoti - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:38:48.801553
+**Data de Atualização PNCP:** 2024-09-13T10:38:48.801553
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88254909000117/2024/1548/9
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00111/2024 - COMANDO DO EXERCITO
 
 **Licitação:** Ata nº 00111/2024
@@ -12543,6 +11624,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/87482535000124/2024/673/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 90063/2024 - UNIVERSIDADE DE SAO PAULO
+
+**Licitação:** Ata nº 90063/2024
+**Ano:** 2024
+**Objeto da licitação:** Agulha para anestesia de plexo
+**CNPJ do Órgão:** 63025530000104
+**Nome do Órgão:** UNIVERSIDADE DE SAO PAULO
+**Código da Unidade:** 102150
+**Nome da Unidade:** ESP-HOSPITAL UNIVERSITÁRIO - USP
+**Esfera:** Estadual
+**Poder:** Executivo
+**Município:** São Paulo - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T08:38:47.954780
+**Data de Atualização PNCP:** 2024-09-13T08:38:47.954780
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/63025530000104/2024/607/1
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -13267,6 +12382,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 
 ---
 
+# Licitação Ata nº 033/2024 - CONSORCIO DE MUNICIPIOS DA REGIAO CENTRAL - CONCEN
+
+**Licitação:** Ata nº 033/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA EVENTUAIS E FUTURAS AQUISIÇÕES DE MATERIAIS ESCOLARES.
+**CNPJ do Órgão:** 45080766000161
+**Nome do Órgão:** CONSORCIO DE MUNICIPIOS DA REGIAO CENTRAL - CONCEN
+**Código da Unidade:** 1
+**Nome da Unidade:** Consórcio dos Municípios da Região Central do Estado de São Paulo
+**Esfera:** Não se aplica
+**Poder:** Executivo
+**Município:** Santa Lúcia - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:26:02.310314
+**Data de Atualização PNCP:** 2024-09-13T11:26:02.310314
+**Data de Assinatura:** 2024-07-04
+**Início da Vigência:** 2024-07-04
+**Fim da Vigência:** 2025-07-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/45080766000161/2024/1/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 01336/2024 - COMANDO DA AERONAUTICA
 
 **Licitação:** Ata nº 01336/2024
@@ -13292,6 +12441,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394429000100/2024/1149/14
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 214/2024 - MUNICIPIO DE IGARAPE
+
+**Licitação:** Ata nº 214/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preço para futura e eventual aquisição de equipamentos para o ambulatório e bloco cirúrgico do Departamento de Zoonoses de Igarapé/MG
+**CNPJ do Órgão:** 18715474000185
+**Nome do Órgão:** MUNICIPIO DE IGARAPE
+**Código da Unidade:** 1132
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Igarapé - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T08:41:30.283574
+**Data de Atualização PNCP:** 2024-09-13T08:41:30.283574
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18715474000185/2024/26/3
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -13394,6 +12577,40 @@ manutenção preventiva e corretiva, substituição de peças e fornecimento de 
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394452000103/2023/15186/36
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 46/2024 - MUNICIPIO DE JUQUIA
+
+**Licitação:** Ata nº 46/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS (PERECÍVEIS E NÃO PERECÍVEIS) EM ATENDIMENTO ÀS SECRETARIAS MUNICIPAIS.
+**CNPJ do Órgão:** 46585964000140
+**Nome do Órgão:** MUNICIPIO DE JUQUIA
+**Código da Unidade:** 2305
+**Nome da Unidade:** Juquiá
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Juquiá - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:28:47.522936
+**Data de Atualização PNCP:** 2024-09-13T11:28:47.522936
+**Data de Assinatura:** 2024-08-21
+**Início da Vigência:** 2024-08-21
+**Fim da Vigência:** 2025-08-20
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46585964000140/2024/189/1
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -14289,6 +13506,40 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº 2024/000310/2024 - DEPARTAMENTO AUTONOMO DEAGUA E ESGOTO
+
+**Licitação:** Ata nº 2024/000310/2024
+**Ano:** 2024
+**Objeto da licitação:** Pregão Eletrônico para Registro de Preços para contratação de empresa especializada na prestação de serviço de desinfecção de reservatórios de água e vistoria técnica, incluindo o fornecimento de produtos quimicos e defensivos, utensílios, máquinas e equipamentos, bem como mão de obra qualificada, EPI's e materiais de consumo adequados para o serviço.
+**CNPJ do Órgão:** 56401177000154
+**Nome do Órgão:** DEPARTAMENTO AUTONOMO DEAGUA E ESGOTO
+**Código da Unidade:** 227
+**Nome da Unidade:** Manutenção Técnica
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Rio Claro - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:56:21.906583
+**Data de Atualização PNCP:** 2024-09-13T10:56:21.906583
+**Data de Assinatura:** 2024-08-08
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/56401177000154/2024/106/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 206/2024 - MUNICIPIO DE CORNELIO PROCOPIO
 
 **Licitação:** Ata nº 206/2024
@@ -14459,6 +13710,40 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº 00258/2024 - COMANDO DA AERONAUTICA
+
+**Licitação:** Ata nº 00258/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual aquisição de. materiais de consumo odontológico no GSAU-SJ
+**CNPJ do Órgão:** 00394429000100
+**Nome do Órgão:** COMANDO DA AERONAUTICA
+**Código da Unidade:** 120016
+**Nome da Unidade:** GRUPAMENTO DE APOIO DE SÃO JOSÉ DOS CAMPOS
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** São José dos Campos - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:43:47.248260
+**Data de Atualização PNCP:** 2024-09-13T09:43:47.248260
+**Data de Assinatura:** 2024-08-22
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394429000100/2024/1107/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 164/2024 - MUNICIPIO DE ITATIAIUCU
 
 **Licitação:** Ata nº 164/2024
@@ -14620,6 +13905,74 @@ PROTETOR SOLAR E REPELENTE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/83102475000116/2024/144/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000258/2024 - MUNICIPIO DE BARRA BONITA
+
+**Licitação:** Ata nº 000258/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISICAO DE MATERIAIS E MEDICAMENTOS PARA USO VETERINARIO.
+**CNPJ do Órgão:** 46172888000140
+**Nome do Órgão:** MUNICIPIO DE BARRA BONITA
+**Código da Unidade:** 1
+**Nome da Unidade:** Prefeitura Municipal da Est. Turística de Barra Bonita
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Barra Bonita - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T06:51:43.553876
+**Data de Atualização PNCP:** 2024-09-13T06:51:43.553876
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46172888000140/2024/499/5
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 155/2024 - MUNICIPIO DE PARANAVAI
+
+**Licitação:** Ata nº 155/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para aquisição futura e parcelada de Equipamentos de Proteção Individual e Coletivo destinados às Secretarias Municipais, Tiro de Guerra e Fundação Cultural de Paranavaí.
+**CNPJ do Órgão:** 76977768000181
+**Nome do Órgão:** MUNICIPIO DE PARANAVAI
+**Código da Unidade:** 12001
+**Nome da Unidade:** COORDENAÇÃO DA SECRETARIA DE ADMINISTRAÇÃO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Paranavaí - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:14:06.678469
+**Data de Atualização PNCP:** 2024-09-13T09:14:06.678469
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/76977768000181/2024/100/3
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -15139,6 +14492,40 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº 247/2024 - MUNICIPIO DE MATUPA
+
+**Licitação:** Ata nº 247/2024
+**Ano:** 2024
+**Objeto da licitação:** PREGÃO ELETRÔNICO SRP PARA FUTURAS AQUISIÇÕES DE FERRAMENTAS, IMPLEMENTOS AGRÍCOLAS E MAQUINAS DE NATUREZA PERMANENTE (BAÚ METÁLICO-BETONEIRAS-BOMBAS SUBMERSAS E HIDRÁULICA-CARRETAS AGRÍCOLAS-COMPACTADOR DE SOLO- ELEVADOR PARA VEÍCULO, ENTRE OUTROS ITENS)
+**CNPJ do Órgão:** 24772188000154
+**Nome do Órgão:** MUNICIPIO DE MATUPA
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE MATUPÁ - MT
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Matupá - MT
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:33:34.235449
+**Data de Atualização PNCP:** 2024-09-13T10:33:34.235449
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/24772188000154/2024/72/14
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 000072/2024 - MUNICIPIO DE JANDIRA
 
 **Licitação:** Ata nº 000072/2024
@@ -15164,6 +14551,40 @@ PROTETOR SOLAR E REPELENTE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/46522991000173/2024/112/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00088/2024 - UNIVERSIDADE FEDERAL DO CEARA
+
+**Licitação:** Ata nº 00088/2024
+**Ano:** 2024
+**Objeto da licitação:** O registro de preços para a eventual aquisição de equipamentos de proteção individual (EPIS), conforme condições, quantidades e exigências estabelecidas neste instrumento.
+**CNPJ do Órgão:** 07272636000131
+**Nome do Órgão:** UNIVERSIDADE FEDERAL DO CEARA
+**Código da Unidade:** 153045
+**Nome da Unidade:** UNIVERSIDADE FEDERAL DO CEARA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Fortaleza - CE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:33:06.388346
+**Data de Atualização PNCP:** 2024-09-13T11:33:06.388346
+**Data de Assinatura:** 2024-09-05
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/07272636000131/2024/15/12
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -15232,6 +14653,40 @@ PROTETOR SOLAR E REPELENTE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394502000144/2024/6506/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 308/2024 - MUNICIPIO DE CAMPO NOVO DO PARECIS
+
+**Licitação:** Ata nº 308/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS para futura e eventual aquisição de materiais e equipamentos hospitalares a fim de atender as necessidades da Secretaria Municipal de Saúde e seus departamentos.
+**CNPJ do Órgão:** 24772287000136
+**Nome do Órgão:** MUNICIPIO DE CAMPO NOVO DO PARECIS
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE CAMPO NOVO DO PARECIS - MT
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Campo Novo do Parecis - MT
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:05:18.559081
+**Data de Atualização PNCP:** 2024-09-13T09:05:18.559081
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/24772287000136/2024/111/14
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -17180,6 +16635,41 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº 989/2024 - SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES
+
+**Licitação:** Ata nº 989/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE BENS DA(S) FAMÍLIA(S):
+0405-EQUIPAMENTOS/COMPONENTES/ACESSORIOS P/MEDICAO;0505-MATERIAIS P/DECORACAO DE INTERIORES;
+**CNPJ do Órgão:** 87958658000199
+**Nome do Órgão:** SUBSECRETARIA DA ADMINISTRACAO CENTRAL DE LICITACOES
+**Código da Unidade:** 1
+**Nome da Unidade:** CELIC - SUBSECRETARIA DA ADMINISTRAÇÃO CENTRAL DE LICITAÇÕES
+**Esfera:** Estadual
+**Poder:** Executivo
+**Município:** Porto Alegre - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:58:33.154686
+**Data de Atualização PNCP:** 2024-09-13T10:58:33.154686
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/87958658000199/2024/388/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 165/2024 - MUNICIPIO DE SAO JOAO DA BOA VISTA
 
 **Licitação:** Ata nº 165/2024
@@ -17588,6 +17078,40 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº ARP24CIN001353/2024 - CONSORCIO INTERFEDERATIVO SANTA CATARINA - CINCATARINA
+
+**Licitação:** Ata nº ARP24CIN001353/2024
+**Ano:** 2023
+**Objeto da licitação:** [Portal de Compras Públicas] - REGISTRO DE PREÇOS para futura e eventual contratação, com fornecimento parcelado de Materiais de Expediente, Escolar e Correlatos para uso dos Entes da Federação Consorciados, Cooperados ou Referendados ao Consórcio Interfederativo Santa Catarina – CINCATARINA, órgão e entidades da administração direta e indireta, na condição de Órgão Participante desta licitação de acordo com o Termo de Referência (ANEXO I) e os quantitativos estimados, no (ANEXO IX), durante o prazo de validade da Ata de Registro de Preços.
+**CNPJ do Órgão:** 12075748000132
+**Nome do Órgão:** CONSORCIO INTERFEDERATIVO SANTA CATARINA - CINCATARINA
+**Código da Unidade:** 2
+**Nome da Unidade:** Florianópolis
+**Esfera:** Não se aplica
+**Poder:** Executivo
+**Município:** Florianópolis - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T02:15:01.613957
+**Data de Atualização PNCP:** 2024-09-13T02:15:01.613957
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-01-02
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/12075748000132/2023/61/63
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00272/2024 - COMANDO DO EXERCITO
 
 **Licitação:** Ata nº 00272/2024
@@ -17860,6 +17384,40 @@ PROTETOR SOLAR E REPELENTE
 
 ---
 
+# Licitação Ata nº 164/2024 - MUNICIPIO DE MONDAI
+
+**Licitação:** Ata nº 164/2024
+**Ano:** 2024
+**Objeto da licitação:** Constitui o objeto da presente licitação o registro de preços para a aquisição de material de expediente e demais itens destinados à manutenção das atividades das Secretarias da Administração Municipal, pelo período de 12 (doze) meses, conforme regras, especificações e quantidades estabelecidas neste edital e seus anexos.
+**CNPJ do Órgão:** 83028415000109
+**Nome do Órgão:** MUNICIPIO DE MONDAI
+**Código da Unidade:** CIN559
+**Nome da Unidade:** MUNICÍPIO DE MONDAÍ
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Mondaí - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:36:38.542742
+**Data de Atualização PNCP:** 2024-09-13T10:36:38.542742
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/83028415000109/2024/87/9
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 105/2024/2024 - MUNICIPIO DE LAGOA GRANDE
 
 **Licitação:** Ata nº 105/2024/2024
@@ -18123,6 +17681,40 @@ PROTETOR SOLAR E REPELENTE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/27165695000118/2024/129/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 340/2024 - MUNICIPIO DE SAO JOAQUIM DE BICAS
+
+**Licitação:** Ata nº 340/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futura e eventual aquisição de materiais de informática (tanto de consumo quanto permanentes), para atender às necessidades das diversas secretarias municipais.
+**CNPJ do Órgão:** 01612516000150
+**Nome do Órgão:** MUNICIPIO DE SAO JOAQUIM DE BICAS
+**Código da Unidade:** 015001
+**Nome da Unidade:** SECRETARIA MUNICIPAL DE EDUCAÇÃO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** São Joaquim de Bicas - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:33:47.521406
+**Data de Atualização PNCP:** 2024-09-13T09:33:47.521406
+**Data de Assinatura:** 2024-08-29
+**Início da Vigência:** 2024-08-29
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01612516000150/2024/245/3
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -18669,6 +18261,40 @@ DEMANDA DA SECRETARIA DE SAÚDE DA PREFEITURA DO RECIFE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394429000100/2024/646/4
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 320/2024 - MUNICIPIO DE SAO JOAQUIM DE BICAS
+
+**Licitação:** Ata nº 320/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA AQUISIÇÃO FUTURA E EVENTUAL DE MOBILIÁRIO, VISANDO ATENDER ÀS DEMANDAS DAS DIVERSAS SECRETARIAS MUNICIPAIS DE SÃO JOAQUIM DE BICAS.
+**CNPJ do Órgão:** 01612516000150
+**Nome do Órgão:** MUNICIPIO DE SAO JOAQUIM DE BICAS
+**Código da Unidade:** 013001
+**Nome da Unidade:** SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO 
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** São Joaquim de Bicas - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:46:32.505070
+**Data de Atualização PNCP:** 2024-09-13T09:46:32.505070
+**Data de Assinatura:** 2024-08-16
+**Início da Vigência:** 2024-08-16
+**Fim da Vigência:** 2025-08-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01612516000150/2024/261/11
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -20451,6 +20077,40 @@ com recurso estadual, federal e próprio.
 
 ---
 
+# Licitação Ata nº 202409008/2024 - MUNICIPIO DE JESUANIA
+
+**Licitação:** Ata nº 202409008/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de material médico hospitalar/ambulatorial para as Unidades Básicas de Saúde de Jesuânia, para eventual e futuro fornecimento, com inscrição em ATA DE REGISTRO DE PREÇOS.
+**CNPJ do Órgão:** 18188227000178
+**Nome do Órgão:** MUNICIPIO DE JESUANIA
+**Código da Unidade:** 807
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Jesuânia - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:53:03.599868
+**Data de Atualização PNCP:** 2024-09-13T09:53:03.599868
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18188227000178/2024/22/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00433/2024 - COMANDO DA AERONAUTICA
 
 **Licitação:** Ata nº 00433/2024
@@ -20646,6 +20306,40 @@ com recurso estadual, federal e próprio.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/11022597001325/2024/222/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00249/2024 - COMANDO DA MARINHA
+
+**Licitação:** Ata nº 00249/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição por Sistema de Registro de Preços (SRP) de material de construção.
+**CNPJ do Órgão:** 00394502000144
+**Nome do Órgão:** COMANDO DA MARINHA
+**Código da Unidade:** 791181
+**Nome da Unidade:** CENT.INTEND.DA MARINHA EM S.PEDRO DA ALDEIA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** São Pedro da Aldeia - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:26:03.335480
+**Data de Atualização PNCP:** 2024-09-13T10:26:03.335480
+**Data de Assinatura:** 2024-08-28
+**Início da Vigência:** 2024-08-29
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394502000144/2024/6506/4
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -21779,6 +21473,40 @@ fachada, conforme especificações contidas no Anexo I do edital.
 
 ---
 
+# Licitação Ata nº 97-R-10-2-8-7-29-59-61-25-26-52-76-51-15/2024 - MUNICIPIO DE CERQUILHO
+
+**Licitação:** Ata nº 97-R-10-2-8-7-29-59-61-25-26-52-76-51-15/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para Fornecimento Parcelado de Medicamentos
+**CNPJ do Órgão:** 46634614000126
+**Nome do Órgão:** MUNICIPIO DE CERQUILHO
+**Código da Unidade:** 12052
+**Nome da Unidade:** Prefeitura Municipal de Cerquilho
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Cerquilho - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:00:07.901442
+**Data de Atualização PNCP:** 2024-09-13T09:00:07.901442
+**Data de Assinatura:** 2024-09-03
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46634614000126/2024/82/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº ARP.0011.00.2024.GOV.SASSEPE.PE/2024 - SECRETARIA DE ADMINISTRACAO
 
 **Licitação:** Ata nº ARP.0011.00.2024.GOV.SASSEPE.PE/2024
@@ -21838,6 +21566,40 @@ fachada, conforme especificações contidas no Anexo I do edital.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/17316563000196/2024/46/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 032/2024 - SERVICO AUTONOMO DE AGUA E ESGOTO
+
+**Licitação:** Ata nº 032/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preço destinado à futura e eventual aquisição de materiais de cozinha, higiene e limpeza, bem como equipamentos de limpeza em geral do SAAE de Passos/MG.
+**CNPJ do Órgão:** 23278690000140
+**Nome do Órgão:** SERVICO AUTONOMO DE AGUA E ESGOTO
+**Código da Unidade:** 520
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Passos - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T07:48:00.618468
+**Data de Atualização PNCP:** 2024-09-13T07:48:00.618468
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/23278690000140/2024/120/5
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -23379,6 +23141,74 @@ DE LAUDOS DE AVALIAÇÃO DE BENS IMÓVEIS URBANOS
 
 ---
 
+# Licitação Ata nº 427/2024 - MUNICIPIO DE NOVA MUTUM
+
+**Licitação:** Ata nº 427/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA PARA EXECUÇÃO DE SERVIÇOS COMUNS DE ENGENHARIA VISANDO A IMPLANTAÇÃO DE ONDULAÇÕES TRANSVERSAIS ( LOMBADAS DO TIPO A E B ), CONFORME RESOLUÇÃO DO CONTRAN Nº 973/2022, LEI FEDERAL Nº 9.503/97
+**CNPJ do Órgão:** 24772162000106
+**Nome do Órgão:** MUNICIPIO DE NOVA MUTUM
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE NOVA MUTUM - MT
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Nova Mutum - MT
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:22:27.139341
+**Data de Atualização PNCP:** 2024-09-13T09:22:27.139341
+**Data de Assinatura:** 2024-09-11
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/24772162000106/2024/183/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 238/2024 - MUNICIPIO DE IVOTI
+
+**Licitação:** Ata nº 238/2024
+**Ano:** 2024
+**Objeto da licitação:** MATERIAL DE CONSUMO
+**CNPJ do Órgão:** 88254909000117
+**Nome do Órgão:** MUNICIPIO DE IVOTI
+**Código da Unidade:** 93
+**Nome da Unidade:** MUNICIPIO DE IVOTI
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivoti - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:41:17.953417
+**Data de Atualização PNCP:** 2024-09-13T10:41:17.953417
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88254909000117/2024/1548/12
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 187/2024 - MUNICIPIO DE CARATINGA
 
 **Licitação:** Ata nº 187/2024
@@ -23787,6 +23617,40 @@ DE LAUDOS DE AVALIAÇÃO DE BENS IMÓVEIS URBANOS
 
 ---
 
+# Licitação Ata nº 90020/2024 - UNIVERSIDADE DE SAO PAULO
+
+**Licitação:** Ata nº 90020/2024
+**Ano:** 2024
+**Objeto da licitação:** Ácido peracético e álcool absoluto 
+**CNPJ do Órgão:** 63025530000104
+**Nome do Órgão:** UNIVERSIDADE DE SAO PAULO
+**Código da Unidade:** 102150
+**Nome da Unidade:** ESP-HOSPITAL UNIVERSITÁRIO - USP
+**Esfera:** Estadual
+**Poder:** Executivo
+**Município:** São Paulo - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T08:19:02.666897
+**Data de Atualização PNCP:** 2024-09-13T08:19:02.666897
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/63025530000104/2024/353/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00709/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
 
 **Licitação:** Ata nº 00709/2024
@@ -23880,6 +23744,40 @@ DE LAUDOS DE AVALIAÇÃO DE BENS IMÓVEIS URBANOS
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394502000144/2024/9921/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 009/2024/2024 - FUNDO MUNICIPAL DE SAUDE
+
+**Licitação:** Ata nº 009/2024/2024
+**Ano:** 2024
+**Objeto da licitação:** Fornecimento de MATERIAIS MÉDICO HOSPITALARES diversos para o FUNDO MUNICIPAL DE SAÚDE DE CABROBÓ-PE, com a finalidade de suprir a necessidade dos serviços ofertados, através da Farmácia do Hospital Municipal Dr. Arnaldo Vasconcelos de Alencar e da Central de Abastecimento Farmacêutico, durante o período de 12 (doze) meses.
+**CNPJ do Órgão:** 10907425000132
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE
+**Código da Unidade:** 1
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAUDE DE CABROBÓ
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Cabrobó - PE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:03:32.422086
+**Data de Atualização PNCP:** 2024-09-13T11:22:23.531908
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10907425000132/2024/11/2
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -24195,6 +24093,40 @@ DE LAUDOS DE AVALIAÇÃO DE BENS IMÓVEIS URBANOS
 
 ---
 
+# Licitação Ata nº 22213/2024 - ESTADO DO CEARA
+
+**Licitação:** Ata nº 22213/2024
+**Ano:** 2023
+**Objeto da licitação:** REGISTRO DE PREÇO - MATERIAL MÉDICO HOSPITALAR - FIO DE SUTURA E OUTROS
+**CNPJ do Órgão:** 07954480000179
+**Nome do Órgão:** ESTADO DO CEARA
+**Código da Unidade:** 240001
+**Nome da Unidade:** SECRETARIA DA SAUDE
+**Esfera:** Estadual
+**Poder:** Não se aplica
+**Município:** Fortaleza - CE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:12:12.918418
+**Data de Atualização PNCP:** 2024-09-13T10:12:12.918418
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/07954480000179/2023/618/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00046/2024 - FUNDACAO DE SERVICOS DE SAUDE DE DOURADOS
 
 **Licitação:** Ata nº 00046/2024
@@ -24322,6 +24254,40 @@ DE LAUDOS DE AVALIAÇÃO DE BENS IMÓVEIS URBANOS
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/47563739000175/2024/305/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 074/2024/2024 - MUNICIPIO DE POCOES
+
+**Licitação:** Ata nº 074/2024/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para Futura e Eventual aquisição de material de expediente e material de limpeza para atender às necessidades das secretarias municipais.
+**CNPJ do Órgão:** 14242200000165
+**Nome do Órgão:** MUNICIPIO DE POCOES
+**Código da Unidade:** 2577
+**Nome da Unidade:** Prefeitura Municipal de Poções
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Poções - BA
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:28:26.231710
+**Data de Atualização PNCP:** 2024-09-13T11:28:26.231710
+**Data de Assinatura:** 2024-09-11
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14242200000165/2024/159/1
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -25999,6 +25965,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 
 ---
 
+# Licitação Ata nº 00827/2024 - ESTADO DO ESPIRITO SANTO
+
+**Licitação:** Ata nº 00827/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços de medicamentos
+**CNPJ do Órgão:** 27080530000143
+**Nome do Órgão:** ESTADO DO ESPIRITO SANTO
+**Código da Unidade:** 925120
+**Nome da Unidade:** SECRETARIA DE ESTADO DA SAUDE/ES
+**Esfera:** Estadual
+**Poder:** Não se aplica
+**Município:** Vitória - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:05:21.330195
+**Data de Atualização PNCP:** 2024-09-13T09:05:21.330195
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/27080530000143/2024/1529/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00171/2024 - COMANDO DA MARINHA
 
 **Licitação:** Ata nº 00171/2024
@@ -26398,6 +26398,40 @@ MUNICIPAL E SUAS UNIDADES VINCULADAS.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/47842836000105/2024/61/26
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000082/2024 - FUNDO MUNICIPAL DE SAUDE DE VIANA
+
+**Licitação:** Ata nº 000082/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇO PARA FUTURAS AQUISIÇÕES DE MEDICAMENTOS DE URGÊNCIA E EMERGÊNCIA, SUPRINDO AS NECESSIDADES DO FUNDO MUNICIPAL DE SAÚDE.
+**CNPJ do Órgão:** 14587933000131
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DE VIANA
+**Código da Unidade:** 14587933000131-002
+**Nome da Unidade:** Fundo Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Viana - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:31:15.430826
+**Data de Atualização PNCP:** 2024-09-13T10:31:15.430826
+**Data de Assinatura:** 2024-09-02
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14587933000131/2024/30/4
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -27564,6 +27598,40 @@ INFORMÁTICA PARA ATENDER AS NECESSIDADES DA CÂMARA MUNICIPAL DE SINOP.
 
 ---
 
+# Licitação Ata nº 20240346/2024 - MUNICIPIO DE CODO
+
+**Licitação:** Ata nº 20240346/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - Formação de registro de preço para futura aquisição de gêneros alimentícios perecíveis e não perecíveis para a rede municipal de ensino (merenda escolar) destinados a secretaria municipal de educação, ciência, tecnologia e inovação do município de Codó-MA de acordo com edital e anexos.
+**CNPJ do Órgão:** 06104863000195
+**Nome do Órgão:** MUNICIPIO DE CODO
+**Código da Unidade:** 00000
+**Nome da Unidade:** SECRETARIA DE EDUCAÇÃO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Codó - MA
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T08:56:54.881196
+**Data de Atualização PNCP:** 2024-09-13T08:56:54.881196
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/06104863000195/2024/60/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00067/2024 - ESTADO DE MINAS GERAIS
 
 **Licitação:** Ata nº 00067/2024
@@ -28074,6 +28142,42 @@ INFORMÁTICA PARA ATENDER AS NECESSIDADES DA CÂMARA MUNICIPAL DE SINOP.
 
 ---
 
+# Licitação Ata nº 140/2024 - MUNICIPIO DE CEU AZUL
+
+**Licitação:** Ata nº 140/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futuras e eventuais aquisições de materiais elétricos (lâmpadas, reatores, fios, e outros) para uso em manutenção de prédios públicos inclusive na iluminação pública (o registro de preços terá vigência de 12 meses).
+ 
+ 
+**CNPJ do Órgão:** 76206473000101
+**Nome do Órgão:** MUNICIPIO DE CEU AZUL
+**Código da Unidade:** 13030
+**Nome da Unidade:** Departamento de Obras e Vias Públicas
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Céu Azul - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T08:49:54.361940
+**Data de Atualização PNCP:** 2024-09-13T08:49:54.361940
+**Data de Assinatura:** 2024-09-03
+**Início da Vigência:** 2024-09-03
+**Fim da Vigência:** 2025-09-02
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/76206473000101/2024/93/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 148/2024 - SERVICO AUTONOMO MUNICIPAL DE AGUA E ESGOTO
 
 **Licitação:** Ata nº 148/2024
@@ -28405,6 +28509,40 @@ INFORMÁTICA PARA ATENDER AS NECESSIDADES DA CÂMARA MUNICIPAL DE SINOP.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13664/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 12010019/2024 - FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+
+**Licitação:** Ata nº 12010019/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS HOSPITALARES
+**CNPJ do Órgão:** 19296278000186
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+**Código da Unidade:** 19296278000186
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAÚDE DE CAMPO ALEGRE
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Campo Alegre - AL
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:11:57.443868
+**Data de Atualização PNCP:** 2024-09-13T11:11:57.443868
+**Data de Assinatura:** 2024-07-23
+**Início da Vigência:** 2024-07-23
+**Fim da Vigência:** 2025-07-23
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/19296278000186/2024/13/11
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -28915,6 +29053,74 @@ INFORMÁTICA PARA ATENDER AS NECESSIDADES DA CÂMARA MUNICIPAL DE SINOP.
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/80881931000185/2024/54/5
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000081/2024 - FUNDO MUNICIPAL DE SAUDE DE VIANA
+
+**Licitação:** Ata nº 000081/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇO PARA FUTURAS AQUISIÇÕES DE MEDICAMENTOS DE URGÊNCIA E EMERGÊNCIA, SUPRINDO AS NECESSIDADES DO FUNDO MUNICIPAL DE SAÚDE.
+**CNPJ do Órgão:** 14587933000131
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DE VIANA
+**Código da Unidade:** 14587933000131-002
+**Nome da Unidade:** Fundo Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Viana - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:28:18.921826
+**Data de Atualização PNCP:** 2024-09-13T10:28:18.921826
+**Data de Assinatura:** 2024-09-02
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14587933000131/2024/30/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00253/2024 - COMANDO DA MARINHA
+
+**Licitação:** Ata nº 00253/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição por Sistema de Registro de Preços (SRP) de material de construção.
+**CNPJ do Órgão:** 00394502000144
+**Nome do Órgão:** COMANDO DA MARINHA
+**Código da Unidade:** 791181
+**Nome da Unidade:** CENT.INTEND.DA MARINHA EM S.PEDRO DA ALDEIA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** São Pedro da Aldeia - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:55:17.499410
+**Data de Atualização PNCP:** 2024-09-13T10:55:17.499410
+**Data de Assinatura:** 2024-08-27
+**Início da Vigência:** 2024-08-28
+**Fim da Vigência:** 2025-09-28
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394502000144/2024/6506/6
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -31340,6 +31546,40 @@ prestação de serviços de funilaria, pintura, serviço de usinagem, torneiro m
 
 ---
 
+# Licitação Ata nº 158/2024 - MUNICIPIO DE MONDAI
+
+**Licitação:** Ata nº 158/2024
+**Ano:** 2024
+**Objeto da licitação:** Constitui o objeto da presente licitação o registro de preços para a aquisição de material de expediente e demais itens destinados à manutenção das atividades das Secretarias da Administração Municipal, pelo período de 12 (doze) meses, conforme regras, especificações e quantidades estabelecidas neste edital e seus anexos.
+**CNPJ do Órgão:** 83028415000109
+**Nome do Órgão:** MUNICIPIO DE MONDAI
+**Código da Unidade:** CIN559
+**Nome da Unidade:** MUNICÍPIO DE MONDAÍ
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Mondaí - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:36:36.262923
+**Data de Atualização PNCP:** 2024-09-13T10:36:36.262923
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/83028415000109/2024/87/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 33/2024 - MUNICIPIO DE ARACITABA
 
 **Licitação:** Ata nº 33/2024
@@ -31365,6 +31605,40 @@ prestação de serviços de funilaria, pintura, serviço de usinagem, torneiro m
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/17747940000141/2024/74/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 21/2024 - MUNICIPIO DE BOCAINA DE MINAS
+
+**Licitação:** Ata nº 21/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - REGISTRO DE PREÇO visando futura e eventual aquisição de materiais de copa e cozinha, objetivando atender as necessidades das secretarias municipais, conforme condições e especificações contidas neste termo de referência.
+**CNPJ do Órgão:** 18194076000160
+**Nome do Órgão:** MUNICIPIO DE BOCAINA DE MINAS
+**Código da Unidade:** 0
+**Nome da Unidade:** Prefeitura Municipal de Bocaina de Minas
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Bocaina de Minas - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:18:16.420930
+**Data de Atualização PNCP:** 2024-09-13T11:18:16.420930
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18194076000160/2024/56/1
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -31807,6 +32081,40 @@ prestação de serviços de funilaria, pintura, serviço de usinagem, torneiro m
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/47842836000105/2024/61/20
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 17/2024 - MUNICIPIO DE AMPARO DO SERRA
+
+**Licitação:** Ata nº 17/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futura e eventual aquisição de pneus, câmaras de ar, protetores e acessórios, para manutenção da frota municipal de Amparo do Serra/MG.
+**CNPJ do Órgão:** 18316174000123
+**Nome do Órgão:** MUNICIPIO DE AMPARO DO SERRA
+**Código da Unidade:** 1510
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Amparo do Serra - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:27:52.651584
+**Data de Atualização PNCP:** 2024-09-13T10:27:52.651584
+**Data de Assinatura:** 2024-08-14
+**Início da Vigência:** 2024-08-14
+**Fim da Vigência:** 2025-08-14
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18316174000123/2024/23/5
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -32557,6 +32865,40 @@ nº61/2024 e farmacológicos injetáveis necessários para atender as Unidades d
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/01612320000165/2024/41/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00272/2024 - COMANDO DA AERONAUTICA
+
+**Licitação:** Ata nº 00272/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual aquisição de. materiais de consumo odontológico no GSAU-SJ
+**CNPJ do Órgão:** 00394429000100
+**Nome do Órgão:** COMANDO DA AERONAUTICA
+**Código da Unidade:** 120016
+**Nome da Unidade:** GRUPAMENTO DE APOIO DE SÃO JOSÉ DOS CAMPOS
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** São José dos Campos - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:36:08.667280
+**Data de Atualização PNCP:** 2024-09-13T10:36:08.667280
+**Data de Assinatura:** 2024-08-27
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394429000100/2024/1107/16
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -33348,6 +33690,40 @@ nº61/2024 e farmacológicos injetáveis necessários para atender as Unidades d
 
 ---
 
+# Licitação Ata nº 000218/2024 - MUNICIPIO DE LIMEIRA
+
+**Licitação:** Ata nº 000218/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISICAO DE MATERIAIS ODONTOLOGICOS 
+**CNPJ do Órgão:** 45132495000140
+**Nome do Órgão:** MUNICIPIO DE LIMEIRA
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE LIMEIRA
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Limeira - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:25:58.990006
+**Data de Atualização PNCP:** 2024-09-13T10:25:58.990006
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/45132495000140/2024/533/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 168/2024 - MUNICIPIO DE ITATIAIUCU
 
 **Licitação:** Ata nº 168/2024
@@ -33441,6 +33817,40 @@ nº61/2024 e farmacológicos injetáveis necessários para atender as Unidades d
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/00394502000144/2024/10034/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 97-R-64/2024 - MUNICIPIO DE CERQUILHO
+
+**Licitação:** Ata nº 97-R-64/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para Fornecimento Parcelado de Medicamentos
+**CNPJ do Órgão:** 46634614000126
+**Nome do Órgão:** MUNICIPIO DE CERQUILHO
+**Código da Unidade:** 12052
+**Nome da Unidade:** Prefeitura Municipal de Cerquilho
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Cerquilho - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:15:28.568272
+**Data de Atualização PNCP:** 2024-09-13T09:15:28.568272
+**Data de Assinatura:** 2024-09-03
+**Início da Vigência:** 2024-09-16
+**Fim da Vigência:** 2025-09-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46634614000126/2024/82/16
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -33851,6 +34261,40 @@ O processo digital pode ser acompanhado na íntegra pelo endereço: https://luze
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/01613428000172/2024/363/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº ARP Nº 032/2024 - I/2024 - MUNICIPIO DE GOIANIRA
+
+**Licitação:** Ata nº ARP Nº 032/2024 - I/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - Registro de preços para aquisição de materiais e equipamentos esportivos.
+**CNPJ do Órgão:** 01291707000167
+**Nome do Órgão:** MUNICIPIO DE GOIANIRA
+**Código da Unidade:** 01
+**Nome da Unidade:** Prefeitura Municipal de Goianira
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Goianira - GO
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:58:18.094618
+**Data de Atualização PNCP:** 2024-09-13T09:58:18.094618
+**Data de Assinatura:** 2024-08-28
+**Início da Vigência:** 2024-08-28
+**Fim da Vigência:** 2025-08-27
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01291707000167/2024/63/14
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -34735,6 +35179,40 @@ O processo digital pode ser acompanhado na íntegra pelo endereço: https://luze
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/05648696000180/2024/22/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 38/2024 - MUNICIPIO DE SOLEDADE DE MINAS
+
+**Licitação:** Ata nº 38/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA PARA FORNECIMENTO DE EQUIPAMENTOS DE INFORMATICA, VÍDEO E OUTROS MATERIAIS DIVERSOS PARA OS DEPARTAMENTOS DA PREFEITURA MUNICIPAL DE SOLEDADE DE MINAS
+**CNPJ do Órgão:** 18188235000114
+**Nome do Órgão:** MUNICIPIO DE SOLEDADE DE MINAS
+**Código da Unidade:** 1027
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Soledade de Minas - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:31:29.990185
+**Data de Atualização PNCP:** 2024-09-13T11:31:29.990185
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18188235000114/2024/60/2
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -35696,6 +36174,74 @@ O processo digital pode ser acompanhado na íntegra pelo endereço: https://luze
 
 ---
 
+# Licitação Ata nº 01010019/2024 - FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+
+**Licitação:** Ata nº 01010019/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS HOSPITALARES
+**CNPJ do Órgão:** 19296278000186
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+**Código da Unidade:** 19296278000186
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAÚDE DE CAMPO ALEGRE
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Campo Alegre - AL
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:03:05.621891
+**Data de Atualização PNCP:** 2024-09-13T11:03:05.621891
+**Data de Assinatura:** 2024-07-23
+**Início da Vigência:** 2024-07-23
+**Fim da Vigência:** 2025-07-23
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/19296278000186/2024/13/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00751/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+
+**Licitação:** Ata nº 00751/2024
+**Ano:** 2024
+**Objeto da licitação:** A aquisição eventual e parcelada de material médico-hospitalar para realização de procedimentos de diagnóstico através de Cateterismo-intervenção diagnóstico em cardiologia e da vascular periférica e endovascular, bem  como, órteses e próteses e materiais utilizados no laboratório de hemodinâmica, destinado ao atendimento das demandas do HOSPITAL UNIVERSITÁRIO de Santa MARIA - RS.
+**CNPJ do Órgão:** 15126437000143
+**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+**Código da Unidade:** 155125
+**Nome da Unidade:** HOSPITAL UNIVERSITÁRIO DE SANTA MARIA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Santa Maria - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T09:14:30.156645
+**Data de Atualização PNCP:** 2024-09-13T09:14:30.156645
+**Data de Assinatura:** 2024-09-12
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/2033/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 089/2024 14/2024 - MUNICIPIO DE CHAPECO
 
 **Licitação:** Ata nº 089/2024 14/2024
@@ -35832,6 +36378,40 @@ O processo digital pode ser acompanhado na íntegra pelo endereço: https://luze
 
 ---
 
+# Licitação Ata nº 036/2024 - SERVICO AUTONOMO DE AGUA E ESGOTO
+
+**Licitação:** Ata nº 036/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preço destinado à futura e eventual aquisição de materiais de cozinha, higiene e limpeza, bem como equipamentos de limpeza em geral do SAAE de Passos/MG.
+**CNPJ do Órgão:** 23278690000140
+**Nome do Órgão:** SERVICO AUTONOMO DE AGUA E ESGOTO
+**Código da Unidade:** 520
+**Nome da Unidade:** Unidade Única
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Passos - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T07:47:04.643838
+**Data de Atualização PNCP:** 2024-09-13T07:47:04.643838
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/23278690000140/2024/120/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 32/2024-08-28/2024 - MUNICIPIO DE RIACHO DOS MACHADOS
 
 **Licitação:** Ata nº 32/2024-08-28/2024
@@ -35959,6 +36539,74 @@ O processo digital pode ser acompanhado na íntegra pelo endereço: https://luze
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/29053402000136/2024/24/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 18010019/2024 - FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+
+**Licitação:** Ata nº 18010019/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS HOSPITALARES
+**CNPJ do Órgão:** 19296278000186
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE CAMPO ALEGRE
+**Código da Unidade:** 19296278000186
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAÚDE DE CAMPO ALEGRE
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Campo Alegre - AL
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T11:17:12.297058
+**Data de Atualização PNCP:** 2024-09-13T11:17:12.297058
+**Data de Assinatura:** 2024-07-23
+**Início da Vigência:** 2024-07-23
+**Fim da Vigência:** 2025-07-23
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/19296278000186/2024/13/17
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000220/2024 - MUNICIPIO DE LIMEIRA
+
+**Licitação:** Ata nº 000220/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISICAO DE MATERIAIS ODONTOLOGICOS 
+**CNPJ do Órgão:** 45132495000140
+**Nome do Órgão:** MUNICIPIO DE LIMEIRA
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE LIMEIRA
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Limeira - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:26:57.867215
+**Data de Atualização PNCP:** 2024-09-13T10:26:57.867215
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/45132495000140/2024/533/2
 
 ## Itens da Licitação
 **Descrição do Item:** 
@@ -36446,6 +37094,40 @@ DEMANDA DA SECRETARIA DE SAÚDE DA PREFEITURA DO RECIFE
 
 ---
 
+# Licitação Ata nº 00020/2024 - ESTADO DO RIO DE JANEIRO
+
+**Licitação:** Ata nº 00020/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para a aquisição de nutrição parenteral por via central e periférica, que atendam às demandas do Hospital Municipal da Japuíba – HMJ pelo período de 12 meses, com entrega programada de acordo com as necessidade da unidade, conforme as especificações constantes deste Edital e do Termo de Referência.
+**CNPJ do Órgão:** 42498600000171
+**Nome do Órgão:** ESTADO DO RIO DE JANEIRO
+**Código da Unidade:** 930721
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAUDE
+**Esfera:** Estadual
+**Poder:** Não se aplica
+**Município:** Angra dos Reis - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:18:41.317216
+**Data de Atualização PNCP:** 2024-09-13T10:18:41.317216
+**Data de Assinatura:** 2024-05-10
+**Início da Vigência:** 2024-06-11
+**Fim da Vigência:** 2025-06-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/42498600000171/2024/3023/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 463/2024 - MUNICIPIO DE GUARIBA
 
 **Licitação:** Ata nº 463/2024
@@ -36821,6 +37503,40 @@ DEMANDA DA SECRETARIA DE SAÚDE DA PREFEITURA DO RECIFE
 
 ---
 
+# Licitação Ata nº 114/2024 - MUNICIPIO DE ANAHY
+
+**Licitação:** Ata nº 114/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de materiais de limpeza, higiene pessoal e materiais diversos para atender a Escola Municipal Vinicius de Moraes, Centro de Educação Infantil Menino de Jesus, Centro Municipal de Educação Infantil Anna Limpo Felisberto, Departamento de Educação, Conselho Tutelar, Clube do Irmão Mais Velho, Centro de Referência de Assistência Social - CRAS, Centro de Referência Especializado de Assistência Social - CREAS, Departamento de Ação Social e Entidade Crescer do Município de Anahy, de acordo com as especificações técnicas do anexo I e demais disposições do edital.
+**CNPJ do Órgão:** 95594800000194
+**Nome do Órgão:** MUNICIPIO DE ANAHY
+**Código da Unidade:** 15003
+**Nome da Unidade:** DAS Anahy -  Fundo Municipal de Assistência Social
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Anahy - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:53:56.411419
+**Data de Atualização PNCP:** 2024-09-13T10:53:56.411419
+**Data de Assinatura:** 2024-09-13
+**Início da Vigência:** 2024-09-13
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/95594800000194/2024/96/8
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
 # Licitação Ata nº 00084/2024 - COMANDO DO EXERCITO
 
 **Licitação:** Ata nº 00084/2024
@@ -36916,6 +37632,1778 @@ DEMANDA DA SECRETARIA DE SAÚDE DA PREFEITURA DO RECIFE
 **Tipo ID:** 1
 **Tipo Nome:** Edital
 **Item URL:** https://pncp.gov.br/atas/17709197000135/2024/201/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 401/2024 - MUNICIPIO DE IVAIPORA
+
+**Licitação:** Ata nº 401/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE BANDEIRAS DO BRASIL, ESTADO E DO MUNICÍPIO E CONJUNTO DE MASTROS PARA ATENDIMENTO DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO.
+**CNPJ do Órgão:** 75741330000137
+**Nome do Órgão:** MUNICIPIO DE IVAIPORA
+**Código da Unidade:** 75741330000137
+**Nome da Unidade:** Unidade administrativa
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivaiporã - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T14:20:35.463242
+**Data de Atualização PNCP:** 2024-09-11T14:20:35.463242
+**Data de Assinatura:** 2024-08-20
+**Início da Vigência:** 2024-08-20
+**Fim da Vigência:** 2025-08-20
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/75741330000137/2024/153/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº H00376/2024/2024 - REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR
+
+**Licitação:** Ata nº H00376/2024/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços de materiais para cirurgias ORTOPÉDICAS (fios, fixadores, hastes e outros), EM REGIME DE CONSIGNAÇÃO COM COMODATO.
+**CNPJ do Órgão:** 47018676000176
+**Nome do Órgão:** REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR
+**Código da Unidade:** 134
+**Nome da Unidade:** REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERG E HOSPITAL
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Campinas - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-05T13:14:13.679093
+**Data de Atualização PNCP:** 2024-09-05T13:14:13.679093
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-06
+**Fim da Vigência:** 2025-09-05
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/47018676000176/2024/162/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 81/2024 - MUNICIPIO DE LUZERNA
+
+**Licitação:** Ata nº 81/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - A presente licitação tem por objeto o Registro de Preços destinado à contratação de empresa(s) especializada(s) para eventual prestação de serviços de manutenção e conserto de máquinas e implementos agrícolas, incluindo o fornecimento de peças e acessórios, a fim de operacionalizar o Programa Patrulha Agrícola Mecanizada criado pela Lei Municipal nº 1.793 de 19 de julho de 2023, tudo em conformidade com as especificações do Edital e Anexos que o integram.
+
+O processo digital pode ser acompanhado na íntegra pelo endereço: https://luzerna-e2.ciga.sc.gov.br/#/processo/d253920b-5008-467a-8b0e-aad729d4c4b0.
+**CNPJ do Órgão:** 01613428000172
+**Nome do Órgão:** MUNICIPIO DE LUZERNA
+**Código da Unidade:** 01
+**Nome da Unidade:** Prefeitura Municipal de Luzerna
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Luzerna - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-08T20:39:35.110692
+**Data de Atualização PNCP:** 2024-09-08T20:39:35.110692
+**Data de Assinatura:** 2024-09-05
+**Início da Vigência:** 2024-09-05
+**Fim da Vigência:** 2025-09-05
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01613428000172/2024/363/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 259/2024 - MUNICIPIO DE TIRADENTES
+
+**Licitação:** Ata nº 259/2024
+**Ano:** 2024
+**Objeto da licitação:** Futura e eventual aquisição de materiais da construção civil, especificamente materiais hidráulicos e louças para conclusão da Creche Santa Gianna.
+**CNPJ do Órgão:** 18557579000153
+**Nome do Órgão:** MUNICIPIO DE TIRADENTES
+**Código da Unidade:** 1482
+**Nome da Unidade:** Secretaria de Educação
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Tiradentes - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T11:14:01.458780
+**Data de Atualização PNCP:** 2024-09-06T11:14:01.458780
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-04
+**Fim da Vigência:** 2025-09-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18557579000153/2024/69/8
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 226/2024 - MUNICIPIO DE IVOTI
+
+**Licitação:** Ata nº 226/2024
+**Ano:** 2024
+**Objeto da licitação:** MATERIAL DE CONSUMO
+**CNPJ do Órgão:** 88254909000117
+**Nome do Órgão:** MUNICIPIO DE IVOTI
+**Código da Unidade:** 93
+**Nome da Unidade:** MUNICIPIO DE IVOTI
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivoti - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:17:33.194860
+**Data de Atualização PNCP:** 2024-09-13T10:17:33.194860
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88254909000117/2024/1548/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 294/2024 - MUNICIPIO DE SANTO ANTONIO DO MONTE
+
+**Licitação:** Ata nº 294/2024
+**Ano:** 2024
+**Objeto da licitação:** MAT. BEM OU SERV. DIST. GRATUITA - MEDICAMENTOS - CMED
+**CNPJ do Órgão:** 16870974000166
+**Nome do Órgão:** MUNICIPIO DE SANTO ANTONIO DO MONTE
+**Código da Unidade:** 02005
+**Nome da Unidade:** Sec. Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Santo Antônio do Monte - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T15:05:28.887129
+**Data de Atualização PNCP:** 2024-09-12T15:05:28.887129
+**Data de Assinatura:** 2024-08-28
+**Início da Vigência:** 2024-08-30
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/16870974000166/2024/99/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00080/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00080/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual aquisição de materiais gráficos visando atender às necessidades do 5º Batalhão de Infantaria Leve e do GCALC/12ª Bda Inf L.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160472
+**Nome da Unidade:** 5 BATALHAO DE INFANTARIA LEVE - 5 B I L
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Lorena - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T11:31:01.931714
+**Data de Atualização PNCP:** 2024-09-11T11:31:01.931714
+**Data de Assinatura:** 2024-07-22
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/8827/4
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00498/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+
+**Licitação:** Ata nº 00498/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para eventual Aquisição de Alvenaria, Marcenaria, Hidráulica, Elétrica, Telefonia, Mecânica e Barras de Apoio, a fim de atender as necessidades do Hospital Universitário Professor Polydoro Ernani de São Thiago-HU-UFSC/EBSERH.
+**CNPJ do Órgão:** 15126437000143
+**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+**Código da Unidade:** 155913
+**Nome da Unidade:** EBSERH - H U PROF POLYDORO ERNANI DE S THIAGO
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Florianópolis - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T18:16:10.463250
+**Data de Atualização PNCP:** 2024-09-06T18:16:10.463250
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/736/10
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 37/2024 - MUNICIPIO DE MELEIRO
+
+**Licitação:** Ata nº 37/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS para aquisição de areia selecionada para terraplanagem destinada à manutenção da Estrada Municipal MEL 255, localizada no Distrito de Sapiranga, Meleiro/SC, visando o reforço do subleito e a melhoria das condições viárias.
+**CNPJ do Órgão:** 82837741000196
+**Nome do Órgão:** MUNICIPIO DE MELEIRO
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE MELEIRO - SC
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Meleiro - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T14:41:10.572942
+**Data de Atualização PNCP:** 2024-09-11T14:41:10.572942
+**Data de Assinatura:** 2024-09-02
+**Início da Vigência:** 2024-09-02
+**Fim da Vigência:** 2025-09-01
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/82837741000196/2024/8/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 03005/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 03005/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para eventual aquisição de MEDICAMENTO VETERINÁRIO, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160270
+**Nome da Unidade:** 2 REGIMENTO DE CAVALARIA DE GUARDA/RJ
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Rio de Janeiro - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T11:32:53.581411
+**Data de Atualização PNCP:** 2024-09-11T11:32:53.581411
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13163/6
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00017/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00017/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de material tático.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160267
+**Nome da Unidade:** 2 BATALHAO DE INFANTARIA MOTORIZADO(ES)-RJ
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Rio de Janeiro - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T17:22:34.460673
+**Data de Atualização PNCP:** 2024-09-06T17:22:34.460673
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/12440/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 20240911-001/2024 - MUNICIPIO DE SAO GONCALO DO AMARANTE
+
+**Licitação:** Ata nº 20240911-001/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA FUTURAS E EVENTUAIS AQUISIÇÕES DE MATERIAIS DE EXPEDIENTE PARA ATENDER AS DEMANDAS DAS DIVERSAS SECRETARIAS DO MUNICÍPIO DE SÃO GONÇALO DO AMARANTE-CE.
+**CNPJ do Órgão:** 07533656000119
+**Nome do Órgão:** MUNICIPIO DE SAO GONCALO DO AMARANTE
+**Código da Unidade:** 202429
+**Nome da Unidade:** SECRETARIA DO GOVERNO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** São Gonçalo do Amarante - CE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T13:54:25.808797
+**Data de Atualização PNCP:** 2024-09-11T13:54:25.808797
+**Data de Assinatura:** 2024-09-11
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/07533656000119/2024/74/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 334/2024 - MUNICIPIO DE IVAIPORA
+
+**Licitação:** Ata nº 334/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE PNEUS NOVOS, CÂMARA DE AR E PROTETORES PARA CAMINHÕES, ÔNIBUS, MÁQUINAS E VEÍCULOS EM GERAL.
+**CNPJ do Órgão:** 75741330000137
+**Nome do Órgão:** MUNICIPIO DE IVAIPORA
+**Código da Unidade:** 75741330000137
+**Nome da Unidade:** Unidade administrativa
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ivaiporã - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T14:22:08.940766
+**Data de Atualização PNCP:** 2024-09-12T14:22:08.940766
+**Data de Assinatura:** 2024-07-16
+**Início da Vigência:** 2024-07-16
+**Fim da Vigência:** 2025-07-16
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/75741330000137/2024/104/6
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00274/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00274/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual aquisição de materiais de consumo farmacológico para a seção de saúde/COS e formação sanitária do  5º Batalhão de Suprimento.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160222
+**Nome da Unidade:** 5. BATALHAO DE SUPRIMENTO
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Curitiba - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T19:25:28.073618
+**Data de Atualização PNCP:** 2024-09-06T19:25:28.073618
+**Data de Assinatura:** 2024-08-26
+**Início da Vigência:** 2024-08-27
+**Fim da Vigência:** 2025-08-26
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/13255/13
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00480/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00480/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual e futura aquisição de gêneros alimentícios (produtos de  panificação, doces e biscoito e afins ). 
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160413
+**Nome da Unidade:** COMANDO DA 3ª DIV DO EX - BASE ADM DA GUAR SM
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Santa Maria - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T10:25:17.114466
+**Data de Atualização PNCP:** 2024-09-09T10:25:17.114466
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/15305/9
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 025/2024 - MUNICIPIO DE SANTA RITA DO PASSA QUATRO
+
+**Licitação:** Ata nº 025/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para eventual aquisição fracionada de materiais, ferramentas e equipamentos, para execução de serviços para a municipalidade, além de conservação e reformas em prédios públicos municipais.
+**CNPJ do Órgão:** 45749819000194
+**Nome do Órgão:** MUNICIPIO DE SANTA RITA DO PASSA QUATRO
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE SANTA RITA DO PASSA QUATRO - SP
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Santa Rita do Passa Quatro - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T16:30:25.804822
+**Data de Atualização PNCP:** 2024-09-09T16:30:25.804822
+**Data de Assinatura:** 2024-07-23
+**Início da Vigência:** 2024-07-23
+**Fim da Vigência:** 2025-07-22
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/45749819000194/2024/18/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 180/2024 - MUNICIPIO DE MARINGA
+
+**Licitação:** Ata nº 180/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS para aquisição de REAGENTES LABORATORIAIS PARA A REALIZAÇÃO DE EXAMES DE HEMATOLOGIA (hemograma completo), com equipamentos cedidos em regime de comodato (incluindo manutenção, calibração, interfaceamento, treinamentos e assistência técnico-científica), destinado a atender às necessidades dos laboratórios do município de Maringá, por solicitação da Secretaria Municipal de Saúde.
+**CNPJ do Órgão:** 76282656000106
+**Nome do Órgão:** MUNICIPIO DE MARINGA
+**Código da Unidade:** 987691
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE MARINGA - PR
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Maringá - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T08:53:00.287297
+**Data de Atualização PNCP:** 2024-09-12T08:53:00.287297
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-08
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/76282656000106/2024/534/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00019/2024 - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE ALAGOAS - IF/AL
+
+**Licitação:** Ata nº 00019/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de materiais permanentes (equipamentos) para estruturação dos laboratórios dos Cursos Técnico em Gastronomia, Modalidade EJA, e Curso de Instrumentos Musicais do IFAL Campus Marechal Deodoro, a fim de possibilitar os ensinamentos práticos relacionados aos referidos cursos.
+**CNPJ do Órgão:** 10825373000155
+**Nome do Órgão:** INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE ALAGOAS - IF/AL
+**Código da Unidade:** 158380
+**Nome da Unidade:** INST.FED DE ALAGOAS/CAMPOS MARECHAL DEODORO
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Marechal Deodoro - AL
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T14:37:42.978119
+**Data de Atualização PNCP:** 2024-09-06T14:37:42.978119
+**Data de Assinatura:** 2024-08-26
+**Início da Vigência:** 2024-09-03
+**Fim da Vigência:** 2025-09-03
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10825373000155/2024/18/13
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00344/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+
+**Licitação:** Ata nº 00344/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de BENS MOBILIÁRIOS E EQUIPAMENTOS DE APOIO LOGÍSTICO, visando suprir as demandas específicas tipificadas pelos setores correlatos, com vista na melhoria das condições de trabalho dos colaboradores do HU-UNIVASF e de seus demais usuários. 
+**CNPJ do Órgão:** 15126437000143
+**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+**Código da Unidade:** 155180
+**Nome da Unidade:** HOSP ENS DR WASHINGTON ANTONIO BARROS
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Petrolina - PE
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T09:49:10.597405
+**Data de Atualização PNCP:** 2024-09-11T09:49:10.597405
+**Data de Assinatura:** 2024-08-28
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/1716/8
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 263/2024 - MUNICIPIO DE ALTA FLORESTA
+
+**Licitação:** Ata nº 263/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE PRODUTOS/MEDICAMENTOS, MATERIAIS E CORRELATOS PARA COMPOR O QUADRO DE MANUTENÇÃO DAS AÇÕES E DISTRIBUIÇÃO NAS UNIDADES DE SAÚDE E SETORES QUE COMPÕE A SAÚDE PÚBLICA DO MUNICÍPIO DE ALTA FLORESTA/MT
+**CNPJ do Órgão:** 15023906000107
+**Nome do Órgão:** MUNICIPIO DE ALTA FLORESTA
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE ALTA FLORESTA - MT
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Alta Floresta - MT
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T10:22:49.551415
+**Data de Atualização PNCP:** 2024-09-12T10:22:49.551415
+**Data de Assinatura:** 2024-07-04
+**Início da Vigência:** 2024-07-04
+**Fim da Vigência:** 2025-07-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15023906000107/2024/102/27
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00141/2024 - UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+**Licitação:** Ata nº 00141/2024
+**Ano:** 2024
+**Objeto da licitação:** Contratação de empresa para fornecimento de equipamentos de proteção individual (EPIs) de laboratório.
+**CNPJ do Órgão:** 75101873000190
+**Nome do Órgão:** UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+**Código da Unidade:** 153177
+**Nome da Unidade:** UTFPR - CAMPUS SUDOESTE PATO BRANCO
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Pato Branco - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T09:56:14.876695
+**Data de Atualização PNCP:** 2024-09-10T09:56:14.876695
+**Data de Assinatura:** 2024-09-05
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/75101873000190/2024/205/5
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00371/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+
+**Licitação:** Ata nº 00371/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de Órteses, Próteses e Materiais Especiais (OPME) para estimulação cardíaca artificial e eletrofisiologia, com comodato de equipamentos.
+**CNPJ do Órgão:** 15126437000143
+**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+**Código da Unidade:** 155013
+**Nome da Unidade:** HOSPITAL UNIVERSITÁRIO ONOFRE LOPES
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Natal - RN
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T13:31:49.221888
+**Data de Atualização PNCP:** 2024-09-09T13:31:49.221888
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-07
+**Fim da Vigência:** 2025-09-07
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/2338/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 089/2024 7/2024 - MUNICIPIO DE CHAPECO
+
+**Licitação:** Ata nº 089/2024 7/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - AQUISIÇÃO DE MATERIAIS ESPORTIVOS PARA AS INSTITUIÇÕES DE ENSINO DA REDE MUNICIPAL DE CHAPECÓ
+**CNPJ do Órgão:** 83021808000182
+**Nome do Órgão:** MUNICIPIO DE CHAPECO
+**Código da Unidade:** 2
+**Nome da Unidade:** Secretaria de Educação - SEDUC
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Chapecó - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T15:42:51.522635
+**Data de Atualização PNCP:** 2024-09-10T15:42:51.522635
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/83021808000182/2024/107/13
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 205/2024 - MUNICIPIO DE VERA CRUZ
+
+**Licitação:** Ata nº 205/2024
+**Ano:** 2024
+**Objeto da licitação:** AQUISIÇÃO DE TRAJES SOCIAIS PARA OS INTEGRANTES DO CORAL MUNICIPAL, PARA FINS DE UNIFORMES. A EMPRESA GANHADORA, DEVERA COMPARECER EM DATA E HORARIOS MARCADOS COM A AMOSTRA DOS TECIDOS E PARA TIRAGEM DE MEDIDAS DOS INTEGRANTES DO CORAL.
+**CNPJ do Órgão:** 98661366000106
+**Nome do Órgão:** MUNICIPIO DE VERA CRUZ
+**Código da Unidade:** 13001
+**Nome da Unidade:** Gabinete do Secret. e Órgãos Subordinado
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Vera Cruz - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T11:17:36.518878
+**Data de Atualização PNCP:** 2024-09-10T11:17:36.518878
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/98661366000106/2024/338/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 90081/2024 - HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DA U S P
+
+**Licitação:** Ata nº 90081/2024
+**Ano:** 2024
+**Objeto da licitação:** Pinca laporoscopica de apreensao, tipo grasper, dispositivo para fechamento de parede arterial, aplicador de clip med/grd p/endosc.er320, afastador norte sul cirurgia de quadril
+**CNPJ do Órgão:** 60448040000122
+**Nome do Órgão:** HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DA U S P
+**Código da Unidade:** 092301
+**Nome da Unidade:** ESP-HOSPITAL DAS CLINICAS DE SAO PAULO
+**Esfera:** Estadual
+**Poder:** Executivo
+**Município:** São Paulo - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T11:08:04.820511
+**Data de Atualização PNCP:** 2024-09-09T11:08:04.820511
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-08
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/60448040000122/2024/89/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00210/2024 - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA CATARINENSE
+
+**Licitação:** Ata nº 00210/2024
+**Ano:** 2024
+**Objeto da licitação:** Eventual aquisição de Materiais Gráficos para o Instituto Federal de Educação, Ciência e Tecnologia Catarinense – Campus Fraiburgo e demais órgãos participantes (Reitoria, Abelardo Luz,  Araquari, Blumenau, Brusque, Camboriú, Concórdia, Fraiburgo, Ibirama, Luzerna, Rio do Sul, Santa Rosa do Sul, São Bento do Sul, São Francisco do Sul, Videira)
+**CNPJ do Órgão:** 10635424000186
+**Nome do Órgão:** INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA CATARINENSE
+**Código da Unidade:** 158125
+**Nome da Unidade:** INST.FED.DE EDUC., CIENC. E TEC. CATARINENSE
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Blumenau - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T17:57:32.852728
+**Data de Atualização PNCP:** 2024-09-09T17:57:32.852728
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10635424000186/2024/157/15
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00807/2024 - UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
+**Licitação:** Ata nº 00807/2024
+**Ano:** 2024
+**Objeto da licitação:** Pregão Eletrônico SISRP Nº.: 08/2024 - Aquisição de gêneros alimentícios para atender demandas da UFRN pelo período de 12 (doze) meses.
+**CNPJ do Órgão:** 24365710000183
+**Nome do Órgão:** UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+**Código da Unidade:** 153103
+**Nome da Unidade:** UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Natal - RN
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T16:20:50.499126
+**Data de Atualização PNCP:** 2024-09-09T16:20:50.499126
+**Data de Assinatura:** 2024-08-29
+**Início da Vigência:** 2024-08-30
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/24365710000183/2024/37/7
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 100/2024 - FUNDO MUNICIPAL DE SAUDE DE URUACU
+
+**Licitação:** Ata nº 100/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de Preços para contratação eventual, futura e parcelada de empresa para a prestação de serviços especializados de apoio logístico na área da Saúde em Goiânia/GO, por ocasião da permanência de pacientes residentes em Uruaçu/GO naquela capital, por força de tratamento médico ou odontológico especializado.
+**CNPJ do Órgão:** 04755973000191
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DE URUACU
+**Código da Unidade:** 6
+**Nome da Unidade:** FMS URUACU
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Uruaçu - GO
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T08:34:08.394435
+**Data de Atualização PNCP:** 2024-09-09T08:34:08.394435
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/04755973000191/2024/30/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00125/2024 - MUNICIPIO DE ITAUNA
+
+**Licitação:** Ata nº 00125/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS para futura e eventual aquisição de materiais hospitalares (abaixador de língua, lâmina de bisturi, esparadrapos, fita micropore, lancetas, etc) para uso nas Unidades Básicas de Saúde, conforme descritivo do Termo de Referência, tendo como critério de julgamento de MENOR PREÇO POR ITEM.
+**CNPJ do Órgão:** 18309724000187
+**Nome do Órgão:** MUNICIPIO DE ITAUNA
+**Código da Unidade:** 984675
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE ITAUNA - MG
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Itaúna - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T13:57:12.369610
+**Data de Atualização PNCP:** 2024-09-10T13:57:12.369610
+**Data de Assinatura:** 2024-08-26
+**Início da Vigência:** 2024-08-27
+**Fim da Vigência:** 2025-08-27
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/18309724000187/2024/197/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 33/2024 - FUNDO MUNICIPAL DE SAUDE
+
+**Licitação:** Ata nº 33/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para aquisição parcelada de gêneros alimentícios e materiais descartáveis para uso no Hospital Santo Antônio, Secretaria
+Municipal de Educação, Secretaria Municipal de Desenvolvimento Social e Habitação e na Secretaria Municipal de Indústria, Comércio, Cultura e
+Turismo.
+**CNPJ do Órgão:** 10817032000138
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE
+**Código da Unidade:** 1
+**Nome da Unidade:** FUNDO MUNICIPAL DE SAÚDE DE ITAIÓPOLIS - SC
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Itaiópolis - SC
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T11:12:12.053068
+**Data de Atualização PNCP:** 2024-09-12T11:12:12.053068
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-04
+**Fim da Vigência:** 2025-09-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10817032000138/2024/12/8
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 382/2024 - MUNICIPIO DE ILHABELA
+
+**Licitação:** Ata nº 382/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços visando aquisição de medicamentos gerais 2024. 
+**CNPJ do Órgão:** 46482865000132
+**Nome do Órgão:** MUNICIPIO DE ILHABELA
+**Código da Unidade:** 1566
+**Nome da Unidade:** Ilhabela
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ilhabela - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T17:13:01.664610
+**Data de Atualização PNCP:** 2024-09-06T17:13:01.664610
+**Data de Assinatura:** 2024-08-20
+**Início da Vigência:** 2024-08-20
+**Fim da Vigência:** 2025-08-20
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46482865000132/2024/237/28
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00379/2024 - EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+
+**Licitação:** Ata nº 00379/2024
+**Ano:** 2024
+**Objeto da licitação:** Objeto o Registro de Preços para eventual aquisição de AGULHAS, SERINGAS E TAMPA PROTETORA, a fim de atender às necessidades do Hospital Universitário do Piauí, vinculado à Universidade Federal do Piauí, pertencente à Rede da Empresa Brasileira de Serviços Hospitalares – Ebserh
+**CNPJ do Órgão:** 15126437000143
+**Nome do Órgão:** EMPRESA BRASILEIRA DE SERVIÇOS HOSPITALARES
+**Código da Unidade:** 155008
+**Nome da Unidade:** HOSPITAL UNIVERSITÁRIO DO PIAUÍ
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Teresina - PI
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T09:41:33.770665
+**Data de Atualização PNCP:** 2024-09-09T09:41:33.770665
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-07
+**Fim da Vigência:** 2025-09-06
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/15126437000143/2024/1123/32
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 356/2024 - MUNICIPIO DE SANTO ANTONIO DO MONTE
+
+**Licitação:** Ata nº 356/2024
+**Ano:** 2024
+**Objeto da licitação:** MEDICAMENTOS
+**CNPJ do Órgão:** 16870974000166
+**Nome do Órgão:** MUNICIPIO DE SANTO ANTONIO DO MONTE
+**Código da Unidade:** 02005
+**Nome da Unidade:** Sec. Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Santo Antônio do Monte - MG
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T15:58:15.735759
+**Data de Atualização PNCP:** 2024-09-12T15:58:15.735759
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/16870974000166/2024/141/33
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 50/2024-35-48-6-3-64-54-41-62-42-40-49-14-65-15-39/2024 - SERVICO AUTONOMO DE AGUA E ESGOTOS
+
+**Licitação:** Ata nº 50/2024-35-48-6-3-64-54-41-62-42-40-49-14-65-15-39/2024
+**Ano:** 2024
+**Objeto da licitação:** Materiais de Pintura
+**CNPJ do Órgão:** 46251021000180
+**Nome do Órgão:** SERVICO AUTONOMO DE AGUA E ESGOTOS
+**Código da Unidade:** 935
+**Nome da Unidade:** SAAE Indaiatuba
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Indaiatuba - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T15:47:03.551333
+**Data de Atualização PNCP:** 2024-09-10T15:47:03.551333
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/46251021000180/2024/245/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00015/2024 - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO
+
+**Licitação:** Ata nº 00015/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para futura e eventual aquisição de material de consumo de tecnologia da informação, visando atender as necessidades do Ifes/Campus de Alegre (órgão gerenciador), conforme detalhamentos constantes no Edital e no Termo de Referência (anexo I).
+**CNPJ do Órgão:** 10838653000106
+**Nome do Órgão:** INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO
+**Código da Unidade:** 158425
+**Nome da Unidade:** IFES - CAMPUS DE ALEGRE
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Alegre - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T09:26:48.119399
+**Data de Atualização PNCP:** 2024-09-06T09:26:48.119399
+**Data de Assinatura:** 2024-08-12
+**Início da Vigência:** 2024-08-13
+**Fim da Vigência:** 2025-08-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10838653000106/2024/479/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00006/2024 - INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO
+
+**Licitação:** Ata nº 00006/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de materiais de consumo para aquicultura.
+**CNPJ do Órgão:** 10838653000106
+**Nome do Órgão:** INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO
+**Código da Unidade:** 158892
+**Nome da Unidade:** IFES - CAMPUS PIUMA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Piúma - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T11:24:34.283230
+**Data de Atualização PNCP:** 2024-09-12T11:24:34.283230
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-09
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/10838653000106/2024/562/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00082/2024 - UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+
+**Licitação:** Ata nº 00082/2024
+**Ano:** 2024
+**Objeto da licitação:** Materiais didáticos pedagógicos.
+**CNPJ do Órgão:** 75101873000190
+**Nome do Órgão:** UNIVERSIDADE TECNOLOGICA FEDERAL DO PARANA
+**Código da Unidade:** 153029
+**Nome da Unidade:** UTFPR - CAMPUS MEDIANEIRA
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Medianeira - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-07T07:59:39.672662
+**Data de Atualização PNCP:** 2024-09-07T07:59:39.672662
+**Data de Assinatura:** 2024-09-06
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/75101873000190/2024/272/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 300401/2024 - MUNICIPIO DE RIACHO DA CRUZ
+
+**Licitação:** Ata nº 300401/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇO PARA FUTURA E EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE HOSPEDAGEM NO MUNICIPIO DE RIACHO DA CRUZ
+**CNPJ do Órgão:** 08153454000104
+**Nome do Órgão:** MUNICIPIO DE RIACHO DA CRUZ
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE RIACHO DA CRUZ
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Riacho da Cruz - RN
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T15:26:18.999349
+**Data de Atualização PNCP:** 2024-09-09T15:26:18.999349
+**Data de Assinatura:** 2024-04-30
+**Início da Vigência:** 2024-04-30
+**Fim da Vigência:** 2025-04-30
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/08153454000104/2024/78/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 123/2024 - MUNICIPIO DE ANTONIO OLINTO
+
+**Licitação:** Ata nº 123/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA AQUISIÇÃO DE GÊNEROS ALIMENTÍCIOS PARA O PROGRAMA MUNICIPAL DE ALIMENTAÇÃO ESCOLAR
+**CNPJ do Órgão:** 76020460000143
+**Nome do Órgão:** MUNICIPIO DE ANTONIO OLINTO
+**Código da Unidade:** 76020460000143
+**Nome da Unidade:** Unidade administrativa
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Antônio Olinto - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T16:55:26.658268
+**Data de Atualização PNCP:** 2024-09-09T16:55:26.658268
+**Data de Assinatura:** 2024-09-05
+**Início da Vigência:** 2024-09-05
+**Fim da Vigência:** 2025-09-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/76020460000143/2024/32/5
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 039/2024/2024 - FUNDACAO UNIRG
+
+**Licitação:** Ata nº 039/2024/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - Registro de Preços para Futura, eventual e parcelada AQUISIÇÃO DE EQUIPAMENTOS DE INFORMÁTICA (MICROCOMPUTADORES, NOTEBOOKS, TABLETS E DEMAIS ITENS), afim de atender as demandas operacionais, tecnológicas da Fundação UNIRG/Universidade de Gurupi - UnirG.
+**CNPJ do Órgão:** 01210830000106
+**Nome do Órgão:** FUNDACAO UNIRG
+**Código da Unidade:** 01
+**Nome da Unidade:** Comissão Permanente de Licitação
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Gurupi - TO
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T17:38:31.021564
+**Data de Atualização PNCP:** 2024-09-11T17:38:31.021564
+**Data de Assinatura:** 2024-08-09
+**Início da Vigência:** 2024-08-15
+**Fim da Vigência:** 2025-08-15
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01210830000106/2024/77/5
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 183/2024 - MUNICIPIO DE CRUZ ALTA
+
+**Licitação:** Ata nº 183/2024
+**Ano:** 2024
+**Objeto da licitação:** Solicito abertura de processo de contratação de empresa para fornecimento de lanche (sanduíches), suco de frutas e água para os doadores de sangue para o Hemocentro Regional de Cruz Alta - HEMOCRUZ.
+**CNPJ do Órgão:** 88775390000112
+**Nome do Órgão:** MUNICIPIO DE CRUZ ALTA
+**Código da Unidade:** 11001
+**Nome da Unidade:** Fundo Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Cruz Alta - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T16:16:11.971854
+**Data de Atualização PNCP:** 2024-09-09T16:16:11.971854
+**Data de Assinatura:** 2024-09-02
+**Início da Vigência:** 2024-09-02
+**Fim da Vigência:** 2025-09-02
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88775390000112/2024/380/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000067/2024 - FUNDO MUNICIPAL DE SAUDE DE VIANA
+
+**Licitação:** Ata nº 000067/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇO PARA FUTURAS AQUISIÇÕES DE CURATIVOS ESPECIAIS, SUPRINDO AS NECESSIDADES DO FUNDO MUNICIPAL DE SAÚDE.
+**CNPJ do Órgão:** 14587933000131
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DE VIANA
+**Código da Unidade:** 14587933000131-002
+**Nome da Unidade:** Fundo Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Viana - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-11T16:14:44.267848
+**Data de Atualização PNCP:** 2024-09-11T16:14:44.267848
+**Data de Assinatura:** 2024-09-03
+**Início da Vigência:** 2024-09-03
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14587933000131/2024/22/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 91450/2024 - UNIVERSIDADE DE SAO PAULO
+
+**Licitação:** Ata nº 91450/2024
+**Ano:** 2024
+**Objeto da licitação:** Indicador biológico com incubadora em comodato
+**CNPJ do Órgão:** 63025530000104
+**Nome do Órgão:** UNIVERSIDADE DE SAO PAULO
+**Código da Unidade:** 102150
+**Nome da Unidade:** ESP-HOSPITAL UNIVERSITÁRIO - USP
+**Esfera:** Estadual
+**Poder:** Executivo
+**Município:** São Paulo - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T11:12:32.178234
+**Data de Atualização PNCP:** 2024-09-10T11:12:32.178234
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-11
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/63025530000104/2024/154/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 288/2024 - MUNICIPIO DE COLORADO
+
+**Licitação:** Ata nº 288/2024
+**Ano:** 2024
+**Objeto da licitação:** Aquisição de peças e prestação de serviços de manutenção em veículos da frota municipal de Colorado, Estado do Paraná
+**CNPJ do Órgão:** 76970326000103
+**Nome do Órgão:** MUNICIPIO DE COLORADO
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE COLORADO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Colorado - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T14:01:15.853048
+**Data de Atualização PNCP:** 2024-09-12T14:01:15.853048
+**Data de Assinatura:** 2024-07-09
+**Início da Vigência:** 2024-07-09
+**Fim da Vigência:** 2025-07-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/76970326000103/2024/42/10
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 81/2024 - MUNICIPIO DE NOVA ESPERANCA DO SUL
+
+**Licitação:** Ata nº 81/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS VISANDO A FUTURA E EVENTUAL AQUISIÇÃO DE MATERIAIS DE HIGIENE, LIMPEZA E DESCARTÁVEIS PARA O MUNICÍPIO DE NOVA ESPERANÇA DO SUL, RS.
+**CNPJ do Órgão:** 92455393000146
+**Nome do Órgão:** MUNICIPIO DE NOVA ESPERANCA DO SUL
+**Código da Unidade:** 1
+**Nome da Unidade:** MUNICIPIO DE NOVA ESPERANCA DO SUL/RS
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Nova Esperança do Sul - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T08:27:56.316885
+**Data de Atualização PNCP:** 2024-09-12T08:27:56.316885
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-09
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/92455393000146/2024/71/13
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 218/2024 - MUNICIPIO DE MANOEL RIBAS
+
+**Licitação:** Ata nº 218/2024
+**Ano:** 2024
+**Objeto da licitação:** Contratação de empresa para aquisição de MATERIAIS HIDRÁULICOS destinados a área da construção civil, visando atender às necessidades da Prefeitura Municipal de Manoel Ribas/PR.
+**CNPJ do Órgão:** 75740811000128
+**Nome do Órgão:** MUNICIPIO DE MANOEL RIBAS
+**Código da Unidade:** 1
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE MANOEL RIBAS - PR
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Manoel Ribas - PR
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T15:21:01.283403
+**Data de Atualização PNCP:** 2024-09-06T15:21:01.283403
+**Data de Assinatura:** 2024-08-30
+**Início da Vigência:** 2024-08-30
+**Fim da Vigência:** 2025-08-29
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/75740811000128/2024/86/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 47/2024 - MUNICIPIO DE SANTA VITORIA DO PALMAR
+
+**Licitação:** Ata nº 47/2024
+**Ano:** 2024
+**Objeto da licitação:** [Portal de Compras Públicas] - MATERIAL DE LIMPEZA, COPA E COZINHA
+**CNPJ do Órgão:** 88824099000197
+**Nome do Órgão:** MUNICIPIO DE SANTA VITORIA DO PALMAR
+**Código da Unidade:** 02
+**Nome da Unidade:** DEPARTAMENTO DE LICITAÇÕES
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Santa Vitória do Palmar - RS
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T13:58:54.044531
+**Data de Atualização PNCP:** 2024-09-06T13:58:54.044531
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-04
+**Fim da Vigência:** 2025-09-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/88824099000197/2024/103/9
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 56/2424 - MUNICIPIO DE MINISTRO ANDREAZZA
+
+**Licitação:** Ata nº 56/2424
+**Ano:** 2024
+**Objeto da licitação:** [LICITANET] - REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MEDICAMENTO INJETÁVEL PARA ATENDER A DEMANDA DA UNIDADE MISTA DE SAÚDE.
+**CNPJ do Órgão:** 63762074000185
+**Nome do Órgão:** MUNICIPIO DE MINISTRO ANDREAZZA
+**Código da Unidade:** 119
+**Nome da Unidade:** MUNICÍPIO DE MINISTRO ANDREAZZA/RO
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Ministro Andreazza - RO
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-10T08:46:54.003300
+**Data de Atualização PNCP:** 2024-09-10T08:46:54.003300
+**Data de Assinatura:** 2024-09-10
+**Início da Vigência:** 2024-09-12
+**Fim da Vigência:** 2025-09-12
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/63762074000185/2024/126/2
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 000049/2024 - FUNDO MUNICIPAL DE SAUDE DE VIANA
+
+**Licitação:** Ata nº 000049/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO PREÇOS PARA FUTURAS AQUISIÇÕES DE MATERIAIS MÉDICO-HOSPITALARES DIVERSOS (EQUIPO PVC, TORNEIRA 3 VIAS, DISPOSITIVO LUER, ETC), objetivando a reposição dos estoques no almoxarifado para atendimento dos equipamentos públicos de saúde, suprindo as necessidades do Fundo de Saúde, do município de Viana/ES.
+**CNPJ do Órgão:** 14587933000131
+**Nome do Órgão:** FUNDO MUNICIPAL DE SAUDE DE VIANA
+**Código da Unidade:** 14587933000131-002
+**Nome da Unidade:** Fundo Municipal de Saúde
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Viana - ES
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-13T10:23:21.261224
+**Data de Atualização PNCP:** 2024-09-13T10:23:21.261224
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-04
+**Fim da Vigência:** 2025-09-13
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/14587933000131/2024/18/7
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 0153/2024 - MUNICIPIO DE CACONDE
+
+**Licitação:** Ata nº 0153/2024
+**Ano:** 2024
+**Objeto da licitação:** REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA PARA RESSOLAGEM DE PNEUS DA FROTA MUNICIPAL
+**CNPJ do Órgão:** 45767829000152
+**Nome do Órgão:** MUNICIPIO DE CACONDE
+**Código da Unidade:** 020200
+**Nome da Unidade:** ADMINISTRAÇÃO E FINANÇAS
+**Esfera:** Municipal
+**Poder:** Executivo
+**Município:** Caconde - SP
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-06T09:09:37.961345
+**Data de Atualização PNCP:** 2024-09-06T09:09:37.961345
+**Data de Assinatura:** 2024-09-04
+**Início da Vigência:** 2024-09-04
+**Fim da Vigência:** 2025-09-04
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/45767829000152/2024/82/3
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 4/2024 - MUNICIPIO DE IPORA
+
+**Licitação:** Ata nº 4/2024
+**Ano:** 2024
+**Objeto da licitação:** Registro de preços para contratação de empresa para fornecimento de Combustíveis (GASOLINA COMUM, DIESEL S-10 COMUM, DIESEL S500 COMUM) para atender as necessidades do Município de Iporá-Goiás
+**CNPJ do Órgão:** 01157536000188
+**Nome do Órgão:** MUNICIPIO DE IPORA
+**Código da Unidade:** 10
+**Nome da Unidade:** PREFEITURA MUNICIPAL DE IPORA
+**Esfera:** Municipal
+**Poder:** Não se aplica
+**Município:** Iporá - GO
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-12T16:42:47.121201
+**Data de Atualização PNCP:** 2024-09-12T16:42:47.121201
+**Data de Assinatura:** 2024-03-11
+**Início da Vigência:** 2024-03-11
+**Fim da Vigência:** 2025-03-11
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/01157536000188/2024/23/1
+
+## Itens da Licitação
+**Descrição do Item:** 
+**Material ou Serviço:** 
+**Valor Unitário Estimado:** 
+**Quantidade:** 
+
+---
+
+# Licitação Ata nº 00033/2024 - COMANDO DO EXERCITO
+
+**Licitação:** Ata nº 00033/2024
+**Ano:** 2024
+**Objeto da licitação:** Serviço de Tradução Simultânea e Locação de Equipamentos para Tradução Simultânea.
+**CNPJ do Órgão:** 00394452000103
+**Nome do Órgão:** COMANDO DO EXERCITO
+**Código da Unidade:** 160313
+**Nome da Unidade:** ESCOLA DE CMDO E ESTADO-MAIOR DO EXERCITO/RJ
+**Esfera:** Federal
+**Poder:** Executivo
+**Município:** Rio de Janeiro - RJ
+**Modalidade de Licitação:** Pregão - Eletrônico
+**Data de Publicação PNCP:** 2024-09-09T14:29:25.796852
+**Data de Atualização PNCP:** 2024-09-09T14:29:25.796852
+**Data de Assinatura:** 2024-09-09
+**Início da Vigência:** 2024-09-10
+**Fim da Vigência:** 2025-09-10
+**Cancelado:** False
+**Título do Arquivo:** 
+**URI do Arquivo:** 
+**Nomes dos Arquivos:** 
+**Tipo ID:** 1
+**Tipo Nome:** Edital
+**Item URL:** https://pncp.gov.br/atas/00394452000103/2024/15245/1
 
 ## Itens da Licitação
 **Descrição do Item:** 
