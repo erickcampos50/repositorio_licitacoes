@@ -34,20 +34,60 @@
             text-decoration: underline;
         }
 
-        /* Estilos para listas */
-        ul {
-            list-style-type: none;
-            padding: 0;
+        /* Estilos para botões */
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: 2rem;
         }
 
-        li {
-            margin-bottom: 1.5rem;
+        .button {
+            display: inline-block;
+            padding: 1rem 1.5rem;
+            color: #fff;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 0.5rem;
+            font-weight: bold;
+        }
+
+        .button.blue {
+            background-color: #0070f3;
+        }
+
+        .button.green {
+            background-color: #28a745;
+        }
+
+        .button.orange {
+            background-color: #fd7e14;
+        }
+
+        .button.red {
+            background-color: #dc3545;
+        }
+
+        .button:hover {
+            opacity: 0.9;
+        }
+
+        /* Estilos para o rodapé */
+        footer {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ccc;
+            text-align: center;
+            color: #666;
         }
     </style>
 </head>
 <body>
     <div class="container">
         {{ content }}
+        <footer>
+            Desenvolvido e mantido por Erick C. Campos - <a href="mailto:erick.campos@ufjf.br">erick.campos@ufjf.br</a>
+        </footer>
     </div>
 </body>
 </html>
