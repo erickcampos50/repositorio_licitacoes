@@ -42,7 +42,7 @@ def fetch_data(page, last_date):
         "q":"",
         "tipos_documento":"edital",
         "status":"todos"
-
+        #Obs: Uma peculiaridade que notei é que a API fornece somente até 10.000 resultados independente da consulta que seja feita e o montante total de resultados é bem maior do que isso, por isso a ordenação acaba tendo o efeito de gerar uma lista de arquivos diferentes. Como verifiquei que a partir de certo ponto os arquivos ordenados do mais antigo para mais recente e mais recente para mais antigo alcançam uma interseção, eu fiz a raspagem uma única vez utilizando o critério de mais antigos e após isso o padrão é manter a raspagem dos arquivos mais recentes para sempre obter as atualizações.
     }
     
     attempts = 0

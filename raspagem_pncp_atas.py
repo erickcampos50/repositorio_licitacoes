@@ -46,6 +46,7 @@ def fetch_data_new(page, last_date):
         "status": "vigente",
         # "ufs": "MG",
         # "modalidades": "9"
+        #Obs: Uma peculiaridade que notei é que a API fornece somente até 10.000 resultados independente da consulta que seja feita e o montante total de resultados é bem maior do que isso, por isso a ordenação acaba tendo o efeito de gerar uma lista de arquivos diferentes. Como verifiquei que a partir de certo ponto os arquivos ordenados do mais antigo para mais recente e mais recente para mais antigo alcançam uma interseção, eu fiz a raspagem uma única vez utilizando o critério de mais antigos e após isso o padrão é manter a raspagem dos arquivos mais recentes para sempre obter as atualizações.
     }
 
     headers = {
@@ -87,16 +88,16 @@ def save_item_new(item):
 
     :param item: Dados do item a serem salvos.
     """
-    item_id = item.get('id')  # Obter o ID do item (utilizado como nome do arquivo JSON)
-    file_path = os.path.join(OUTPUT_DIR_NEW, f"{item_id}.json")  # Caminho completo do arquivo JSON
+    file_name = item.get('modalidade_licitacao_nome') + "-" + item.get('orgao_cnpj')  # Obter o ID do item (utilizado como nome do arquivo JSON)
+    file_path = os.path.join(OUTPUT_DIR_NEW, f"{file_name}.json")  # Caminho completo do arquivo JSON
 
     # Verificar se o arquivo já existe antes de salvar
     if not os.path.exists(file_path):
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(item, file, ensure_ascii=False, indent=4)  # Salvar o item em formato JSON
-        print(f"Item {item_id} salvo.")
+        print(f"Item {file_name} salvo.")
     else:
-        print(f"Item {item_id} já existe. Pulando...")
+        print(f"Item {file_name} já existe. Pulando...")
 
 def update_log_new(new_date):
     """
