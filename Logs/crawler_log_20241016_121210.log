@@ -1,0 +1,27 @@
+2024-10-16 12:12:10,993 - INFO - Iniciando o crawler com ordenação: mais_recentes e modo: ata_de_registro_de_precos
+2024-10-16 12:12:10,993 - INFO - Processo iniciado pelo usuário.
+2024-10-16 12:12:10,993 - INFO - Carregando IDs existentes em memória.
+2024-10-16 12:12:11,057 - INFO - Carregados 10103 IDs existentes de pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 12:12:11,208 - INFO - Carregados 8333 IDs existentes de pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:12:11,244 - INFO - Carregados 8415 IDs existentes de pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:12:11,244 - INFO - Total de IDs carregados para dados principais: 10103
+2024-10-16 12:12:11,245 - INFO - Total de IDs carregados para itens: 8333
+2024-10-16 12:12:11,245 - INFO - Total de IDs carregados para arquivos: 8415
+2024-10-16 12:12:11,245 - INFO - Buscando dados da página 1.
+2024-10-16 12:12:12,497 - INFO - 20 registros adicionados ao arquivo pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 12:12:12,497 - INFO - Salvos 20 novos itens da página 1.
+2024-10-16 12:12:12,497 - INFO - Progresso: 20 itens processados, 20 novos, 0 duplicados.
+2024-10-16 12:12:13,292 - INFO - Cancelamento solicitado pelo usuário.
+2024-10-16 12:12:13,497 - INFO - Sanitizando arquivos CSV para remover duplicatas.
+2024-10-16 12:12:13,888 - INFO - Arquivo 'pncp_data_ata_de_registro_de_precos.csv' sanitizado. Linhas removidas: 16.
+2024-10-16 12:12:14,971 - INFO - Processo de crawling concluído.
+2024-10-16 12:12:14,971 - INFO - Tempo de execução: 3.98 segundos.
+2024-10-16 12:12:14,971 - INFO - Total de itens processados (dados principais): 20
+2024-10-16 12:12:14,971 - INFO - Novos itens salvos (dados principais): 20
+2024-10-16 12:12:14,971 - INFO - Itens duplicados (não salvos): 0
+2024-10-16 12:12:14,971 - INFO - Número de erros encontrados: 0
+2024-10-16 12:12:14,971 - INFO - Páginas processadas: 1
+2024-10-16 12:12:14,971 - INFO - Parâmetro de ordenação utilizado: mais_recentes
+2024-10-16 12:12:14,971 - INFO - Total de arquivos complementares salvos: 0
+2024-10-16 12:12:14,971 - INFO - Total de linhas duplicadas removidas: 16
+2024-10-16 12:12:14,971 - INFO - Processo de crawling concluído. Verifique os arquivos CSV na pasta 'Dados_CSV' para os resultados.

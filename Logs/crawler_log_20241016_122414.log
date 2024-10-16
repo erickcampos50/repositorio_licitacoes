@@ -1,0 +1,465 @@
+2024-10-16 12:24:14,316 - INFO - Iniciando o crawler com ordenação: mais_recentes e modo: ata_de_registro_de_precos
+2024-10-16 12:24:14,316 - INFO - Processo iniciado pelo usuário.
+2024-10-16 12:24:14,317 - INFO - Carregando IDs existentes em memória.
+2024-10-16 12:24:14,317 - INFO - Total de IDs carregados para dados principais: 0
+2024-10-16 12:24:14,317 - INFO - Total de IDs carregados para itens: 0
+2024-10-16 12:24:14,317 - INFO - Total de IDs carregados para arquivos: 0
+2024-10-16 12:24:14,317 - INFO - Buscando dados da página 1.
+2024-10-16 12:24:15,561 - INFO - Arquivo pncp_data_ata_de_registro_de_precos.csv criado e 50 registros salvos.
+2024-10-16 12:24:15,562 - INFO - Salvos 50 novos itens da página 1.
+2024-10-16 12:24:15,562 - INFO - Progresso: 50 itens processados, 50 novos, 0 duplicados.
+2024-10-16 12:24:16,562 - INFO - Iniciando coleta de dados adicionais (itens e arquivos).
+2024-10-16 12:24:16,562 - INFO - Total de novos itens a serem buscados: 50
+2024-10-16 12:24:16,563 - INFO - Total de novos arquivos a serem buscados: 50
+2024-10-16 12:24:16,568 - INFO - Total de registros para coleta adicional: 50
+2024-10-16 12:24:16,569 - INFO - Iniciando processamento paralelo dos dados adicionais.
+2024-10-16 12:24:16,569 - INFO - Iniciando download de dados adicionais para PNCP 15126437000143-1-002310/2024-000004.
+2024-10-16 12:24:16,570 - INFO - Iniciando download de dados adicionais para PNCP 10806496000149-1-000052/2024-000016.
+2024-10-16 12:24:16,570 - INFO - Buscando itens para PNCP 15126437000143-1-002310/2024-000004.
+2024-10-16 12:24:16,571 - INFO - Buscando itens para PNCP 10806496000149-1-000052/2024-000016.
+2024-10-16 12:24:16,572 - INFO - Iniciando download de dados adicionais para PNCP 35607532000176-1-000035/2024-000023.
+2024-10-16 12:24:16,573 - INFO - Iniciando download de dados adicionais para PNCP 24772220000100-1-000055/2024-000001.
+2024-10-16 12:24:16,573 - INFO - Buscando itens para PNCP 35607532000176-1-000035/2024-000023.
+2024-10-16 12:24:16,574 - INFO - Buscando itens para PNCP 24772220000100-1-000055/2024-000001.
+2024-10-16 12:24:16,576 - INFO - Iniciando download de dados adicionais para PNCP 24772220000100-1-000053/2024-000001.
+2024-10-16 12:24:16,576 - INFO - Buscando itens para PNCP 24772220000100-1-000053/2024-000001.
+2024-10-16 12:24:16,578 - INFO - Iniciando download de dados adicionais para PNCP 24772220000100-1-000048/2024-000003.
+2024-10-16 12:24:16,578 - INFO - Iniciando download de dados adicionais para PNCP 24772220000100-1-000048/2024-000002.
+2024-10-16 12:24:16,578 - INFO - Buscando itens para PNCP 24772220000100-1-000048/2024-000003.
+2024-10-16 12:24:16,578 - INFO - Buscando itens para PNCP 24772220000100-1-000048/2024-000002.
+2024-10-16 12:24:16,579 - INFO - Iniciando download de dados adicionais para PNCP 24772220000100-1-000048/2024-000001.
+2024-10-16 12:24:16,582 - INFO - Iniciando download de dados adicionais para PNCP 33781055000135-1-000711/2024-000003.
+2024-10-16 12:24:16,585 - INFO - Buscando itens para PNCP 33781055000135-1-000711/2024-000003.
+2024-10-16 12:24:16,585 - INFO - Iniciando download de dados adicionais para PNCP 10806496000149-1-000052/2024-000015.
+2024-10-16 12:24:16,586 - INFO - Buscando itens para PNCP 10806496000149-1-000052/2024-000015.
+2024-10-16 12:24:16,585 - INFO - Buscando itens para PNCP 24772220000100-1-000048/2024-000001.
+2024-10-16 12:24:17,088 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,088 - INFO - Salvos 1 itens para PNCP 35607532000176-1-000035/2024-000023.
+2024-10-16 12:24:17,089 - INFO - Buscando arquivos para PNCP 35607532000176-1-000035/2024-000023.
+2024-10-16 12:24:17,090 - INFO - Arquivo pncp_itens_ata_de_registro_de_precos.csv criado e 3 registros salvos.
+2024-10-16 12:24:17,091 - INFO - Salvos 3 itens para PNCP 24772220000100-1-000048/2024-000002.
+2024-10-16 12:24:17,091 - INFO - Buscando arquivos para PNCP 24772220000100-1-000048/2024-000002.
+2024-10-16 12:24:17,097 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,097 - INFO - Salvos 1 itens para PNCP 10806496000149-1-000052/2024-000015.
+2024-10-16 12:24:17,097 - INFO - Buscando arquivos para PNCP 10806496000149-1-000052/2024-000015.
+2024-10-16 12:24:17,216 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,216 - INFO - Salvos 20 itens para PNCP 24772220000100-1-000053/2024-000001.
+2024-10-16 12:24:17,216 - INFO - Buscando arquivos para PNCP 24772220000100-1-000053/2024-000001.
+2024-10-16 12:24:17,220 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,220 - INFO - Salvos 20 itens para PNCP 15126437000143-1-002310/2024-000004.
+2024-10-16 12:24:17,220 - INFO - Buscando arquivos para PNCP 15126437000143-1-002310/2024-000004.
+2024-10-16 12:24:17,231 - INFO - 18 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,232 - INFO - Salvos 18 itens para PNCP 33781055000135-1-000711/2024-000003.
+2024-10-16 12:24:17,232 - INFO - Buscando arquivos para PNCP 33781055000135-1-000711/2024-000003.
+2024-10-16 12:24:17,243 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,244 - INFO - Salvos 20 itens para PNCP 10806496000149-1-000052/2024-000016.
+2024-10-16 12:24:17,245 - INFO - Buscando arquivos para PNCP 10806496000149-1-000052/2024-000016.
+2024-10-16 12:24:17,247 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,247 - INFO - Salvos 20 itens para PNCP 24772220000100-1-000055/2024-000001.
+2024-10-16 12:24:17,247 - INFO - Buscando arquivos para PNCP 24772220000100-1-000055/2024-000001.
+2024-10-16 12:24:17,253 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,255 - INFO - Salvos 20 itens para PNCP 24772220000100-1-000048/2024-000001.
+2024-10-16 12:24:17,255 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,255 - INFO - Buscando arquivos para PNCP 24772220000100-1-000048/2024-000001.
+2024-10-16 12:24:17,256 - INFO - Salvos 20 itens para PNCP 24772220000100-1-000048/2024-000003.
+2024-10-16 12:24:17,256 - INFO - Buscando arquivos para PNCP 24772220000100-1-000048/2024-000003.
+2024-10-16 12:24:17,584 - INFO - Arquivo pncp_arquivos_ata_de_registro_de_precos.csv criado e 1 registros salvos.
+2024-10-16 12:24:17,584 - INFO - Salvos 1 arquivos para PNCP 24772220000100-1-000048/2024-000002.
+2024-10-16 12:24:17,585 - INFO - Iniciando download de dados adicionais para PNCP 13915632000127-1-000087/2024-000006.
+2024-10-16 12:24:17,585 - INFO - Buscando itens para PNCP 13915632000127-1-000087/2024-000006.
+2024-10-16 12:24:17,590 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,590 - INFO - Salvos 1 arquivos para PNCP 35607532000176-1-000035/2024-000023.
+2024-10-16 12:24:17,590 - INFO - Iniciando download de dados adicionais para PNCP 00394544000185-1-001294/2024-000002.
+2024-10-16 12:24:17,591 - INFO - Buscando itens para PNCP 00394544000185-1-001294/2024-000002.
+2024-10-16 12:24:17,606 - INFO - 3 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,606 - INFO - Salvos 3 arquivos para PNCP 10806496000149-1-000052/2024-000015.
+2024-10-16 12:24:17,607 - INFO - Iniciando download de dados adicionais para PNCP 21186804000105-1-000034/2024-000009.
+2024-10-16 12:24:17,607 - INFO - Buscando itens para PNCP 21186804000105-1-000034/2024-000009.
+2024-10-16 12:24:17,716 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,716 - INFO - Salvos 1 arquivos para PNCP 15126437000143-1-002310/2024-000004.
+2024-10-16 12:24:17,717 - INFO - Iniciando download de dados adicionais para PNCP 27080605000196-1-000109/2024-000001.
+2024-10-16 12:24:17,717 - INFO - Buscando itens para PNCP 27080605000196-1-000109/2024-000001.
+2024-10-16 12:24:17,721 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,721 - INFO - Salvos 1 arquivos para PNCP 24772220000100-1-000053/2024-000001.
+2024-10-16 12:24:17,722 - INFO - Iniciando download de dados adicionais para PNCP 35607532000176-1-000035/2024-000022.
+2024-10-16 12:24:17,722 - INFO - Buscando itens para PNCP 35607532000176-1-000035/2024-000022.
+2024-10-16 12:24:17,737 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,737 - INFO - Salvos 1 arquivos para PNCP 33781055000135-1-000711/2024-000003.
+2024-10-16 12:24:17,737 - INFO - Iniciando download de dados adicionais para PNCP 15126437000143-1-002310/2024-000003.
+2024-10-16 12:24:17,738 - INFO - Buscando itens para PNCP 15126437000143-1-002310/2024-000003.
+2024-10-16 12:24:17,744 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,744 - INFO - Salvos 1 arquivos para PNCP 10806496000149-1-000052/2024-000016.
+2024-10-16 12:24:17,747 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,747 - INFO - Iniciando download de dados adicionais para PNCP 75101873000190-1-000253/2024-000005.
+2024-10-16 12:24:17,747 - INFO - Buscando itens para PNCP 75101873000190-1-000253/2024-000005.
+2024-10-16 12:24:17,749 - INFO - Salvos 1 arquivos para PNCP 24772220000100-1-000055/2024-000001.
+2024-10-16 12:24:17,750 - INFO - Iniciando download de dados adicionais para PNCP 75101873000190-1-000253/2024-000004.
+2024-10-16 12:24:17,750 - INFO - Buscando itens para PNCP 75101873000190-1-000253/2024-000004.
+2024-10-16 12:24:17,756 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,758 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:17,759 - INFO - Salvos 1 arquivos para PNCP 24772220000100-1-000048/2024-000001.
+2024-10-16 12:24:17,759 - INFO - Salvos 1 arquivos para PNCP 24772220000100-1-000048/2024-000003.
+2024-10-16 12:24:17,760 - INFO - Iniciando download de dados adicionais para PNCP 13646005000138-1-000145/2024-000002.
+2024-10-16 12:24:17,760 - INFO - Buscando itens para PNCP 13646005000138-1-000145/2024-000002.
+2024-10-16 12:24:17,761 - INFO - Iniciando download de dados adicionais para PNCP 86051398000100-1-000147/2024-000001.
+2024-10-16 12:24:17,762 - INFO - Buscando itens para PNCP 86051398000100-1-000147/2024-000001.
+2024-10-16 12:24:18,078 - INFO - 4 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,078 - INFO - Salvos 4 itens para PNCP 13915632000127-1-000087/2024-000006.
+2024-10-16 12:24:18,078 - INFO - Buscando arquivos para PNCP 13915632000127-1-000087/2024-000006.
+2024-10-16 12:24:18,110 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,110 - INFO - Salvos 1 itens para PNCP 00394544000185-1-001294/2024-000002.
+2024-10-16 12:24:18,110 - INFO - Buscando arquivos para PNCP 00394544000185-1-001294/2024-000002.
+2024-10-16 12:24:18,222 - INFO - 6 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,223 - INFO - Salvos 6 itens para PNCP 27080605000196-1-000109/2024-000001.
+2024-10-16 12:24:18,223 - INFO - Buscando arquivos para PNCP 27080605000196-1-000109/2024-000001.
+2024-10-16 12:24:18,229 - INFO - 2 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,229 - INFO - Salvos 2 itens para PNCP 35607532000176-1-000035/2024-000022.
+2024-10-16 12:24:18,229 - INFO - Buscando arquivos para PNCP 35607532000176-1-000035/2024-000022.
+2024-10-16 12:24:18,251 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,252 - INFO - Salvos 20 itens para PNCP 21186804000105-1-000034/2024-000009.
+2024-10-16 12:24:18,252 - INFO - Buscando arquivos para PNCP 21186804000105-1-000034/2024-000009.
+2024-10-16 12:24:18,262 - INFO - 3 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,262 - INFO - Salvos 3 itens para PNCP 75101873000190-1-000253/2024-000005.
+2024-10-16 12:24:18,262 - INFO - Buscando arquivos para PNCP 75101873000190-1-000253/2024-000005.
+2024-10-16 12:24:18,277 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,278 - INFO - Salvos 1 itens para PNCP 13646005000138-1-000145/2024-000002.
+2024-10-16 12:24:18,279 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,279 - INFO - Buscando arquivos para PNCP 13646005000138-1-000145/2024-000002.
+2024-10-16 12:24:18,279 - INFO - Salvos 1 itens para PNCP 86051398000100-1-000147/2024-000001.
+2024-10-16 12:24:18,280 - INFO - Buscando arquivos para PNCP 86051398000100-1-000147/2024-000001.
+2024-10-16 12:24:18,297 - INFO - 9 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,297 - INFO - Salvos 9 itens para PNCP 75101873000190-1-000253/2024-000004.
+2024-10-16 12:24:18,297 - INFO - Buscando arquivos para PNCP 75101873000190-1-000253/2024-000004.
+2024-10-16 12:24:18,408 - INFO - 17 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,408 - INFO - Salvos 17 itens para PNCP 15126437000143-1-002310/2024-000003.
+2024-10-16 12:24:18,408 - INFO - Buscando arquivos para PNCP 15126437000143-1-002310/2024-000003.
+2024-10-16 12:24:18,573 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,573 - INFO - Salvos 1 arquivos para PNCP 13915632000127-1-000087/2024-000006.
+2024-10-16 12:24:18,574 - INFO - Iniciando download de dados adicionais para PNCP 15126437000143-1-002310/2024-000002.
+2024-10-16 12:24:18,574 - INFO - Buscando itens para PNCP 15126437000143-1-002310/2024-000002.
+2024-10-16 12:24:18,612 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,612 - INFO - Salvos 1 arquivos para PNCP 00394544000185-1-001294/2024-000002.
+2024-10-16 12:24:18,612 - INFO - Iniciando download de dados adicionais para PNCP 75101873000190-1-000253/2024-000003.
+2024-10-16 12:24:18,612 - INFO - Buscando itens para PNCP 75101873000190-1-000253/2024-000003.
+2024-10-16 12:24:18,723 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,724 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,724 - INFO - Salvos 1 arquivos para PNCP 35607532000176-1-000035/2024-000022.
+2024-10-16 12:24:18,724 - INFO - Salvos 1 arquivos para PNCP 27080605000196-1-000109/2024-000001.
+2024-10-16 12:24:18,725 - INFO - Iniciando download de dados adicionais para PNCP 35607532000176-1-000035/2024-000021.
+2024-10-16 12:24:18,725 - INFO - Iniciando download de dados adicionais para PNCP 18668624000147-1-000117/2024-000022.
+2024-10-16 12:24:18,725 - INFO - Buscando itens para PNCP 35607532000176-1-000035/2024-000021.
+2024-10-16 12:24:18,725 - INFO - Buscando itens para PNCP 18668624000147-1-000117/2024-000022.
+2024-10-16 12:24:18,743 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,744 - INFO - Salvos 1 arquivos para PNCP 21186804000105-1-000034/2024-000009.
+2024-10-16 12:24:18,744 - INFO - Iniciando download de dados adicionais para PNCP 35607532000176-1-000035/2024-000020.
+2024-10-16 12:24:18,744 - INFO - Buscando itens para PNCP 35607532000176-1-000035/2024-000020.
+2024-10-16 12:24:18,777 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,777 - INFO - Salvos 1 arquivos para PNCP 86051398000100-1-000147/2024-000001.
+2024-10-16 12:24:18,778 - INFO - Iniciando download de dados adicionais para PNCP 21186804000105-1-000034/2024-000008.
+2024-10-16 12:24:18,778 - INFO - Buscando itens para PNCP 21186804000105-1-000034/2024-000008.
+2024-10-16 12:24:18,784 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,784 - INFO - Salvos 1 arquivos para PNCP 13646005000138-1-000145/2024-000002.
+2024-10-16 12:24:18,784 - INFO - Iniciando download de dados adicionais para PNCP 15126437000143-1-002310/2024-000001.
+2024-10-16 12:24:18,784 - INFO - Buscando itens para PNCP 15126437000143-1-002310/2024-000001.
+2024-10-16 12:24:18,797 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,797 - INFO - Salvos 1 arquivos para PNCP 75101873000190-1-000253/2024-000004.
+2024-10-16 12:24:18,797 - INFO - Iniciando download de dados adicionais para PNCP 45351749000111-1-000156/2024-000003.
+2024-10-16 12:24:18,797 - INFO - Buscando itens para PNCP 45351749000111-1-000156/2024-000003.
+2024-10-16 12:24:18,877 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,877 - INFO - Salvos 1 arquivos para PNCP 75101873000190-1-000253/2024-000005.
+2024-10-16 12:24:18,877 - INFO - Iniciando download de dados adicionais para PNCP 01006232000110-1-000050/2024-000002.
+2024-10-16 12:24:18,877 - INFO - Buscando itens para PNCP 01006232000110-1-000050/2024-000002.
+2024-10-16 12:24:18,901 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:18,901 - INFO - Salvos 1 arquivos para PNCP 15126437000143-1-002310/2024-000003.
+2024-10-16 12:24:18,901 - INFO - Iniciando download de dados adicionais para PNCP 18668624000147-1-000143/2024-000002.
+2024-10-16 12:24:18,901 - INFO - Buscando itens para PNCP 18668624000147-1-000143/2024-000002.
+2024-10-16 12:24:19,112 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,112 - INFO - Salvos 1 itens para PNCP 75101873000190-1-000253/2024-000003.
+2024-10-16 12:24:19,112 - INFO - Buscando arquivos para PNCP 75101873000190-1-000253/2024-000003.
+2024-10-16 12:24:19,230 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/35607532000176/compras/2024/20/itens?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:19,231 - WARNING - Nenhum item encontrado para PNCP 35607532000176-1-000035/2024-000020.
+2024-10-16 12:24:19,231 - INFO - Buscando arquivos para PNCP 35607532000176-1-000035/2024-000020.
+2024-10-16 12:24:19,287 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,287 - INFO - Salvos 1 itens para PNCP 21186804000105-1-000034/2024-000008.
+2024-10-16 12:24:19,287 - INFO - Buscando arquivos para PNCP 21186804000105-1-000034/2024-000008.
+2024-10-16 12:24:19,295 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/45351749000111/compras/2024/3/itens?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:19,296 - WARNING - Nenhum item encontrado para PNCP 45351749000111-1-000156/2024-000003.
+2024-10-16 12:24:19,296 - INFO - Buscando arquivos para PNCP 45351749000111-1-000156/2024-000003.
+2024-10-16 12:24:19,343 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,343 - INFO - Salvos 1 itens para PNCP 15126437000143-1-002310/2024-000002.
+2024-10-16 12:24:19,343 - INFO - Buscando arquivos para PNCP 15126437000143-1-002310/2024-000002.
+2024-10-16 12:24:19,393 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,393 - INFO - Salvos 20 itens para PNCP 18668624000147-1-000117/2024-000022.
+2024-10-16 12:24:19,393 - INFO - Buscando arquivos para PNCP 18668624000147-1-000117/2024-000022.
+2024-10-16 12:24:19,404 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,404 - INFO - Salvos 1 itens para PNCP 18668624000147-1-000143/2024-000002.
+2024-10-16 12:24:19,404 - INFO - Buscando arquivos para PNCP 18668624000147-1-000143/2024-000002.
+2024-10-16 12:24:19,436 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,436 - INFO - Salvos 20 itens para PNCP 35607532000176-1-000035/2024-000021.
+2024-10-16 12:24:19,437 - INFO - Buscando arquivos para PNCP 35607532000176-1-000035/2024-000021.
+2024-10-16 12:24:19,468 - INFO - 3 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,468 - INFO - Salvos 3 itens para PNCP 15126437000143-1-002310/2024-000001.
+2024-10-16 12:24:19,468 - INFO - Buscando arquivos para PNCP 15126437000143-1-002310/2024-000001.
+2024-10-16 12:24:19,587 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,588 - INFO - Salvos 1 itens para PNCP 01006232000110-1-000050/2024-000002.
+2024-10-16 12:24:19,588 - INFO - Buscando arquivos para PNCP 01006232000110-1-000050/2024-000002.
+2024-10-16 12:24:19,615 - INFO - 3 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,615 - INFO - Salvos 3 arquivos para PNCP 75101873000190-1-000253/2024-000003.
+2024-10-16 12:24:19,615 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000011.
+2024-10-16 12:24:19,616 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000011.
+2024-10-16 12:24:19,715 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/35607532000176/compras/2024/20/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:19,715 - WARNING - Nenhum arquivo encontrado para PNCP 35607532000176-1-000035/2024-000020.
+2024-10-16 12:24:19,715 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000010.
+2024-10-16 12:24:19,715 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000010.
+2024-10-16 12:24:19,798 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,798 - INFO - Salvos 1 arquivos para PNCP 21186804000105-1-000034/2024-000008.
+2024-10-16 12:24:19,798 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000009.
+2024-10-16 12:24:19,798 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000009.
+2024-10-16 12:24:19,840 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/45351749000111/compras/2024/3/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:19,840 - WARNING - Nenhum arquivo encontrado para PNCP 45351749000111-1-000156/2024-000003.
+2024-10-16 12:24:19,840 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000008.
+2024-10-16 12:24:19,841 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000008.
+2024-10-16 12:24:19,844 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,844 - INFO - Salvos 1 arquivos para PNCP 15126437000143-1-002310/2024-000002.
+2024-10-16 12:24:19,844 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000007.
+2024-10-16 12:24:19,844 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000007.
+2024-10-16 12:24:19,908 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,908 - INFO - Salvos 1 arquivos para PNCP 18668624000147-1-000143/2024-000002.
+2024-10-16 12:24:19,908 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000006.
+2024-10-16 12:24:19,908 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000006.
+2024-10-16 12:24:19,938 - INFO - 2 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,938 - INFO - Salvos 2 arquivos para PNCP 35607532000176-1-000035/2024-000021.
+2024-10-16 12:24:19,938 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000005.
+2024-10-16 12:24:19,939 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000005.
+2024-10-16 12:24:19,964 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:19,964 - INFO - Salvos 1 arquivos para PNCP 15126437000143-1-002310/2024-000001.
+2024-10-16 12:24:19,965 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000004.
+2024-10-16 12:24:19,965 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000004.
+2024-10-16 12:24:20,042 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,042 - INFO - Salvos 1 arquivos para PNCP 18668624000147-1-000117/2024-000022.
+2024-10-16 12:24:20,042 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000003.
+2024-10-16 12:24:20,042 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000003.
+2024-10-16 12:24:20,088 - INFO - 2 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,089 - INFO - Salvos 2 arquivos para PNCP 01006232000110-1-000050/2024-000002.
+2024-10-16 12:24:20,089 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000002.
+2024-10-16 12:24:20,089 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000002.
+2024-10-16 12:24:20,122 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,122 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000011.
+2024-10-16 12:24:20,122 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000011.
+2024-10-16 12:24:20,223 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,223 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000010.
+2024-10-16 12:24:20,223 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000010.
+2024-10-16 12:24:20,344 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,344 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000008.
+2024-10-16 12:24:20,344 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000008.
+2024-10-16 12:24:20,364 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,364 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000009.
+2024-10-16 12:24:20,365 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000009.
+2024-10-16 12:24:20,419 - INFO - 4 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,419 - INFO - Salvos 4 itens para PNCP 76972074000151-1-000217/2024-000006.
+2024-10-16 12:24:20,420 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000006.
+2024-10-16 12:24:20,474 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,474 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000004.
+2024-10-16 12:24:20,475 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000004.
+2024-10-16 12:24:20,478 - INFO - 3 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,478 - INFO - Salvos 3 itens para PNCP 76972074000151-1-000217/2024-000005.
+2024-10-16 12:24:20,478 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000005.
+2024-10-16 12:24:20,486 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,486 - INFO - Salvos 20 itens para PNCP 76972074000151-1-000217/2024-000007.
+2024-10-16 12:24:20,486 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000007.
+2024-10-16 12:24:20,545 - INFO - 3 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,545 - INFO - Salvos 3 itens para PNCP 76972074000151-1-000217/2024-000003.
+2024-10-16 12:24:20,545 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000003.
+2024-10-16 12:24:20,624 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,625 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000011.
+2024-10-16 12:24:20,625 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,626 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000002.
+2024-10-16 12:24:20,626 - INFO - Iniciando download de dados adicionais para PNCP 76972074000151-1-000217/2024-000001.
+2024-10-16 12:24:20,626 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000002.
+2024-10-16 12:24:20,627 - INFO - Buscando itens para PNCP 76972074000151-1-000217/2024-000001.
+2024-10-16 12:24:20,729 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,729 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000010.
+2024-10-16 12:24:20,730 - INFO - Iniciando download de dados adicionais para PNCP 18668624000147-1-000143/2024-000001.
+2024-10-16 12:24:20,730 - INFO - Buscando itens para PNCP 18668624000147-1-000143/2024-000001.
+2024-10-16 12:24:20,855 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,855 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000008.
+2024-10-16 12:24:20,855 - INFO - Iniciando download de dados adicionais para PNCP 10806496000149-1-000052/2024-000014.
+2024-10-16 12:24:20,855 - INFO - Buscando itens para PNCP 10806496000149-1-000052/2024-000014.
+2024-10-16 12:24:20,858 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,859 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000009.
+2024-10-16 12:24:20,859 - INFO - Iniciando download de dados adicionais para PNCP 33781055000135-1-000711/2024-000002.
+2024-10-16 12:24:20,859 - INFO - Buscando itens para PNCP 33781055000135-1-000711/2024-000002.
+2024-10-16 12:24:20,913 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,913 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000006.
+2024-10-16 12:24:20,913 - INFO - Iniciando download de dados adicionais para PNCP 95782785000108-1-000035/2024-000003.
+2024-10-16 12:24:20,913 - INFO - Buscando itens para PNCP 95782785000108-1-000035/2024-000003.
+2024-10-16 12:24:20,973 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,973 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000004.
+2024-10-16 12:24:20,973 - INFO - Iniciando download de dados adicionais para PNCP 95782785000108-1-000035/2024-000002.
+2024-10-16 12:24:20,973 - INFO - Buscando itens para PNCP 95782785000108-1-000035/2024-000002.
+2024-10-16 12:24:20,978 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:20,978 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000005.
+2024-10-16 12:24:20,979 - INFO - Iniciando download de dados adicionais para PNCP 95782785000108-1-000035/2024-000001.
+2024-10-16 12:24:20,979 - INFO - Buscando itens para PNCP 95782785000108-1-000035/2024-000001.
+2024-10-16 12:24:21,011 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,011 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000007.
+2024-10-16 12:24:21,011 - INFO - Iniciando download de dados adicionais para PNCP 10806496000149-1-000052/2024-000013.
+2024-10-16 12:24:21,011 - INFO - Buscando itens para PNCP 10806496000149-1-000052/2024-000013.
+2024-10-16 12:24:21,050 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,050 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000003.
+2024-10-16 12:24:21,050 - INFO - Iniciando download de dados adicionais para PNCP 75101873000190-1-000253/2024-000002.
+2024-10-16 12:24:21,050 - INFO - Buscando itens para PNCP 75101873000190-1-000253/2024-000002.
+2024-10-16 12:24:21,131 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,131 - INFO - Salvos 1 itens para PNCP 76972074000151-1-000217/2024-000001.
+2024-10-16 12:24:21,131 - INFO - Buscando arquivos para PNCP 76972074000151-1-000217/2024-000001.
+2024-10-16 12:24:21,263 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,264 - INFO - Salvos 1 itens para PNCP 18668624000147-1-000143/2024-000001.
+2024-10-16 12:24:21,264 - INFO - Buscando arquivos para PNCP 18668624000147-1-000143/2024-000001.
+2024-10-16 12:24:21,370 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,370 - INFO - Salvos 1 itens para PNCP 10806496000149-1-000052/2024-000014.
+2024-10-16 12:24:21,370 - INFO - Buscando arquivos para PNCP 10806496000149-1-000052/2024-000014.
+2024-10-16 12:24:21,375 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,375 - INFO - Salvos 1 itens para PNCP 33781055000135-1-000711/2024-000002.
+2024-10-16 12:24:21,375 - INFO - Buscando arquivos para PNCP 33781055000135-1-000711/2024-000002.
+2024-10-16 12:24:21,422 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,422 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,422 - INFO - Salvos 1 itens para PNCP 95782785000108-1-000035/2024-000003.
+2024-10-16 12:24:21,423 - INFO - Buscando arquivos para PNCP 95782785000108-1-000035/2024-000003.
+2024-10-16 12:24:21,423 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000002.
+2024-10-16 12:24:21,424 - INFO - Iniciando download de dados adicionais para PNCP 13646005000138-1-000120/2024-000002.
+2024-10-16 12:24:21,424 - INFO - Buscando itens para PNCP 13646005000138-1-000120/2024-000002.
+2024-10-16 12:24:21,426 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,426 - INFO - Salvos 1 itens para PNCP 13646005000138-1-000120/2024-000002.
+2024-10-16 12:24:21,426 - INFO - Buscando arquivos para PNCP 13646005000138-1-000120/2024-000002.
+2024-10-16 12:24:21,427 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,427 - INFO - Salvos 1 arquivos para PNCP 13646005000138-1-000120/2024-000002.
+2024-10-16 12:24:21,465 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/95782785000108/compras/2024/2/itens?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:21,465 - WARNING - Nenhum item encontrado para PNCP 95782785000108-1-000035/2024-000002.
+2024-10-16 12:24:21,465 - INFO - Buscando arquivos para PNCP 95782785000108-1-000035/2024-000002.
+2024-10-16 12:24:21,492 - INFO - 2 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,492 - INFO - Salvos 2 itens para PNCP 95782785000108-1-000035/2024-000001.
+2024-10-16 12:24:21,492 - INFO - Buscando arquivos para PNCP 95782785000108-1-000035/2024-000001.
+2024-10-16 12:24:21,549 - INFO - 1 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,549 - INFO - Salvos 1 itens para PNCP 75101873000190-1-000253/2024-000002.
+2024-10-16 12:24:21,549 - INFO - Buscando arquivos para PNCP 75101873000190-1-000253/2024-000002.
+2024-10-16 12:24:21,639 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,639 - INFO - Salvos 1 arquivos para PNCP 76972074000151-1-000217/2024-000001.
+2024-10-16 12:24:21,669 - INFO - 20 registros adicionados ao arquivo pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,669 - INFO - Salvos 20 itens para PNCP 10806496000149-1-000052/2024-000013.
+2024-10-16 12:24:21,669 - INFO - Buscando arquivos para PNCP 10806496000149-1-000052/2024-000013.
+2024-10-16 12:24:21,768 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,768 - INFO - Salvos 1 arquivos para PNCP 18668624000147-1-000143/2024-000001.
+2024-10-16 12:24:21,869 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,869 - INFO - Salvos 1 arquivos para PNCP 10806496000149-1-000052/2024-000014.
+2024-10-16 12:24:21,874 - INFO - 6 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,874 - INFO - Salvos 6 arquivos para PNCP 33781055000135-1-000711/2024-000002.
+2024-10-16 12:24:21,919 - INFO - 2 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,919 - INFO - Salvos 2 arquivos para PNCP 95782785000108-1-000035/2024-000003.
+2024-10-16 12:24:21,948 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/95782785000108/compras/2024/2/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 12:24:21,948 - WARNING - Nenhum arquivo encontrado para PNCP 95782785000108-1-000035/2024-000002.
+2024-10-16 12:24:21,993 - INFO - 3 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:21,993 - INFO - Salvos 3 arquivos para PNCP 95782785000108-1-000035/2024-000001.
+2024-10-16 12:24:22,040 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:22,040 - INFO - Salvos 1 arquivos para PNCP 75101873000190-1-000253/2024-000002.
+2024-10-16 12:24:22,185 - INFO - 1 registros adicionados ao arquivo pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:22,185 - INFO - Salvos 1 arquivos para PNCP 10806496000149-1-000052/2024-000013.
+2024-10-16 12:24:22,187 - INFO - Iniciando inspeção de URLs.
+2024-10-16 12:24:22,187 - INFO - Iniciando inspeção de URLs.
+2024-10-16 12:24:22,190 - INFO - Total de URLs a inspecionar para novos IDs: 61
+2024-10-16 12:24:22,191 - INFO - Total de novos itens a serem buscados para inspeção de URLs: 0
+2024-10-16 12:24:22,191 - INFO - Total de novos arquivos a serem buscados para inspeção de URLs: 0
+2024-10-16 12:24:22,191 - INFO - Inspecionando URL 1 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/24772220000100/compras/2024/2/arquivos/1
+2024-10-16 12:24:22,193 - INFO - Inspecionando URL 2 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/35607532000176/compras/2024/23/arquivos/1
+2024-10-16 12:24:22,194 - INFO - Inspecionando URL 3 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/15/arquivos/1
+2024-10-16 12:24:22,195 - INFO - Inspecionando URL 4 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/15/arquivos/2
+2024-10-16 12:24:22,197 - INFO - Inspecionando URL 5 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/15/arquivos/3
+2024-10-16 12:24:22,198 - INFO - Inspecionando URL 6 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/4/arquivos/1
+2024-10-16 12:24:22,200 - INFO - Inspecionando URL 7 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/24772220000100/compras/2024/1/arquivos/1
+2024-10-16 12:24:22,201 - INFO - Inspecionando URL 8 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/3/arquivos/1
+2024-10-16 12:24:22,202 - INFO - Inspecionando URL 9 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/16/arquivos/1
+2024-10-16 12:24:22,202 - INFO - Inspecionando URL 10 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/24772220000100/compras/2024/1/arquivos/1
+2024-10-16 12:24:22,718 - INFO - Inspecionando URL 11 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/24772220000100/compras/2024/1/arquivos/1
+2024-10-16 12:24:22,720 - INFO - Inspecionando URL 12 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/24772220000100/compras/2024/3/arquivos/1
+2024-10-16 12:24:22,722 - INFO - Inspecionando URL 13 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/13915632000127/compras/2024/6/arquivos/1
+2024-10-16 12:24:22,727 - INFO - Inspecionando URL 14 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/00394544000185/compras/2024/2/arquivos/1
+2024-10-16 12:24:22,731 - INFO - Inspecionando URL 15 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/35607532000176/compras/2024/22/arquivos/1
+2024-10-16 12:24:22,737 - INFO - Inspecionando URL 16 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/27080605000196/compras/2024/1/arquivos/1
+2024-10-16 12:24:22,760 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/16/arquivos/1
+2024-10-16 12:24:22,764 - INFO - Inspecionando URL 17 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/9/arquivos/1
+2024-10-16 12:24:22,775 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/4/arquivos/1
+2024-10-16 12:24:22,857 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/3/arquivos/1
+2024-10-16 12:24:23,223 - INFO - Inspecionando URL 18 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/86051398000100/compras/2024/1/arquivos/1
+2024-10-16 12:24:23,247 - INFO - Inspecionando URL 19 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/13646005000138/compras/2024/2/arquivos/1
+2024-10-16 12:24:23,248 - INFO - Inspecionando URL 20 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/4/arquivos/1
+2024-10-16 12:24:23,261 - INFO - Inspecionando URL 21 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/5/arquivos/1
+2024-10-16 12:24:23,297 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/27080605000196/compras/2024/1/arquivos/1
+2024-10-16 12:24:23,312 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/9/arquivos/1
+2024-10-16 12:24:23,334 - INFO - Inspecionando URL 22 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/3/arquivos/1
+2024-10-16 12:24:23,765 - INFO - Inspecionando URL 23 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/3/arquivos/1
+2024-10-16 12:24:23,774 - INFO - Inspecionando URL 24 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/3/arquivos/2
+2024-10-16 12:24:23,831 - INFO - Inspecionando URL 25 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/3/arquivos/3
+2024-10-16 12:24:23,857 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/3/arquivos/1
+2024-10-16 12:24:23,923 - INFO - Inspecionando URL 26 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/8/arquivos/1
+2024-10-16 12:24:24,108 - INFO - Inspecionando URL 27 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/2/arquivos/1
+2024-10-16 12:24:24,211 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/4/arquivos/1
+2024-10-16 12:24:24,281 - INFO - Inspecionando URL 28 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/18668624000147/compras/2024/2/arquivos/1
+2024-10-16 12:24:24,309 - INFO - Inspecionando URL 29 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/35607532000176/compras/2024/21/arquivos/1
+2024-10-16 12:24:24,345 - INFO - Inspecionando URL 30 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/35607532000176/compras/2024/21/arquivos/2
+2024-10-16 12:24:24,411 - INFO - Encontrado arquivo comprimido: Divulgacao.zip em https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/9/arquivos/1
+2024-10-16 12:24:24,423 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/8/arquivos/1
+2024-10-16 12:24:24,444 - INFO - Inspecionando URL 31 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/1/arquivos/1
+2024-10-16 12:24:24,602 - INFO - Inspecionando URL 32 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/18668624000147/compras/2024/22/arquivos/1
+2024-10-16 12:24:24,760 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/2/arquivos/1
+2024-10-16 12:24:24,788 - INFO - Inspecionando URL 33 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/01006232000110/compras/2024/2/arquivos/1
+2024-10-16 12:24:24,851 - INFO - Inspecionando URL 34 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/01006232000110/compras/2024/2/arquivos/2
+2024-10-16 12:24:24,953 - INFO - Inspecionando URL 35 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/11/arquivos/1
+2024-10-16 12:24:24,974 - INFO - Inspecionando URL 36 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/10/arquivos/1
+2024-10-16 12:24:25,066 - ERROR - Erro ao inspecionar conteúdo ZIP da URL https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/9/arquivos/1/Divulgacao.zip: 404 Client Error:  for url: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/9/arquivos/1/Divulgacao.zip
+2024-10-16 12:24:25,066 - INFO - Inspecionando URL 37 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/8/arquivos/1
+2024-10-16 12:24:25,115 - INFO - Inspecionando URL 38 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/9/arquivos/1
+2024-10-16 12:24:25,127 - INFO - Inspecionando URL 39 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/6/arquivos/1
+2024-10-16 12:24:25,317 - INFO - Inspecionando URL 40 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/4/arquivos/1
+2024-10-16 12:24:25,391 - INFO - Inspecionando URL 41 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/5/arquivos/1
+2024-10-16 12:24:25,502 - INFO - Inspecionando URL 42 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/7/arquivos/1
+2024-10-16 12:24:25,510 - INFO - Inspecionando URL 43 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/3/arquivos/1
+2024-10-16 12:24:25,528 - INFO - Encontrado arquivo comprimido: Divulgacao.zip em https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/8/arquivos/1
+2024-10-16 12:24:25,630 - INFO - Inspecionando URL 44 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/2/arquivos/1
+2024-10-16 12:24:25,650 - INFO - Inspecionando URL 45 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/13646005000138/compras/2024/2/arquivos/1
+2024-10-16 12:24:25,678 - INFO - Inspecionando URL 46 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/1/arquivos/1
+2024-10-16 12:24:25,844 - INFO - Inspecionando URL 47 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/18668624000147/compras/2024/1/arquivos/1
+2024-10-16 12:24:25,921 - INFO - Inspecionando URL 48 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/14/arquivos/1
+2024-10-16 12:24:26,012 - ERROR - Erro ao inspecionar conteúdo ZIP da URL https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/8/arquivos/1/Divulgacao.zip: 404 Client Error:  for url: https://pncp.gov.br/pncp-api/v1/orgaos/21186804000105/compras/2024/8/arquivos/1/Divulgacao.zip
+2024-10-16 12:24:26,013 - INFO - Inspecionando URL 49 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/1
+2024-10-16 12:24:26,023 - INFO - Inspecionando URL 50 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/2
+2024-10-16 12:24:26,043 - INFO - Inspecionando URL 51 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/3
+2024-10-16 12:24:26,129 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/2/arquivos/1
+2024-10-16 12:24:26,152 - INFO - Inspecionando URL 52 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/4
+2024-10-16 12:24:26,191 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/76972074000151/compras/2024/1/arquivos/1
+2024-10-16 12:24:26,268 - INFO - Encontrado arquivo comprimido: Edital Pregao Eletronico HC UFPE EBSERH 01.2024.zip em https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/2/arquivos/1
+2024-10-16 12:24:26,344 - INFO - Inspecionando URL 53 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/5
+2024-10-16 12:24:26,441 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/14/arquivos/1
+2024-10-16 12:24:26,523 - INFO - Inspecionando URL 54 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/33781055000135/compras/2024/2/arquivos/6
+2024-10-16 12:24:26,544 - INFO - Inspecionando URL 55 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/95782785000108/compras/2024/3/arquivos/1
+2024-10-16 12:24:26,544 - INFO - Inspecionando URL 56 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/95782785000108/compras/2024/3/arquivos/2
+2024-10-16 12:24:26,622 - INFO - Inspecionando URL 57 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/95782785000108/compras/2024/1/arquivos/1
+2024-10-16 12:24:26,685 - INFO - Inspecionando URL 58 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/95782785000108/compras/2024/1/arquivos/2
+2024-10-16 12:24:26,852 - INFO - Inspecionando URL 59 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/95782785000108/compras/2024/1/arquivos/3
+2024-10-16 12:24:26,893 - ERROR - Erro ao inspecionar conteúdo ZIP da URL https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/2/arquivos/1/Edital Pregao Eletronico HC UFPE EBSERH 01.2024.zip: 404 Client Error:  for url: https://pncp.gov.br/pncp-api/v1/orgaos/15126437000143/compras/2024/2/arquivos/1/Edital%20Pregao%20Eletronico%20HC%20UFPE%20EBSERH%2001.2024.zip
+2024-10-16 12:24:26,894 - INFO - Inspecionando URL 60 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/75101873000190/compras/2024/2/arquivos/1
+2024-10-16 12:24:27,041 - INFO - Inspecionando URL 61 de 61: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/13/arquivos/2
+2024-10-16 12:24:27,524 - ERROR - Erro ao inspecionar conteúdo ZIP da URL https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/14/arquivos/1: File is not a zip file
+2024-10-16 12:24:27,586 - INFO - Inspecionando conteúdo do arquivo comprimido: https://pncp.gov.br/pncp-api/v1/orgaos/10806496000149/compras/2024/13/arquivos/2
+2024-10-16 12:24:28,818 - INFO - Arquivo pncp_url_ata_de_registro_de_precos.csv criado e 61 registros salvos.
+2024-10-16 12:24:28,818 - INFO - Salvos 61 novos registros de URL em pncp_url_ata_de_registro_de_precos.csv.
+2024-10-16 12:24:28,825 - INFO - Sanitizando arquivos CSV para remover duplicatas.
+2024-10-16 12:24:28,860 - INFO - Processo de crawling concluído.
+2024-10-16 12:24:28,860 - INFO - Tempo de execução: 14.54 segundos.
+2024-10-16 12:24:28,860 - INFO - Total de itens processados (dados principais): 50
+2024-10-16 12:24:28,860 - INFO - Novos itens salvos (dados principais): 370
+2024-10-16 12:24:28,861 - INFO - Itens duplicados (não salvos): 0
+2024-10-16 12:24:28,861 - INFO - Número de erros encontrados: 0
+2024-10-16 12:24:28,861 - INFO - Páginas processadas: 1
+2024-10-16 12:24:28,861 - INFO - Parâmetro de ordenação utilizado: mais_recentes
+2024-10-16 12:24:28,861 - INFO - Total de arquivos complementares salvos: 61
+2024-10-16 12:24:28,861 - INFO - Total de linhas duplicadas removidas: 0
+2024-10-16 12:24:28,861 - INFO - Processo de crawling concluído. Verifique os arquivos CSV na pasta 'Dados_CSV' para os resultados.

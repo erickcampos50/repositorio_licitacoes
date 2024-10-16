@@ -1,0 +1,37 @@
+2024-10-16 12:21:58,786 - INFO - Iniciando o crawler com ordenação: mais_recentes e modo: ata_de_registro_de_precos
+2024-10-16 12:21:58,786 - INFO - Processo iniciado pelo usuário.
+2024-10-16 12:21:58,787 - INFO - Carregando IDs existentes em memória.
+2024-10-16 12:21:58,867 - INFO - Carregados 10103 IDs existentes de pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 12:21:59,064 - INFO - Carregados 8333 IDs existentes de pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 12:21:59,102 - INFO - Carregados 8415 IDs existentes de pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 12:21:59,102 - INFO - Total de IDs carregados para dados principais: 10103
+2024-10-16 12:21:59,102 - INFO - Total de IDs carregados para itens: 8333
+2024-10-16 12:21:59,103 - INFO - Total de IDs carregados para arquivos: 8415
+2024-10-16 12:21:59,103 - INFO - Buscando dados da página 1.
+2024-10-16 12:22:00,345 - INFO - 20 registros adicionados ao arquivo pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 12:22:00,345 - INFO - Salvos 20 novos itens da página 1.
+2024-10-16 12:22:00,345 - INFO - Progresso: 20 itens processados, 20 novos, 0 duplicados.
+2024-10-16 12:22:01,346 - INFO - Iniciando coleta de dados adicionais (itens e arquivos).
+2024-10-16 12:22:01,346 - INFO - Total de novos itens a serem buscados: 20
+2024-10-16 12:22:01,346 - INFO - Total de novos arquivos a serem buscados: 20
+2024-10-16 12:22:01,450 - INFO - Total de registros para coleta adicional: 0
+2024-10-16 12:22:01,451 - INFO - Iniciando processamento paralelo dos dados adicionais.
+2024-10-16 12:22:01,451 - INFO - Iniciando inspeção de URLs.
+2024-10-16 12:22:01,451 - INFO - Iniciando inspeção de URLs.
+2024-10-16 12:22:01,477 - INFO - Carregadas 9500 URLs já processadas de pncp_url_ata_de_registro_de_precos.csv.
+2024-10-16 12:22:01,541 - INFO - Total de URLs a inspecionar para novos IDs: 0
+2024-10-16 12:22:01,545 - INFO - Total de novos itens a serem buscados para inspeção de URLs: 0
+2024-10-16 12:22:01,545 - INFO - Total de novos arquivos a serem buscados para inspeção de URLs: 0
+2024-10-16 12:22:01,547 - INFO - Sanitizando arquivos CSV para remover duplicatas.
+2024-10-16 12:22:01,931 - INFO - Arquivo 'pncp_data_ata_de_registro_de_precos.csv' sanitizado. Linhas removidas: 168.
+2024-10-16 12:22:03,113 - INFO - Processo de crawling concluído.
+2024-10-16 12:22:03,114 - INFO - Tempo de execução: 4.33 segundos.
+2024-10-16 12:22:03,114 - INFO - Total de itens processados (dados principais): 20
+2024-10-16 12:22:03,114 - INFO - Novos itens salvos (dados principais): 20
+2024-10-16 12:22:03,114 - INFO - Itens duplicados (não salvos): 0
+2024-10-16 12:22:03,114 - INFO - Número de erros encontrados: 0
+2024-10-16 12:22:03,114 - INFO - Páginas processadas: 1
+2024-10-16 12:22:03,114 - INFO - Parâmetro de ordenação utilizado: mais_recentes
+2024-10-16 12:22:03,114 - INFO - Total de arquivos complementares salvos: 0
+2024-10-16 12:22:03,114 - INFO - Total de linhas duplicadas removidas: 168
+2024-10-16 12:22:03,114 - INFO - Processo de crawling concluído. Verifique os arquivos CSV na pasta 'Dados_CSV' para os resultados.

@@ -1,0 +1,20 @@
+2024-10-16 11:55:39,861 - INFO - Iniciando o crawler com ordenação: mais_recentes e modo: ata_de_registro_de_precos
+2024-10-16 11:55:39,861 - INFO - Processo iniciado pelo usuário.
+2024-10-16 11:55:39,862 - INFO - Carregando IDs existentes em memória.
+2024-10-16 11:55:39,926 - INFO - Carregados 10103 IDs existentes de pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 11:55:40,115 - INFO - Carregados 8328 IDs existentes de pncp_itens_ata_de_registro_de_precos.csv.
+2024-10-16 11:55:40,152 - INFO - Carregados 8307 IDs existentes de pncp_arquivos_ata_de_registro_de_precos.csv.
+2024-10-16 11:55:40,152 - INFO - Total de IDs carregados: 10103
+2024-10-16 11:55:40,152 - INFO - Buscando dados da página 1.
+2024-10-16 11:55:41,836 - INFO - 61 registros adicionados ao arquivo pncp_data_ata_de_registro_de_precos.csv.
+2024-10-16 11:55:41,836 - INFO - Salvos 61 novos itens da página 1.
+2024-10-16 11:55:41,836 - INFO - Progresso: 500 itens processados, 61 novos, 439 duplicados.
+2024-10-16 11:55:42,836 - INFO - Buscando dados da página 2.
+2024-10-16 11:55:44,456 - INFO - Nenhum item novo na página 2.
+2024-10-16 11:55:44,456 - INFO - Progresso: 1000 itens processados, 61 novos, 939 duplicados.
+2024-10-16 11:55:45,457 - INFO - Buscando dados da página 3.
+2024-10-16 11:55:47,076 - INFO - Nenhum item novo na página 3.
+2024-10-16 11:55:47,076 - INFO - Progresso: 1500 itens processados, 61 novos, 1439 duplicados.
+2024-10-16 11:55:48,076 - INFO - Buscando dados da página 4.
+2024-10-16 11:55:49,680 - INFO - Nenhum item novo na página 4.
+2024-10-16 11:55:49,680 - INFO - Progresso: 2000 itens processados, 61 novos, 1939 duplicados.
