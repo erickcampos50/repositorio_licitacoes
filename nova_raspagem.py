@@ -12,13 +12,14 @@ import zipfile
 from urllib.parse import urlparse
 from io import BytesIO
 import argparse
+import pandas as pd
 
 # Configurações
 API_URL = "https://pncp.gov.br/api/search/"
-TAM_PAGINA = 10
+TAM_PAGINA = 500
 DELAY = 1
-MAX_RETRIES = 3
-MAX_PAGES = 2
+MAX_RETRIES = 1
+MAX_PAGES = 21
 MAX_THREADS = 10
 
 # Criação de pastas para logs e dados
@@ -40,6 +41,7 @@ error_count = 0
 start_time = None
 items_saved = 0
 arquivos_saved = 0
+removed_duplicates = 0
 
 # Flag para controle de cancelamento
 cancel_flag = False
@@ -284,6 +286,23 @@ def process_urls(modo):
             print(f"Salvos {len(new_data)} novos registros de URL em {url_filename}")
             new_data = []  # Clear the list after saving
 
+def sanitize_csv_files():
+    global removed_duplicates
+    for filename in os.listdir(data_dir):
+        if filename.endswith('.csv'):
+            file_path = os.path.join(data_dir, filename)
+            try:
+                df = pd.read_csv(file_path, delimiter='\t', encoding='utf-8')
+                before_dedup = len(df)
+                df = df.drop_duplicates()
+                after_dedup = len(df)
+                removed_duplicates += (before_dedup - after_dedup)
+                df.to_csv(file_path, sep='\t', index=False, encoding='utf-8')
+                print(f"Arquivo '{filename}' sanitizado. Linhas removidas: {before_dedup - after_dedup}")
+            except Exception as e:
+                logging.error(f"Erro ao sanitizar o arquivo {filename}: {str(e)}")
+                print(f"Erro ao sanitizar o arquivo {filename}: {str(e)}")
+
 def main():
     global total_items, new_items, duplicate_items, start_time, cancel_flag, items_saved
 
@@ -360,6 +379,8 @@ def main():
             print("\nIniciando inspeção de URLs...")
             process_urls(modo)
 
+    sanitize_csv_files()
+
     end_time = time.time()
     execution_time = end_time - start_time
     
@@ -372,6 +393,7 @@ def main():
     print(f"Páginas processadas: {page}")
     print(f"Parâmetro de ordenação utilizado: {args.ordenacao}")
     print(f"Total de arquivos complementares salvos: {arquivos_saved}")
+    print(f"Total de linhas duplicadas removidas: {removed_duplicates}")
     print("Para mais detalhes, consulte o arquivo de log.")
 
     logging.info("Processo de crawling concluído")
