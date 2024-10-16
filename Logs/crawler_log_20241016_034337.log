@@ -970,3 +970,12 @@
 2024-10-16 04:16:30,470 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/03452315000168/compras/2024/3/itens?pagina=1&tamanhoPagina=20
 2024-10-16 04:16:31,826 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/03452315000168/compras/2024/3/arquivos?pagina=1&tamanhoPagina=20
 2024-10-16 04:16:31,942 - ERROR - Erro na tentativa 1 para arquivos: Expecting value: line 1 column 1 (char 0)
+2024-10-16 04:16:35,502 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/76105634000170/compras/2024/8/itens?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:35,502 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/22812960000199/compras/2024/1/itens?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:36,397 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/22812960000199/compras/2024/1/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:36,406 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/76105634000170/compras/2024/8/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:37,961 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/12986520000102/compras/2024/8/itens?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:39,482 - ERROR - Erro na tentativa 1 para itens: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/12986520000102/compras/2024/7/itens?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:39,518 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/12986520000102/compras/2024/8/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:40,968 - ERROR - Erro na tentativa 1 para arquivos: 404 Client Error: Not Found for url: https://pncp.gov.br/api/pncp/v1/orgaos/12986520000102/compras/2024/7/arquivos?pagina=1&tamanhoPagina=20
+2024-10-16 04:16:49,048 - INFO - Processo de crawling concluído
