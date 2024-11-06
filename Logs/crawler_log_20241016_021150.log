@@ -1,9 +1,0 @@
-2024-10-16 02:13:01,431 - ERROR - Erro na tentativa 1 para a página 21: 400 Client Error: Bad Request for url: https://pncp.gov.br/api/search/?pagina=21&tam_pagina=500&ordenacao=-data&q=&tipos_documento=edital&status=todos
-2024-10-16 02:13:02,916 - ERROR - Erro na tentativa 2 para a página 21: 400 Client Error: Bad Request for url: https://pncp.gov.br/api/search/?pagina=21&tam_pagina=500&ordenacao=-data&q=&tipos_documento=edital&status=todos
-2024-10-16 02:13:02,916 - ERROR - Falha após 2 tentativas para a página 21
-2024-10-16 02:25:43,380 - ERROR - Erro na tentativa 1 para arquivos: Expecting value: line 1 column 1 (char 0)
-2024-10-16 02:25:44,895 - ERROR - Erro na tentativa 2 para arquivos: Expecting value: line 1 column 1 (char 0)
-2024-10-16 02:27:55,446 - ERROR - Erro na tentativa 1 para arquivos: Expecting value: line 1 column 1 (char 0)
-2024-10-16 02:27:56,977 - ERROR - Erro na tentativa 2 para arquivos: Expecting value: line 1 column 1 (char 0)
-2024-10-16 02:35:19,972 - ERROR - Erro na tentativa 1 para arquivos: Expecting value: line 1 column 1 (char 0)
-2024-10-16 02:35:21,483 - ERROR - Erro na tentativa 2 para arquivos: Expecting value: line 1 column 1 (char 0)

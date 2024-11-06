@@ -1,4 +1,0 @@
-2024-10-14 14:51:26,243 - ERROR - Erro na tentativa 1 para a página 21: 400 Client Error: Bad Request for url: https://pncp.gov.br/api/search/?pagina=21&tam_pagina=500&ordenacao=-data&q=&tipos_documento=edital&status=todos
-2024-10-14 14:51:36,801 - ERROR - Erro na tentativa 2 para a página 21: 400 Client Error: Bad Request for url: https://pncp.gov.br/api/search/?pagina=21&tam_pagina=500&ordenacao=-data&q=&tipos_documento=edital&status=todos
-2024-10-14 14:51:47,369 - ERROR - Erro na tentativa 3 para a página 21: 400 Client Error: Bad Request for url: https://pncp.gov.br/api/search/?pagina=21&tam_pagina=500&ordenacao=-data&q=&tipos_documento=edital&status=todos
-2024-10-14 14:51:47,369 - ERROR - Falha após 3 tentativas para a página 21

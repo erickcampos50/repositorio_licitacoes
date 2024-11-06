@@ -2,10 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Script para raspagem de dados de licitações do PNCP (Portal Nacional de Contratações Públicas)
-Autor: Seu Nome
-Data: AAAA-MM-DD
-Descrição: Este script realiza a raspagem de dados de licitações, itens e arquivos disponibilizados pela API do PNCP.
+Script para raspagem de dados de licitações do PNCP (Portal Nacional de Contratações Públicas). Este script realiza a raspagem de dados de licitações, itens e arquivos disponibilizados pela API do PNCP.
 """
 
 # Importação das bibliotecas necessárias
@@ -320,7 +317,7 @@ async def fetch_detalhes(registros, data_type, config):
             numero_sequencial = registro.get('numero_sequencial')
             numero_controle_pncp = registro.get('numero_controle_pncp')
 
-            if not all([orgao_cnpj, ano, numero_sequencial]):
+            if not all([orgao_cnpj, ano, numero_sequencial, numero_controle_pncp]):
                 logging.warning(f"Dados incompletos para a licitação '{numero_controle_pncp}'. Pulando...")
                 if config['verbose']:
                     print(f"Aviso: Dados incompletos para a licitação '{numero_controle_pncp}'. Pulando...")
@@ -339,7 +336,6 @@ async def fetch_detalhes(registros, data_type, config):
         for numero_controle_pncp, task in tasks:
             detalhe = await task
             if detalhe:
-                # Corrigindo o erro: Verifica se 'detalhe' é um dict ou list
                 if isinstance(detalhe, dict):
                     itens = detalhe.get('items', [])
                 elif isinstance(detalhe, list):
@@ -349,6 +345,11 @@ async def fetch_detalhes(registros, data_type, config):
                     logging.warning(f"Formato inesperado da resposta para '{numero_controle_pncp}'.")
                     if config['verbose']:
                         print(f"Aviso: Formato inesperado da resposta para '{numero_controle_pncp}'.")
+                
+                # Adiciona o numero_controle_pncp a cada item
+                for item in itens:
+                    item['numero_controle_pncp'] = numero_controle_pncp
+                
                 detalhes_list.extend(itens)
                 logging.info(f"Requisição de {data_type} para '{numero_controle_pncp}' bem-sucedida.")
                 if config['verbose']:
@@ -361,6 +362,7 @@ async def fetch_detalhes(registros, data_type, config):
             print(f"Requisição de {data_type} concluída para '{numero_controle_pncp}' ({completed_tasks}/{total_tasks})")
 
     return detalhes_list
+
 
 # ---------------------------- Módulo de Processamento de Dados ---------------------------- #
 
@@ -388,7 +390,7 @@ def process_licitacoes(respostas, df_licitacoes):
 
     # df_novo = pd.DataFrame(registros)
     # Convertendo o JSON para DataFrame e formatando a coluna 'numero_sequencial' como inteiro em uma única linha
-    df_novo = pd.DataFrame(registros).assign(numero_sequencial=lambda x: pd.to_numeric(x['numero_sequencial'], errors='coerce'))
+    df_novo = pd.DataFrame(registros)
 
 
     if df_novo.empty:
