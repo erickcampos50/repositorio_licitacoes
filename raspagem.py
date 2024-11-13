@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#%%
 """
 Script para raspagem de dados de licitações do PNCP (Portal Nacional de Contratações Públicas). Este script realiza a raspagem de dados de licitações, itens e arquivos disponibilizados pela API do PNCP.
 """
@@ -16,7 +16,12 @@ import pandas as pd
 import random
 import sys
 import time
+import zipfile
+import rarfile
+import py7zr
+import tempfile
 
+#%%
 # ---------------------------- Módulo de Configuração ---------------------------- #
 
 def load_config(args):
@@ -39,6 +44,7 @@ def load_config(args):
     # Atualiza as configurações com os argumentos da CLI, se fornecidos
     config_dict = {
         'pagina_inicial': int(args.pagina_inicial or default_config.get('pagina_inicial', 1)),
+        'pagina_final': int(args.pagina_final or default_config.get('pagina_final', 20)),
         'tam_pagina': int(args.tam_pagina or default_config.get('tam_pagina', 500)),
         'ordenacao': (args.ordenacao or default_config.get('ordenacao', 'data,-data,relevancia')).split(','),
         'tipos_documento': (args.tipos_documento or default_config.get('tipos_documento', 'edital,ata')).split(','),
@@ -62,7 +68,8 @@ def parse_arguments():
         args: Argumentos analisados.
     """
     parser = argparse.ArgumentParser(description='Script para raspagem de dados de licitações do PNCP.')
-    parser.add_argument('--pagina-inicial', type=int, help='Página inicial para iniciar a raspagem.')
+    parser.add_argument('--pagina-inicial', type=int, help='Página     inicial para iniciar a raspagem.')
+    parser.add_argument('--pagina-final', type=int, help='Página final para concluir a raspagem.')
     parser.add_argument('--tam-pagina', type=int, help='Tamanho da página (número de registros por requisição).')
     parser.add_argument('--ordenacao', type=str, help='Critério de ordenação dos registros.')
     parser.add_argument('--tipos-documento', type=str, help='Tipos de documento a serem buscados (edital, ata ou ambos).')
@@ -117,6 +124,7 @@ def setup_directories():
         'main_directory': main_directory,
         'licitacoes_csv': os.path.join(main_directory, 'licitacoes.csv'),
         'itens_csv': os.path.join(main_directory, 'itens.csv'),
+        'resultados_csv': os.path.join(main_directory, 'resultados.csv'),
         'arquivos_csv': os.path.join(main_directory, 'arquivos.csv'),
         'log_file': os.path.join(main_directory, 'raspagem_pncp.log')
     }
@@ -124,7 +132,6 @@ def setup_directories():
     return paths
 
 # ---------------------------- Módulo de Armazenamento ---------------------------- #
-
 def load_dataframes(paths):
     """
     Carrega os dataframes existentes ou cria novos se não existirem.
@@ -141,11 +148,12 @@ def load_dataframes(paths):
     df_licitacoes = pd.DataFrame()
     df_itens = pd.DataFrame()
     df_arquivos = pd.DataFrame()
+    df_resultados = pd.DataFrame()
 
     # Tenta carregar os dataframes existentes
     try:
         if os.path.exists(paths['licitacoes_csv']):
-            df_licitacoes = pd.read_csv(paths['licitacoes_csv'])
+            df_licitacoes = pd.read_csv(paths['licitacoes_csv'], dtype=str,sep='\t')
             # Verifica se as colunas de controle existem, se não, as cria
             if 'detalhes_baixados' not in df_licitacoes.columns:
                 df_licitacoes['detalhes_baixados'] = False
@@ -160,17 +168,30 @@ def load_dataframes(paths):
 
     try:
         if os.path.exists(paths['itens_csv']):
-            df_itens = pd.read_csv(paths['itens_csv'])
+            df_itens = pd.read_csv(paths['itens_csv'], dtype=str,sep='\t')
+            # Verifica se a coluna 'Resultados verificados' existe, se não, a cria
+            if 'Resultados verificados' not in df_itens.columns:
+                df_itens['Resultados verificados'] = False
+                logging.info("Coluna 'Resultados verificados' adicionada ao DataFrame de itens.")
+                # Salva o DataFrame atualizado para garantir que a coluna exista no CSV
+                df_itens.to_csv(paths['itens_csv'], index=False,sep='\t')
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['itens_csv']}: {str(e)}")
 
     try:
+        if os.path.exists(paths['resultados_csv']):
+            df_resultados = pd.read_csv(paths['resultados_csv'],sep='\t')
+    except Exception as e:
+        logging.error(f"Erro ao carregar {paths['resultados_csv']}: {str(e)}")
+
+
+    try:
         if os.path.exists(paths['arquivos_csv']):
-            df_arquivos = pd.read_csv(paths['arquivos_csv'])
+            df_arquivos = pd.read_csv(paths['arquivos_csv'],sep='\t')
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['arquivos_csv']}: {str(e)}")
 
-    return df_licitacoes, df_itens, df_arquivos
+    return df_licitacoes, df_itens, df_arquivos, df_resultados
 
 def save_dataframes(df_licitacoes, df_itens, df_arquivos, paths):
     """
@@ -183,19 +204,19 @@ def save_dataframes(df_licitacoes, df_itens, df_arquivos, paths):
         paths: Dicionário com os caminhos dos arquivos.
     """
     try:
-        df_licitacoes.to_csv(paths['licitacoes_csv'], index=False)
+        df_licitacoes.to_csv(paths['licitacoes_csv'], index=False,sep='\t')
         logging.info(f"DataFrame de licitações salvo em {paths['licitacoes_csv']}.")
     except Exception as e:
         logging.error(f"Erro ao salvar {paths['licitacoes_csv']}: {str(e)}")
 
     try:
-        df_itens.to_csv(paths['itens_csv'], index=False)
+        df_itens.to_csv(paths['itens_csv'], index=False,sep='\t')
         logging.info(f"DataFrame de itens salvo em {paths['itens_csv']}.")
     except Exception as e:
         logging.error(f"Erro ao salvar {paths['itens_csv']}: {str(e)}")
 
     try:
-        df_arquivos.to_csv(paths['arquivos_csv'], index=False)
+        df_arquivos.to_csv(paths['arquivos_csv'], index=False,sep='\t')
         logging.info(f"DataFrame de arquivos salvo em {paths['arquivos_csv']}.")
     except Exception as e:
         logging.error(f"Erro ao salvar {paths['arquivos_csv']}: {str(e)}")
@@ -280,16 +301,16 @@ async def fetch_licitacoes(tipos_documento, ordenacao, pages, config):
                         "status": "todos"
                     }
                     task = asyncio.create_task(limited_fetch(semaphore, session, base_url, params, config))
-                    tasks.append((tipo, page, task))
+                    tasks.append((tipo, page, ordem, task))
 
         total_tasks = len(tasks)
         completed_tasks = 0
-        for tipo, page, task in tasks:
+        for tipo, page, ordem, task in tasks:
             response = await task
             responses.append(response)
             completed_tasks += 1
-            print(f"Requisição concluída: Tipo Documento='{tipo}', Página={page} ({completed_tasks}/{total_tasks})")
-            logging.info(f"Requisição concluída: Tipo Documento='{tipo}', Página={page}")
+            print(f"Requisição concluída: Tipo Documento='{tipo}', Ordenação='{ordem}', Página={page} ({completed_tasks}/{total_tasks})")
+            logging.info(f"Requisição concluída: Tipo Documento='{tipo}', Ordenação='{ordem}', Página={page} ({completed_tasks}/{total_tasks})")
 
     return responses
 
@@ -329,11 +350,11 @@ async def fetch_detalhes(registros, data_type, config):
                 "tamanhoPagina": 20
             }
             task = asyncio.create_task(limited_fetch(semaphore, session, url, params, config))
-            tasks.append((numero_controle_pncp, task))
+            tasks.append((numero_controle_pncp, orgao_cnpj, ano, numero_sequencial, task))
 
         total_tasks = len(tasks)
         completed_tasks = 0
-        for numero_controle_pncp, task in tasks:
+        for numero_controle_pncp, orgao_cnpj, ano, numero_sequencial, task in tasks:
             detalhe = await task
             if detalhe:
                 if isinstance(detalhe, dict):
@@ -349,6 +370,10 @@ async def fetch_detalhes(registros, data_type, config):
                 # Adiciona o numero_controle_pncp a cada item
                 for item in itens:
                     item['numero_controle_pncp'] = numero_controle_pncp
+                    item['orgao_cnpj'] = orgao_cnpj
+                    item['ano'] = ano
+                    item['numero_sequencial'] = numero_sequencial
+                    item['Resultados verificados'] = False  # Adiciona a nova coluna com valor False
                 
                 detalhes_list.extend(itens)
                 logging.info(f"Requisição de {data_type} para '{numero_controle_pncp}' bem-sucedida.")
@@ -364,6 +389,89 @@ async def fetch_detalhes(registros, data_type, config):
     return detalhes_list
 
 
+
+async def fetch_resultados(registros, config):
+    """
+    Realiza as requisições dos resultados de forma assíncrona.
+
+    Args:
+        df_itens: DataFrame de itens para os quais os resultados serão buscados.
+        config: Configurações do sistema.
+
+    Returns:
+        resultados_list: Lista de resultados obtidos.
+    """
+    base_url = "https://pncp.gov.br/api/pncp/v1/orgaos/"
+    semaphore = asyncio.Semaphore(config['numero_maximo_conexoes'])
+    tasks = []
+    resultados_list = []
+
+    # Extrai as colunas necessárias do DataFrame
+    orgao_cnpj = registros['orgao_cnpj']
+    ano = registros['ano']
+    numero_sequencial = registros['numero_sequencial']
+    numero_controle_pncp = registros['numero_controle_pncp']
+
+    # Verifica se todas as colunas necessárias estão presentes
+    if not all(col in registros.columns for col in ['orgao_cnpj', 'ano', 'numero_sequencial', 'numero_controle_pncp']):
+        logging.warning("Dados incompletos para os itens. Pulando...")
+        if config['verbose']:
+            print("Aviso: Dados incompletos para os itens. Pulando...")
+        return []
+
+    async with aiohttp.ClientSession() as session:
+        for idx, row in registros.iterrows():
+            orgao_cnpj = row['orgao_cnpj']
+            ano = row['ano']
+            numero_sequencial = row['numero_sequencial']
+            numero_controle_pncp = row['numero_controle_pncp']
+            numeroItem = row['numeroItem']
+
+            if not all([orgao_cnpj, ano, numero_sequencial, numero_controle_pncp]):
+                logging.warning(f"Dados incompletos para o item '{numero_controle_pncp}'. Pulando...")
+                if config['verbose']:
+                    print(f"Aviso: Dados incompletos para o item '{numero_controle_pncp}'. Pulando...")
+                continue
+
+            url = f"{base_url}{orgao_cnpj}/compras/{ano}/{numero_sequencial}/itens/{numeroItem}/resultados"
+            params = {
+                "pagina": 1,
+                "tamanhoPagina": 20
+            }
+            task = asyncio.create_task(limited_fetch(semaphore, session, url, params, config))
+            tasks.append((numero_controle_pncp, task))
+
+        total_tasks = len(tasks)
+        completed_tasks = 0
+        for numero_controle_pncp, task in tasks:
+            subitem = await task
+            if subitem:
+                if isinstance(subitem, dict):
+                    resultados = subitem.get('items', [])
+                elif isinstance(subitem, list):
+                    resultados = subitem
+                else:
+                    resultados = []
+                    logging.warning(f"Formato inesperado da resposta para o item '{numero_controle_pncp}'.")
+                    if config['verbose']:
+                        print(f"Aviso: Formato inesperado da resposta para o item '{numero_controle_pncp}'.")
+                
+                # Adiciona o numero_controle_pncp a cada subitem
+                for sub in resultados:
+                    sub['numero_controle_pncp'] = numero_controle_pncp
+                
+                resultados_list.extend(resultados)
+                logging.info(f"Requisição de resultados para o item '{numero_controle_pncp}' bem-sucedida.")
+                if config['verbose']:
+                    print(f"Requisição de resultados para o item '{numero_controle_pncp}' bem-sucedida.")
+            else:
+                logging.error(f"Requisição de resultados para o item '{numero_controle_pncp}' falhou.")
+                if config['verbose']:
+                    print(f"Erro: Requisição de resultados para o item '{numero_controle_pncp}' falhou.")
+            completed_tasks += 1
+            print(f"Requisição de resultados concluída para o item '{numero_controle_pncp}' ({completed_tasks}/{total_tasks})")
+
+    return resultados_list
 # ---------------------------- Módulo de Processamento de Dados ---------------------------- #
 
 def process_licitacoes(respostas, df_licitacoes):
@@ -410,41 +518,39 @@ def process_licitacoes(respostas, df_licitacoes):
     logging.info(f"{len(df_novo)} novas licitações adicionadas.")
     return df_licitacoes
 
-def process_detalhes(detalhes_list, df_detalhes, data_type):
+def processar_detalhes_registros(registros, df_existente, tipo_registro):
     """
-    Processa os detalhes (itens ou arquivos) e atualiza o dataframe correspondente.
+    Processa os registros detalhados, removendo duplicatas e combinando com os dados existentes.
 
-    Args:
-        detalhes_list: Lista de detalhes obtidos.
-        df_detalhes: DataFrame de detalhes (itens ou arquivos).
-        data_type: Tipo de detalhe ('itens' ou 'arquivos') para logging.
+    Parâmetros:
+        registros (list): Lista de registros detalhados a serem processados.
+        df_existente (pd.DataFrame): DataFrame existente com dados anteriores.
+        tipo_registro (str): Tipo do registro para fins de logging e contexto.
 
-    Returns:
-        df_detalhes: DataFrame atualizado.
+    Retorna:
+        pd.DataFrame: DataFrame consolidado com os registros processados.
     """
-    if not detalhes_list:
-        logging.info(f"Nenhum detalhe de {data_type} foi obtido.")
-        return df_detalhes
+    df_registros = pd.DataFrame(registros)
 
-    df_novo = pd.DataFrame(detalhes_list)
+    # Inspeciona e ajusta colunas que contenham dicionários
+    for coluna in df_registros.columns:
+        if df_registros[coluna].apply(lambda x: isinstance(x, dict)).any():
+            logging.warning(f"Coluna {coluna} contém dicionários. Convertendo para string.")
+            df_registros[coluna] = df_registros[coluna].apply(str)  # Converte dicionários para strings
 
-    if df_novo.empty:
-        logging.info(f"DataFrame novo de {data_type} está vazio.")
-        return df_detalhes
+    # Remove duplicatas
+    df_registros.drop_duplicates(inplace=True)
 
-    # Concatena e remove duplicatas
-    df_detalhes = pd.concat([df_detalhes, df_novo], ignore_index=True)
-    df_detalhes.drop_duplicates(inplace=True)
+    # Combina com o DataFrame existente
+    if not df_existente.empty:
+        df_registros = pd.concat([df_existente, df_registros]).drop_duplicates()
 
-    logging.info(f"{len(df_novo)} novos {data_type} adicionados.")
-    return df_detalhes
+    logging.info(f"Processamento de registros do tipo '{tipo_registro}' concluído. Total: {len(df_registros)} registros.")
+    return df_registros
+
+
 
 ## ---------------------------- Módulo de Verificação de Arquivos Compactados ---------------------------- #
-
-import zipfile
-import rarfile
-import py7zr
-import tempfile
 
 async def verify_compressed_files(paths, config):
     """
@@ -458,7 +564,7 @@ async def verify_compressed_files(paths, config):
     """
     # Carrega o DataFrame de arquivos
     try:
-        df_arquivos = pd.read_csv(paths['arquivos_csv'])
+        df_arquivos = pd.read_csv(paths['arquivos_csv'],sep='\t')
         logging.info(f"DataFrame de arquivos carregado de {paths['arquivos_csv']}.")
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['arquivos_csv']}: {str(e)}")
@@ -472,7 +578,7 @@ async def verify_compressed_files(paths, config):
             print("Coluna 'verificacao_arquivos' adicionada ao DataFrame de arquivos.")
         # Salva o DataFrame atualizado para garantir que a coluna exista no CSV
         try:
-            df_arquivos.to_csv(paths['arquivos_csv'], index=False)
+            df_arquivos.to_csv(paths['arquivos_csv'], index=False,sep='\t')
             logging.info(f"DataFrame de arquivos salvo com a nova coluna em {paths['arquivos_csv']}.")
             if config['verbose']:
                 print(f"DataFrame de arquivos salvo com a nova coluna em '{paths['arquivos_csv']}'.")
@@ -584,7 +690,7 @@ async def verify_compressed_files(paths, config):
 
     # Salva o DataFrame atualizado de volta para o CSV
     try:
-        df_arquivos.to_csv(paths['arquivos_csv'], index=False)
+        df_arquivos.to_csv(paths['arquivos_csv'], index=False,sep='\t')
         logging.info(f"DataFrame de arquivos atualizado salvo em {paths['arquivos_csv']}.")
         if config['verbose']:
             print(f"Verificação de arquivos compactados concluída e salva em '{paths['arquivos_csv']}'.")
@@ -621,15 +727,15 @@ def main():
     logging.info("Iniciando raspagem de licitações.")
 
     # Carrega os dataframes existentes ou cria novos
-    df_licitacoes, df_itens, df_arquivos = load_dataframes(paths)
+    df_licitacoes, df_itens, df_arquivos, df_resultados = load_dataframes(paths)
 
     # Define as páginas a serem requisitadas (por exemplo, da página inicial até a 20)
-    pages = list(range(config['pagina_inicial'], config['pagina_inicial'] + 20))
+    pages = list(range(config['pagina_inicial'], config['pagina_final']))
 
     # Realiza as requisições principais de forma assíncrona
     loop = asyncio.get_event_loop()
     try:
-        respostas = loop.run_until_complete(fetch_licitacoes(config['tipos_documento'], config['ordenacao'],pages, config))
+        respostas = loop.run_until_complete(fetch_licitacoes(config['tipos_documento'], config['ordenacao'], pages, config))
     except Exception as e:
         logging.critical(f"Erro durante a requisição das licitações: {str(e)}")
         if config['verbose']:
@@ -656,127 +762,118 @@ def main():
         if config['verbose']:
             print(f"Iniciando requisições de itens para {len(registros_pendentes_itens)} licitações...")
         logging.info(f"Iniciando requisições de itens para {len(registros_pendentes_itens)} licitações.")
-        detalhes_itens = loop.run_until_complete(fetch_detalhes(registros_pendentes_itens, 'itens', config))
-        df_itens = process_detalhes(detalhes_itens, df_itens, 'itens')
-        df_licitacoes.loc[df_licitacoes['detalhes_baixados'] == False, 'detalhes_baixados'] = True
+        
+        for i in range(0, len(registros_pendentes_itens), 500):
+            lote = registros_pendentes_itens[i:i + 500]
+            if config['verbose']:
+                print(f"Processando lote de itens {i + 1} a {min(i + 500, len(registros_pendentes_itens))}...")
+            logging.info(f"Processando lote de itens {i + 1} a {min(i + 500, len(registros_pendentes_itens))}...")
+            
+            # Processa o lote
+            detalhes_itens = loop.run_until_complete(fetch_detalhes(lote, 'itens', config))
+            df_itens = processar_detalhes_registros(detalhes_itens, df_itens, 'itens')
+            
+            # Atualiza o DataFrame e salva progresso
+            df_licitacoes.loc[df_licitacoes['detalhes_baixados'] == False, 'detalhes_baixados'] = True
+            save_dataframes(df_licitacoes, df_itens, df_arquivos, paths)
     else:
         if config['verbose']:
             print("Nenhum registro pendente para itens.")
         logging.info("Nenhum registro pendente para itens.")
+
+    # Realiza as requisições de resultados de cada um dos itens
+    if not df_itens.empty:
+        if 'Resultados verificados' not in df_itens.columns:
+            df_itens['Resultados verificados'] = False
+            df_itens.to_csv(paths['itens_csv'], index=False, sep='\t')
+            logging.info("Coluna 'Resultados verificados' adicionada ao DataFrame de itens.")
+
+        registros_itens = df_itens[df_itens['Resultados verificados'].astype(str) == 'False']
+        if not registros_itens.empty:
+            if config['verbose']:
+                print(f"Iniciando requisições de resultados para {len(registros_itens)} itens...")
+            logging.info(f"Iniciando requisições de resultados para {len(registros_itens)} itens.")
+            
+            for i in range(0, len(registros_itens), 500):
+                lote = registros_itens.iloc[i:i + 500]
+                if config['verbose']:
+                    print(f"Processando lote de resultados {i + 1} a {min(i + 500, len(registros_itens))}...")
+                logging.info(f"Processando lote de resultados {i + 1} a {min(i + 500, len(registros_itens))}...")
+                
+                # Processa o lote
+                resultados = loop.run_until_complete(fetch_resultados(lote, config))
+                df_resultados = processar_detalhes_registros(resultados, pd.DataFrame(), 'resultados')
+                
+                # Salva os resultados em um arquivo CSV separado (acrescenta ao arquivo existente)
+                resultados_path = os.path.join(paths['main_directory'], 'resultados.csv')
+                if os.path.exists(resultados_path):
+                    df_resultados.to_csv(resultados_path, mode='a', header=False, index=False,sep='\t')
+                else:
+                    df_resultados.to_csv(resultados_path, index=False,sep='\t')
+                
+                # Atualiza a coluna 'Resultados verificados' para True para os itens processados
+                df_itens.loc[lote.index, 'Resultados verificados'] = True
+                
+                # Salva o dataframe de itens atualizado após cada lote
+                df_itens.to_csv(paths['itens_csv'], index=False,sep='\t')
+        else:
+            if config['verbose']:
+                print("Nenhum item pendente para buscar resultados.")
+            logging.info("Nenhum item pendente para buscar resultados.")
+    else:
+        if config['verbose']:
+            print("Nenhum item para buscar resultados.")
+        logging.info("Nenhum item para buscar resultados.")
+
+
 
     # Realiza as requisições de arquivos
     if registros_pendentes_arquivos:
         if config['verbose']:
             print(f"Iniciando requisições de arquivos para {len(registros_pendentes_arquivos)} licitações...")
         logging.info(f"Iniciando requisições de arquivos para {len(registros_pendentes_arquivos)} licitações.")
-        detalhes_arquivos = loop.run_until_complete(fetch_detalhes(registros_pendentes_arquivos, 'arquivos', config))
-        df_arquivos = process_detalhes(detalhes_arquivos, df_arquivos, 'arquivos')
-        df_licitacoes.loc[df_licitacoes['documentos_baixados'] == False, 'documentos_baixados'] = True
+        
+        for i in range(0, len(registros_pendentes_arquivos), 500):
+            lote = registros_pendentes_arquivos[i:i + 500]
+            if config['verbose']:
+                print(f"Processando lote de arquivos {i + 1} a {min(i + 500, len(registros_pendentes_arquivos))}...")
+            logging.info(f"Processando lote de arquivos {i + 1} a {min(i + 500, len(registros_pendentes_arquivos))}...")
+            
+            # Processa o lote
+            detalhes_arquivos = loop.run_until_complete(fetch_detalhes(lote, 'arquivos', config))
+            df_arquivos = processar_detalhes_registros(detalhes_arquivos, df_arquivos, 'arquivos')
+            
+            # Atualiza o DataFrame e salva progresso
+            df_licitacoes.loc[df_licitacoes['documentos_baixados'] == False, 'documentos_baixados'] = True
+            save_dataframes(df_licitacoes, df_itens, df_arquivos, paths)
     else:
         if config['verbose']:
             print("Nenhum registro pendente para arquivos.")
         logging.info("Nenhum registro pendente para arquivos.")
 
-    # Salva os dataframes atualizados
-    save_dataframes(df_licitacoes, df_itens, df_arquivos, paths)
-
-    # -----------------------------------------------------------------------
-    # Carrega o DataFrame de arquivos antes da verificação para contar pendentes
-    try:
-        df_arquivos_before = pd.read_csv(paths['arquivos_csv'])
-        logging.info(f"DataFrame de arquivos carregado de {paths['arquivos_csv']} antes da verificação.")
-    except Exception as e:
-        logging.error(f"Erro ao carregar {paths['arquivos_csv']} antes da verificação: {str(e)}")
-        df_arquivos_before = pd.DataFrame()
-
-    # Verifica se a coluna 'verificacao_arquivos' existe, se não, cria com False
-    if 'verificacao_arquivos' not in df_arquivos_before.columns:
-        df_arquivos_before['verificacao_arquivos'] = False
-        logging.info("Coluna 'verificacao_arquivos' adicionada ao DataFrame de arquivos antes da verificação.")
-        if config['verbose']:
-            print("Coluna 'verificacao_arquivos' adicionada ao DataFrame de arquivos.")
-        # Salva o DataFrame atualizado para garantir que a coluna exista no CSV
-        try:
-            df_arquivos_before.to_csv(paths['arquivos_csv'], index=False)
-            logging.info(f"DataFrame de arquivos salvo com a nova coluna em {paths['arquivos_csv']}.")
-            if config['verbose']:
-                print(f"DataFrame de arquivos salvo com a nova coluna em '{paths['arquivos_csv']}'.")
-        except Exception as e:
-            logging.error(f"Erro ao salvar {paths['arquivos_csv']} após adicionar a coluna 'verificacao_arquivos': {str(e)}")
-            if config['verbose']:
-                print(f"Erro ao salvar a coluna 'verificacao_arquivos' em '{paths['arquivos_csv']}'.")
-            sys.exit(1)
-
-    # Filtra os arquivos compactados que ainda não foram verificados
-    extensoes_compactadas = ('.zip', '.rar', '.7zip')
-    if not df_arquivos_before.empty:
-        try:
-            # Converter 'verificacao_arquivos' para booleano
-            df_arquivos_before['verificacao_arquivos'] = df_arquivos_before['verificacao_arquivos'].fillna(False).astype(bool)
-            mask_before = df_arquivos_before['titulo'].str.lower().str.endswith(extensoes_compactadas) & (~df_arquivos_before['verificacao_arquivos'])
-            total_pendentes_verificacao = mask_before.sum()
-        except KeyError as e:
-            logging.error(f"Erro ao criar máscara para 'verificacao_arquivos': {str(e)}")
-            if config['verbose']:
-                print(f"Erro: Coluna 'verificacao_arquivos' não encontrada.")
-            total_pendentes_verificacao = 0
-        except TypeError as e:
-            logging.error(f"Erro ao converter 'verificacao_arquivos' para booleano: {str(e)}")
-            if config['verbose']:
-                print(f"Erro: Conversão da coluna 'verificacao_arquivos' para booleano falhou.")
-            total_pendentes_verificacao = 0
-    else:
-        total_pendentes_verificacao = 0
 
     # Executa a verificação dos arquivos compactados
     loop.run_until_complete(verify_compressed_files(paths, config))
-
-    # Carrega o DataFrame de arquivos após a verificação para contar verificações realizadas
-    try:
-        df_arquivos_after = pd.read_csv(paths['arquivos_csv'])
-        logging.info(f"DataFrame de arquivos carregado de {paths['arquivos_csv']} após a verificação.")
-    except Exception as e:
-        logging.error(f"Erro ao carregar {paths['arquivos_csv']} após a verificação: {str(e)}")
-        df_arquivos_after = pd.DataFrame()
-
-    # Calcula o número de arquivos verificados nesta execução
-    if not df_arquivos_before.empty and not df_arquivos_after.empty:
-        try:
-            verificacao_realizada = ((~df_arquivos_before['verificacao_arquivos']) & (df_arquivos_after['verificacao_arquivos']))
-            total_verificados = verificacao_realizada.sum()
-        except KeyError as e:
-            logging.error(f"Erro ao calcular 'verificacao_realizada': {str(e)}")
-            if config['verbose']:
-                print(f"Erro: Coluna 'verificacao_arquivos' não encontrada durante o cálculo.")
-            total_verificados = 0
-    else:
-        total_verificados = 0
-
-    # Log e print sobre a verificação dos arquivos compactados
-    if config['verbose']:
-        print(f"Verificação de arquivos compactados concluída. {total_verificados} arquivos foram verificados.")
-    logging.info(f"Verificação de arquivos compactados concluída. {total_verificados} arquivos foram verificados.")
-    # -----------------------------------------------------------------------
 
     # Exibe o resumo da execução
     total_licitacoes = len(df_licitacoes)
     total_itens = len(df_itens)
     total_arquivos = len(df_arquivos)
+    total_resultados = len(df_resultados)
 
     if config['verbose']:
         print("Raspagem concluída com sucesso!")
         print(f"Total de licitações processadas: {total_licitacoes}")
         print(f"Total de itens baixados: {total_itens}")
+        print(f"Total de resultados de itens baixados: {total_resultados}")
         print(f"Total de arquivos baixados: {total_arquivos}")
-        print(f"Total de arquivos compactados verificados: {total_verificados}")  # Adicionado
         print(f"Logs detalhados podem ser encontrados em '{paths['log_file']}'")
 
     logging.info("Raspagem concluída com sucesso.")
     logging.info(f"Total de licitações processadas: {total_licitacoes}")
     logging.info(f"Total de itens baixados: {total_itens}")
     logging.info(f"Total de arquivos baixados: {total_arquivos}")
-    logging.info(f"Total de arquivos compactados verificados: {total_verificados}")  # Adicionado
-
 
 if __name__ == '__main__':
     main()
+
