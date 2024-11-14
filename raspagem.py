@@ -180,14 +180,14 @@ def load_dataframes(paths):
 
     try:
         if os.path.exists(paths['resultados_csv']):
-            df_resultados = pd.read_csv(paths['resultados_csv'],sep='\t')
+            df_resultados = pd.read_csv(paths['resultados_csv'],dtype=str,sep='\t')
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['resultados_csv']}: {str(e)}")
 
 
     try:
         if os.path.exists(paths['arquivos_csv']):
-            df_arquivos = pd.read_csv(paths['arquivos_csv'],sep='\t')
+            df_arquivos = pd.read_csv(paths['arquivos_csv'],dtype=str,sep='\t')
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['arquivos_csv']}: {str(e)}")
 
@@ -564,7 +564,7 @@ async def verify_compressed_files(paths, config):
     """
     # Carrega o DataFrame de arquivos
     try:
-        df_arquivos = pd.read_csv(paths['arquivos_csv'],sep='\t')
+        df_arquivos = pd.read_csv(paths['arquivos_csv'],dtype=str,sep='\t')
         logging.info(f"DataFrame de arquivos carregado de {paths['arquivos_csv']}.")
     except Exception as e:
         logging.error(f"Erro ao carregar {paths['arquivos_csv']}: {str(e)}")
